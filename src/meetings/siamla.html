@@ -1,0 +1,41 @@
+---
+title: Conferences
+subtitle: SIAM Conference on Linear Algebra
+layout: conference
+nav: conf
+conf: siam-la
+---
+
+<p>
+  The SIAM Conference on Applied Linear Algebra takes
+  place every three years.
+  The <a href="business.html">SIAM Activity Group on Linear Algebra
+  Business Meeting</a> is always held at the conference.
+</p>
+
+<div class="pure-g">
+  {% for blurb in site.meetings reversed %}
+  {% if blurb.type == "siam-la" %}
+  {% assign yr = blurb.start_date | date: "%Y" %}
+  {% assign sm = blurb.start_date | date: "%B" %}
+  {% assign em = blurb.end_date | date: "%B" %}
+  <div class="pure-u-1 pure-u-md-1-5 pure-u-lg-1-8">
+    <h3>{{ yr }}</h3>
+  </div>
+  <div class="pure-u-1 pure-u-md-4-5 pure-u-lg-7-8">
+    <p>
+      {% if blurb.page %}<a href="{{ blurb.page }}">{{ blurb.title }}</a>{% else %}{{ blurb.title }}{% endif %},<br/>
+      {{ blurb.where }}, 
+      {% if sm == em %}
+      {{ blurb.start_date | date: "%B %-d" }}-{{ blurb.end_date | date: "%-d"}}.
+      {% else %}
+      {{ blurb.start_date | date: "%B %-d" }}-{{ blurb.end_date | date: "%B %-d"}}.
+      {% endif %}
+    </p>
+
+    {{ blurb.output }}
+    
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>

@@ -1,0 +1,53 @@
+---
+title: Conferences
+subtitle: Upcoming meetings
+layout: conference
+nav: conf
+conf: upcoming
+---
+
+<div class="pure-g">
+  {% assign prevyr = "0000" %}
+  {% for blurb in site.meetings %}
+  {% if blurb.start_date > site.time %}
+  {% assign yr = blurb.start_date | date: "%Y" %}
+  {% assign sm = blurb.start_date | date: "%B" %}
+  {% assign em = blurb.end_date | date: "%B" %}
+  <div class="pure-u-1 pure-u-md-1-5 pure-u-lg-1-8">
+    {% if yr != prevyr %}
+    <h3>{{ yr }}</h3>
+    {% endif %}
+    {% assign prevyr = yr %}
+  </div>
+  <div class="pure-u-1 pure-u-md-4-5 pure-u-lg-7-8">
+    <p>
+      {% if blurb.page %}<h4><a href="{{ blurb.page }}">{{ blurb.title }}</a></h4>{% else %}<h4>{{ blurb.title }}</h4>{% endif %}
+      {{ blurb.where }},
+      {% if sm == em %}
+      {{ blurb.start_date | date: "%B %-d" }}-{{ blurb.end_date | date: "%-d"}}.
+      {% elsif em %}
+      {{ blurb.start_date | date: "%B %-d" }}-{{ blurb.end_date | date: "%B %-d"}}.
+      {% else %}
+      {{ blurb.start_date | date: "%B %-d" }}.
+      {% endif %}<br/>
+      {% case blurb.type %}
+      {% when "siam-la" %}
+      Organized by SIAG/LA.
+      {% when "issnla" %}
+      Organized by SIAG/LA.
+      {% when "organized" %}
+      Organized by SIAG/LA.
+      {% when "sponsored" %}
+      Sponsored by SIAG/LA.
+      {% when "cooperation" %}
+      In cooperation with SIAG/LA.
+      {% endcase %}
+    </p>
+
+    {{ blurb.output }}
+    
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+

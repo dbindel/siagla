@@ -1,0 +1,117 @@
+---
+title: Conferences
+layout: conference
+nav: conf
+conf: index
+---
+
+<p>
+  The SIAM Activity Group on Linear Algebra organizes conferences and
+  supports smaller, less formal meetings as requested by the
+  membership.  The <a href="siamla.html">SIAM Conference on Applied
+  Linear Algebra</a> takes place every three years. The last meeting
+  was held in June 2012 in Valencia, Spain. The next meeting will be
+  held in Atlanta, Georgia, October 26 - 30, 2015.
+  The <a href="business.html">SIAM Activity Group on Linear Algebra
+  Business Meeting</a> is always held at
+  the <a href="siamla.html">SIAM Conference on Linear Algebra</a>.
+  The <a href="summer.html">International Summer School on Numerical
+  Linear Algebra</a> takes place every three years (from 2010). The
+  last meeting was in July 2013 at Fudan Unifersity, Shanghai, China.
+  We maintain information on <a href="upcoming.html">recent and upcoming
+    meetings</a> that may be of interest to the members of the activity
+  group; an index of these meetings and other meetings that have been
+  sponsored by the Activity Group is provided below.
+</p>
+
+
+<h2><a name="conference">Upcoming meetings</a></h2>
+
+<div class="pure-g">
+  {% assign prevyr = "0000" %}
+  {% for blurb in site.meetings %}
+  {% if blurb.start_date > site.time %}
+  {% assign yr = blurb.start_date | date: "%Y" %}
+  {% assign sm = blurb.start_date | date: "%B" %}
+  {% assign em = blurb.end_date | date: "%B" %}
+  <div class="pure-u-1 pure-u-md-1-5 pure-u-lg-1-8">
+    {% if yr != prevyr %}
+    <h3>{{ yr }}</h3>
+    {% endif %}
+    {% assign prevyr = yr %}
+  </div>
+  <div class="pure-u-1 pure-u-md-4-5 pure-u-lg-7-8">
+    <p>
+      {% if blurb.page %}<a href="{{ blurb.page }}">{{ blurb.title }}</a>{% else %}{{ blurb.title }}{% endif %},<br/>
+      {{ blurb.where }},
+      {% if sm == em %}
+      {{ blurb.start_date | date: "%B %-d" }}-{{ blurb.end_date | date: "%-d"}}.
+      {% elsif em %}
+      {{ blurb.start_date | date: "%B %-d" }}-{{ blurb.end_date | date: "%B %-d"}}.
+      {% else %}
+      {{ blurb.start_date | date: "%B %-d" }}.
+      {% endif %}<br/>
+      {% case blurb.type %}
+      {% when "siam-la" %}
+      Organized by SIAG/LA.
+      {% when "issnla" %}
+      Organized by SIAG/LA.
+      {% when "organized" %}
+      Organized by SIAG/LA.
+      {% when "sponsored" %}
+      Sponsored by SIAG/LA.
+      {% when "cooperation" %}
+      In cooperation with SIAG/LA.
+      {% endcase %}
+    </p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+
+<h2><a name="conference">Past meetings</a></h2>
+
+<div class="pure-g">
+  {% assign prevyr = "0000" %}
+  {% for blurb in site.meetings reversed %}
+  {% if blurb.start_date < site.time %}
+  {% assign yr = blurb.start_date | date: "%Y" %}
+  {% assign sm = blurb.start_date | date: "%B" %}
+  {% assign em = blurb.end_date | date: "%B" %}
+  <div class="pure-u-1 pure-u-md-1-5 pure-u-lg-1-8">
+    {% if yr != prevyr %}
+    <h3>{{ yr }}</h3>
+    {% endif %}
+    {% assign prevyr = yr %}
+  </div>
+  <div class="pure-u-1 pure-u-md-4-5 pure-u-lg-7-8">
+    <p>
+      {% if blurb.page %}<a href="{{ blurb.page }}">{{ blurb.title }}</a>{% else %}{{ blurb.title }}{% endif %},<br/>
+      {{ blurb.where }},
+      {% if sm == em %}
+      {{ blurb.start_date | date: "%B %-d" }}-{{ blurb.end_date | date: "%-d"}}.
+      {% elsif em %}
+      {{ blurb.start_date | date: "%B %-d" }}-{{ blurb.end_date | date: "%B %-d"}}.
+      {% else %}
+      {{ blurb.start_date | date: "%B %-d" }}.
+      {% endif %}<br/>
+      {% case blurb.type %}
+      {% when "siam-la" %}
+      Organized by SIAG/LA.
+      {% when "issnla" %}
+      Organized by SIAG/LA.
+      {% when "organized" %}
+      Organized by SIAG/LA.
+      {% when "sponsored" %}
+      Sponsored by SIAG/LA.
+      {% when "cooperation" %}
+      In cooperation with SIAG/LA.
+      {% endcase %}
+    </p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+

@@ -9,12 +9,24 @@
     <a class="pure-menu-heading" href="#">{{ site.title }}</a>
     
     <ul>
-      <li><a href="{{ site.baseurl }}index.html">Home</a></li>
-      <li><a href="{{ site.baseurl }}about.html">About</a></li>
-      <li><a href="{{ site.baseurl }}meetings.html">Conferences</a></li>
-      <li><a href="{{ site.baseurl }}news.html">Newsletter</a></li>
-      <li><a href="{{ site.baseurl }}prizes.html">Prizes</a></li>
-      <li><a href="{{ site.baseurl }}related.html">Related</a></li>
+      <li{% if page.nav == "index" %} class="pure-menu-selected"{% endif %}>
+        <a href="{{ site.baseurl }}index.html">Home</a>
+      </li>
+      <li{% if page.nav == "about" %} class="pure-menu-selected"{% endif %}>
+        <a href="{{ site.baseurl }}about.html">About</a>
+      </li>
+      <li{% if page.nav == "conf" %} class="pure-menu-selected"{% endif %}>
+        <a href="{{ site.baseurl }}meetings/">Conferences</a>
+      </li>
+      <li{% if page.nav == "news" %} class="pure-menu-selected"{% endif %}>
+        <a href="{{ site.baseurl }}news.html">Newsletter</a>
+      </li>
+      <li{% if page.nav == "prizes" %} class="pure-menu-selected"{% endif %}>
+        <a href="{{ site.baseurl }}prizes.html">Prizes</a>
+      </li>
+      <li{% if page.nav == "links" %} class="pure-menu-selected"{% endif %}>
+        <a href="{{ site.baseurl }}related.html">Related</a>
+      </li>
     </ul>
   </div>
 </div>
