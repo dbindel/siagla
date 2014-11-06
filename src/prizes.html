@@ -22,90 +22,46 @@ prize committee, on a topic in applicable linear
 algebra published in English in a peer-reviewed
 journal.</p>
 
-<h3>2012</h3>
+<div class="pure-g">
+  {% assign prevyr = "0000" %}
+  {% for prize in site.data.prizes %}
+  <div class="pure-u-1 pure-u-md-1-5 pure-u-lg-1-8">
+  {% if prize.year != prevyr %}
+    <h3>{{ prize.year }}</h3>
+  {% endif %}
+  </div>
+  {% assign prevyr = prize.year %}
+  <div class="pure-u-1 pure-u-md-4-5 pure-u-lg-7-8">
+    <p>
+      {{ prize.awardees }}
+      {% if prize.papers %}
+      for
+      {% assign conjunction = "" %}
+      {% for paper in prize.papers %}
+      {{ conjunction }}
+      <a href="{{ paper.url }}">"{{ paper.title }}"</a>,
+      {% if paper.journal == "simax" %}
+      SIAM Journal on Matrix Analysis and Applications,
+      {% elsif paper.journal == "sisc" %}
+      SIAM Journal on Scientific Computing,
+      {% else %}
+      {{ paper.journal }},
+      {% endif %}
+      {{ paper.volume }}: {{ paper.pages }}
+      ({{ paper.year }}){% assign conjunction = " and " %}{% endfor %}.
+      {% endif %}
+    </p>
+  </div>
+  {% endfor %}
+</div>
 
-<p>The prize was awarded to <b>Sou-Cheng Choi</b>,
-<b>Christopher Paige</b>, and <b>Michael
-Saunders</b> for their paper <b><q>MINRES-QLP: A
-Krylov Subspace Method for Indefinite or Singular
-Symmetric Systems,</q></b> SIAM Journal on
-Scientific Computing, 33:1810-1836, 2011, and to
-<b>Grey Ballard</b>, <b>James Demmel</b>, <b>Olga
-Holtz</b>, and <b>Oded Schwartz</b> for their paper
-<b><q>Minimizing Communication in Numerical Linear
-Algebra,</q></b> SIAM Journal on Matrix Analysis
-and Applications, 32:866-901, 2011.</p>
-
-                <!--The SIAG/LA will present the award at the <a href="conference.html">SIAM Conference on Applied Linear Algebra</a>, to be held in Valencia, Spain, June 18-22, 2012.</p>
-<P>
-<b>Eligibility</b></p>
-<P>
-Candidate papers must be published in English in a peer-reviewed journal
-bearing a publication date between January 1, 2009 and December 31,
-2011.  The papers must contain significant research contributions to the
-field of linear algebra, as commonly defined in the mathematical
-literature, with direct or potential applications.</p>
-<P>
-<b>Description of the Award</b></p>
-<P>
-The award consists of a plaque and a certificate containing the
-citation.  The awardee (in the case of multiple authors, at least one of
-the awardees) is expected to attend the award ceremony and to present
-the paper at the meeting.</p>
-<P>
-<b>Nominations</b></p>
-<P>
-Nominations are no longer being accepted: the closing date for nominations was 15 October, 2011.
-</p>
-<P>
-<b>Selection Committee</b></p>
-<P>
-Members of the selection committee are: 
-<ul>
-<li>Andreas Frommer (Chair),Bergische Universitaet Wuppertal, Germany; 
-<li>Zlatko Drmac, University of Zagreb, Croatia; 
-<li>Steve Kirkland, National University of Ireland,
-Maynooth; 
-<li>Dianne O'Leary, University of Maryland; 
-<li>Beresford Parlett, University of California at Berkeley.
-</ul>-->
-
-<h3>2009</h3>
-
-<p>The Prize was awarded to <b>Zlatko
-Drma&#269;</b> and <b>Kre&#353;imir
-Veseli&#263;</b> for their paper <b><q>New Fast and
-Accurate Jacobi SVD Algorithm, Parts I-II</q></b>,
-SIAM Journal on Matrix Analysis and Applications,
-29 (4), pp. 1322-1342 and 1343-1362 (2008).</p>
-
-<h3>2006</h3>
-
-<p>The Prize was awarded to <b>Inderjit Dhillon</b>
-and <b>Beresford Parlett</b> for their paper
-<b><q>Orthogonal Eigenvectors and Relative
-Gaps</q></b>, SIAM. Journal on Matrix Analysis
-&amp; Applications 25, 858 (2003).</p>
-
-<h3>2003</h3>
-
-<p>The Prize was awarded to <b>Karen Braman</b>,
-<b>Ralph Byers</b> and <b>Roy Mathias</b> for their
-paper <b><q>The Multishift QR Algorithm. Part II:
-Aggressive Early Deflation</q></b>, SIAM J. Matrix
-Anal. Appl., vol. 23, no. 4, pp 948-973 (2002).</p>
-
-<p>Information about earlier recipients of the
-Prize is not currently available.</p><br>
 
 <h4>SIAM Activity Group on Linear Algebra Poster
 Competition</h4>
 
-<p>This <a target="_blank" href=
-"http://www.siam.org/books/ot63/laposter.htm">SIAM
-Activity Group on Linear Algebra Poster Prize
-<span style="display:none">(opens in new
-window)</span></a> is awarded for the best
-poster(s) at the triennial SIAM Conference on
-Linear Algebra.</p><br>
+<p>
+  The <a href="http://www.siam.org/books/ot63/laposter.htm">SIAM
+  Activity Group on Linear Algebra Poster Prize</a> is awarded for the
+  best poster(s) at the triennial SIAM Conference on Linear Algebra.
+</p>
 

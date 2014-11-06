@@ -9,7 +9,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 #github_username:  jekyll
 
 collections:
-- meetings
+ - meetings
 
 # Build settings
 markdown: kramdown

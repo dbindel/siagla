@@ -2,23 +2,6 @@
 title: About us
 layout: default
 nav: about
-officers:
- - office: Chair
-   name: Danny Sorensen
-   url: http://www.caam.rice.edu/~sorensen/
-   email: sorensen@rice.edu
- - office: Vice Chair
-   name: James Nagy
-   url: http://www.mathcs.emory.edu/~nagy/
-   email: nagy@mathcs.emory.edu
- - office: Program Directory
-   name: Francoise Tisseur
-   url: http://www.maths.manchester.ac.uk/~ftisseur/
-   email: ftisseur@ma.man.ac.uk
- - office: Secretary
-   name: David Bindel
-   url: http://www.cs.cornell.edu/~bindel
-   email: bindel@cs.cornell.edu
 ---
 
 <p>
@@ -52,7 +35,7 @@ officers:
 
 <table cellpadding="5">
   <tbody>
-    {% for officer in page.officers %}
+    {% for officer in site.data.officers %}
     <tr>
     <td align="right">{{ officer.office }}:</td>
     <td>
