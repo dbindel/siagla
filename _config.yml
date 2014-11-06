@@ -1,0 +1,17 @@
+# Site settings
+title: SIAG-LA
+email: bindel@cornell.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Web site of the SIAM Activity Group on Linear Algebra.
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+collections:
+- meetings
+
+# Build settings
+markdown: kramdown
+source: ./src
+destination: ./build
