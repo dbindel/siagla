@@ -2,118 +2,64 @@
 title: About us
 layout: default
 nav: about
+officers:
+ - office: Chair
+   name: Danny Sorensen
+   url: http://www.caam.rice.edu/~sorensen/
+   email: sorensen@rice.edu
+ - office: Vice Chair
+   name: James Nagy
+   url: http://www.mathcs.emory.edu/~nagy/
+   email: nagy@mathcs.emory.edu
+ - office: Program Directory
+   name: Francoise Tisseur
+   url: http://www.maths.manchester.ac.uk/~ftisseur/
+   email: ftisseur@ma.man.ac.uk
+ - office: Secretary
+   name: David Bindel
+   url: http://www.cs.cornell.edu/~bindel
+   email: bindel@cs.cornell.edu
 ---
 
-<p>The <a target="_blank" href=
-"http://www.siam.org/">Society for Industrial and
-Applied Mathematics <span style=
-"display:none">(opens in new window)</span></a>
-sponsors <a target="_blank" href=
-"http://www.siam.org/siags/siags.htm">Activity
-Groups <span style="display:none">(opens in new
-window)</span></a> to foster activity in areas of
-applied mathematics or applications of interest to
-SIAM members not otherwise fully covered by
-SIAM.</p>
+<p>
+  The <a href="http://www.siam.org/">Society for Industrial
+    and Applied Mathematics</a> sponsors
+  <a href=
+     "http://www.siam.org/siags/siags.htm">Activity
+    Groups</a> to
+  provide a more focused forum for members interested in
+  exploring one of the areas of applied mathematics, computational
+  science, or applications.
+</p>
 
-<p>The SIAM Activity Group on Linear Algebra
-(SIAG/LA) promotes research in linear algebra and
-its applications. The group organizes <a href=
-"meetings.html">regular conferences</a> and
-supports smaller, less formal conferences as
-requested by the membership. Additionally, the
-group sponsors two <a href=
-"prizes.html">prizes</a>.</p>
+<p>
+  The SIAM Activity Group on Linear Algebra (SIAG/LA)
+  promotes research in linear algebra and its
+  applications. The group organizes
+  <a href= "meetings.html">conferences</a> and supports smaller, less
+  formal meetings as requested by the
+  membership. Additionally, the group sponsors two
+  <a href="prizes.html">prizes</a>.
+</p>
 
-<p>The Activity Group adheres to the <a target=
-"_blank" href=
-"http://www.siam.org/activity/la/procedure.php">SIAG/LA
-Rules of Procedure<span style=
-"display:none">(opens in new
-window)</span></a>.</p>
+<p>
+  The Activity Group adheres to
+  the <a href="http://www.siam.org/activity/la/procedure.php">SIAG/LA
+    Rules of Procedure</a>.
+</p>
 
 <h3>Current Officers</h3>
 
-<table cellpadding="0" cellspacing="0" width=
-"100%">
-  <tr>
+<table cellpadding="5">
+  <tbody>
+    {% for officer in page.officers %}
+    <tr>
+    <td align="right">{{ officer.office }}:</td>
     <td>
-      <table cellpadding="5" cellspacing="0" align=
-      "left">
-        <tr>
-          <td align="right" valign="top">
-          <b>Chair:</b></td>
-
-          <td>
-            <a href=
-            "http://www.caam.rice.edu/~sorensen/">Danny
-            Sorensen</a> (<a href=
-            "mailto:sorensen@rice.edu">sorensen@rice.edu</a>)
-          </td>
-        </tr>
-
-        <tr>
-          <td align="right" valign="top"><b>Vice
-          Chair:</b></td>
-
-          <td>
-            <a href=
-            "http://www.mathcs.emory.edu/~nagy/">James
-            Nagy</a> (<a href=
-            "mailto:nagy@mathcs.emory.edu">nagy@mathcs.emory.edu</a>)
-          </td>
-        </tr>
-
-        <tr>
-          <td align="right" valign="top"><b>Program
-          Director:</b></td>
-
-          <td>
-            <a href=
-            "http://www.maths.manchester.ac.uk/~ftisseur/">
-            Francoise Tisseur</a> (<a href=
-            "mailto:ftisseur@ma.man.ac.uk">ftisseur@ma.man.ac.uk</a>)
-          </td>
-        </tr>
-
-        <tr>
-          <td align="right" valign="top">
-          <b>Secretary:</b></td>
-
-          <td>
-            <a href=
-            "http://www.cs.cornell.edu/~bindel/">David
-            Bindel</a> (<a href=
-            "mailto:bindel@cs.cornell.edu">bindel@cs.cornell.edu</a>)
-          </td>
-        </tr>
-      </table>
+      <a href="{{ officer.url }}">{{ officer.name }}</a>
+      (<a href="mailto:{{ officer.email }}">{{ officer.email }}</a>)
     </td>
-  </tr>
+    </tr>
+    {% endfor %}
+  </tbody>
 </table>
-
-<!--
-<h3>Additional Contacts</h3>
-
-<table cellpadding="0" cellspacing="0" width=
-"100%">
-  <tr>
-    <td>
-      <table cellpadding="5" cellspacing="0" align=
-      "left">
-        <tr>
-          <td align="right" valign="top"><b>Liaison
-          to SIAM News:</b></td>
-
-          <td>
-            <a href=
-            "http://www.mathcs.emory.edu/~nagy/">James
-            Nagy</a> (<a href=
-            "mailto:nagy@mathcs.emory.edu">nagy@mathcs.emory.edu</a>)
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
--->
