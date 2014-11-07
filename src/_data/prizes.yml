@@ -1,3 +1,8 @@
+# Information on the SIAG/LA prizes since they were created.
+# Each prize-winning paper is typically a separate record;
+# however, I've made the papers field a list in order to accomodate
+# an award for a two-part paper in 2009.
+
 -
   awardees: Sou-Cheng Choi, Christopher Paige, and Michael Saunders
   year: 2012
