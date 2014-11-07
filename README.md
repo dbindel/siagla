@@ -109,10 +109,3 @@ the start of each file.
 [ghpages]: https://pages.github.com/
 [yaml]: http://jekyllrb.com/docs/frontmatter/
 [tpw]: http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
-
-Git
-Conferences
-Prizes
-Blog
-Jekyll + YAML
-Pure CSS framework
