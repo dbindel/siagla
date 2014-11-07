@@ -103,6 +103,12 @@ information about the SIAG/LA prize winners and their papers
 is in `_data/prizes.yml`.  Formatting information is given at
 the start of each file.
 
+The prizes before 2003 were not previously listed on the SIAG-LA web
+site.  This has been addressed to the best of my knowledge, but it
+took some digging to find the papers associated with the earlier
+prizes.  Again, I hope that if I've made errors, someone will call
+me on it.
+
 [pure]: http://purecss.io/
 [side]: http://purecss.io/layouts/
 [jekyll]: http://jekyllrb.com/
