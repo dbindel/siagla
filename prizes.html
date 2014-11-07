@@ -1,0 +1,67 @@
+---
+subhead: Prizes
+layout: default
+nav: prizes
+---
+
+<p>The SIAM Activity Group on Linear Algebra
+sponsors two prizes: the SIAM Activity Group on
+Linear Algebra Prize and the SIAM Activity Group on
+Linear Algebra Poster Competition</p>
+
+<h4>SIAM Activity Group on Linear Algebra
+Prize</h4>
+
+<p>Established in 1987, the <a target="_blank"
+href="http://www.siam.org/prizes/sponsored/siagla.php">
+SIAM Activity Group on Linear Algebra Prize
+<span style="display:none">(opens in new
+window)</span></a> is awarded to the author(s) of
+the most outstanding paper, as determined by the
+prize committee, on a topic in applicable linear
+algebra published in English in a peer-reviewed
+journal.</p>
+
+<div class="pure-g">
+  {% assign prevyr = "0000" %}
+  {% for prize in site.data.prizes %}
+  <div class="pure-u-1 pure-u-md-1-5 pure-u-lg-1-8">
+  {% if prize.year != prevyr %}
+    <h3>{{ prize.year }}</h3>
+  {% endif %}
+  </div>
+  {% assign prevyr = prize.year %}
+  <div class="pure-u-1 pure-u-md-4-5 pure-u-lg-7-8">
+    <p>
+      {{ prize.awardees }}
+      {% if prize.papers %}
+      for
+      {% assign conjunction = "" %}
+      {% for paper in prize.papers %}
+      {{ conjunction }}
+      <a href="{{ paper.url }}">"{{ paper.title }}"</a>,
+      {% if paper.journal == "simax" %}
+      SIAM Journal on Matrix Analysis and Applications,
+      {% elsif paper.journal == "sisc" %}
+      SIAM Journal on Scientific Computing,
+      {% else %}
+      {{ paper.journal }},
+      {% endif %}
+      {{ paper.volume }}: {{ paper.pages }}
+      ({{ paper.year }}){% assign conjunction = " and " %}{% endfor %}.
+      {% endif %}
+    </p>
+  </div>
+  {% endfor %}
+</div>
+
+
+<h4>SIAM Activity Group on Linear Algebra Poster
+Competition</h4>
+
+<p>
+  The <a href="http://www.siam.org/books/ot63/laposter.htm">SIAM
+  Activity Group on Linear Algebra Poster Prize</a> is awarded for the
+  best poster(s) at the triennial SIAM Conference on Linear Algebra.
+</p>
+

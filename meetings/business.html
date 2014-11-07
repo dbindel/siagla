@@ -1,0 +1,24 @@
+---
+subhead: Conferences
+subtitle: SIAG-LA Business Meetings
+layout: conference
+nav: conf
+conf: business
+---
+
+<p>
+  The SIAG-LA Business Meeting is always held at
+  the <a href="siamla.html">SIAM Conference on Applied Linear
+  Algebra</a>.
+</p>
+
+{% for blurb in site.meetings reversed %}
+{% if blurb.type == "siam-la-biz" %}
+  <div class="content-subhead">
+    <h3>{{ blurb.start_date | date: "%B %-d, %Y" }}: {{ blurb.where }}</h3>
+  </div>
+  {{ blurb.content | markdownify }}
+{% endif %}
+{% endfor %}
+
+

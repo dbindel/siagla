@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <div id="layout">
+
+      {% include menu.html %}
+
+      <div id="main">
+        <div class="header">
+          {% include header.html %}
+        </div>
+
+        <div class="content">
+          {{ content }}
+        </div>
+
+        <div class="footer">
+          {% include footer.html %}
+        </div>
+        
+    </div>
+
+    <script src="js/ui.js"></script>
+  </body>
+
+</html>
