@@ -8,6 +8,19 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+defaults:
+ - scope:
+     path: "meetings"
+     type: "pages"
+   values:
+     subhead: Conferences
+     layout: conference
+     nav: conf
+ - scope:
+     type: "posts"
+   values:
+     layout: post
+
 collections:
  - meetings
 

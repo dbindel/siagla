@@ -126,3 +126,10 @@
 -
   awardees: James W. Demmel
   year: 1988
+  papers:
+  - title: "On Condition Numbers and the Distance to the Nearest Ill-posed Problem"
+    journal: Numerische Mathematik
+    volume: 51
+    pages: 251-289
+    year: 1987
+    url: http://dx.doi.org/10.1007/BF01400115
