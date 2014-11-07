@@ -17,12 +17,19 @@ defaults:
      layout: conference
      nav: conf
  - scope:
+     type: "meetings"
+   values:
+     subhead: Conferences
+     layout: conf-info
+     nav: conf
+ - scope:
      type: "posts"
    values:
      layout: post
 
 collections:
- - meetings
+  meetings:
+    output: true
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,15 @@
+{% assign sm = blurb.start_date | date: "%B" %}
+{% assign em = blurb.end_date | date: "%B" %}
+<div class="content-subhead">
+  <h3>{% if blurb.page %}<a href="{{ blurb.page }}">{{ blurb.title }}</a>{% else %}{{ blurb.title }}{% endif %}</h3>
+  {{ blurb.where }},
+  {% if sm == em %}
+  {{ blurb.start_date | date: "%B %-d" }}-{{ blurb.end_date | date: "%-d"}},
+  {% elsif em %}
+  {{ blurb.start_date | date: "%B %-d" }}-{{ blurb.end_date | date: "%B %-d"}},
+  {% else %}
+  {{ blurb.start_date | date: "%B %-d" }},
+  {% endif %}
+  {{ blurb.start_date | date: "%Y" }}.
+  {% include sponsorship.html %}
+</div>
