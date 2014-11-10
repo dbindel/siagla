@@ -92,7 +92,7 @@ strings; I tried to get the logic to work even if I just specified
 dates, but after a few minutes I just moved on.  This could be
 improved.
 
-The script `meeting.sh` in the root directory automatically
+The script `meeting.sh` in the `_util` directory automatically
 creates a new meeting record with the appropriate format.
 
 The conference page has tabs that display summaries of all conferences
