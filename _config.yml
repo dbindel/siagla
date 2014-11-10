@@ -6,7 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/siagla/" # the subpath of your site, e.g. /blog/
 url: "http://siags.siam.org" # the base hostname & protocol for your site
 
-encoding: utf-8
+#encoding: utf-8
+encoding: ASCII-8BIT
 timezone: America/New_York
 
 defaults:

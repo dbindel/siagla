@@ -22,11 +22,15 @@ available static site generators, in part because it is used in
 separate the content from presentation, making it simpler to apply
 general stylistic changes in the future.
 
+Jekyll has the option of using different Unicode encodings.  My
+preferred default would be UTF-8, but there is some issue that I don't
+entirely understand that only appears on the SIAM server (vs local
+deployment or GitHub pages) that causes UTF-8 symbols to be
+mis-interpreted; so we're sticking with HTML entities for now.
+
 The plan is to maintain the source code in a git repository on GitHub,
 which will automatically be re-compiled and uploaded to the SIAM site
-once a day.  Note that we set the charset to `"UTF-8"` -- capitalization
-apparently matters, as using `"utf-8"` caused some very odd behavior
-for accented names!
+once a day.
 
 ## Posts
 
