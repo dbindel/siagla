@@ -24,11 +24,9 @@ general stylistic changes in the future.
 
 The plan is to maintain the source code in a git repository on GitHub,
 which will automatically be re-compiled and uploaded to the SIAM site
-once a day.  While I'm not sure what web server SIAM is using, at the
-time of this writing, it appears to be programmed to default to
-ISO-8859-1 rather than UTF-8 for the default font encodings.  I've set
-the `encoding` flag in the configuration file, and the HTML metadata,
-accordingly.  One day, I hope, SIAM will switch to using UTF-8 by default.
+once a day.  Note that we set the charset to `"UTF-8"` -- capitalization
+apparently matters, as using `"utf-8"` caused some very odd behavior
+for accented names!
 
 ## Posts
 
