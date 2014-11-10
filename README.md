@@ -22,6 +22,14 @@ available static site generators, in part because it is used in
 separate the content from presentation, making it simpler to apply
 general stylistic changes in the future.
 
+The plan is to maintain the source code in a git repository on GitHub,
+which will automatically be re-compiled and uploaded to the SIAM site
+once a day.  While I'm not sure what web server SIAM is using, at the
+time of this writing, it appears to be programmed to default to
+ISO-8859-1 rather than UTF-8 for the default font encodings.  I've set
+the `encoding` flag in the configuration file, and the HTML metadata,
+accordingly.  One day, I hope, SIAM will switch to using UTF-8 by default.
+
 ## Posts
 
 Posts are stored in the `_posts` subdirectory, and are named according
