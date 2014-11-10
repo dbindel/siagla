@@ -2,6 +2,7 @@
 title:  "Hans Schneider: 1927-2014"
 date:   2014-11-03 14:52:17 -0500
 author: David Bindel
+comments: true
 ---
 
 [Hans Schneider][1] passed away at the age of 87 on October 8, 2014.
