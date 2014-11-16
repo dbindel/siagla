@@ -10,6 +10,8 @@ DBNAME="simax.yml"
 URL="http://epubs.siam.org/action/showFeed?ui=0&mi=3ezuvv&ai=s7&jc=sjmael&type=etoc&feed=rss"
 
 def scrape(xml, dbname):
+    # Number of added records
+    new_recs = 0
 
     # Grab old database and mark DOIs to avoid repeat records
     with open(dbname, 'r') as f:
@@ -35,6 +37,7 @@ def scrape(xml, dbname):
         doitxt = doi.get_text().encode("utf8")
         if doitxt not in yset:
             print "Add: {0}".format(title.get_text().encode("utf8"))
+            new_recs = new_recs + 1
             ydoc.append({
                 'title': title.get_text().encode("utf8"),
                 'authors': authors,
@@ -51,19 +54,22 @@ def scrape(xml, dbname):
         f.write('# Automatically generated from SIMAX RSS feed\n')
         f.write("# See parse-simax-feed.py\n\n")
         yaml.safe_dump(ydoc, stream=f, default_flow_style=False, encoding='utf-8', allow_unicode=True)
+    
+    return new_recs
 
 def main(url, dbname):
     response = urllib2.urlopen(url)
     xml = response.read()
-    scrape(xml, dbname)
+    return scrape(xml, dbname)
 
 def mainf(fname, dbname):
     with open(fname, 'r') as f:
         xml = f.read()
-    scrape(xml, dbname)
+    return scrape(xml, dbname)
     
 if __name__ == "__main__":
     if len(sys.argv) == 1:
-        main(URL, DBNAME)
+        new_recs = main(URL, DBNAME)
     elif len(sys.argv) == 2:
-        main(URL, sys.argv[1])
+        new_recs = main(URL, sys.argv[1])
+    sys.exit(new_recs)
