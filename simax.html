@@ -1,0 +1,34 @@
+---
+subhead: Recent papers
+layout: default
+nav: papers
+mathjax: true
+---
+
+<h2 class="content-subhead">Recent SIMAX papers</h2>
+
+<p>
+The <a href="http://epubs.siam.org/journal/sjmael">SIAM Journal on Matrix
+Analysis and Applications</a> publishes research articles in matrix analysis
+and its applications and papers of interest to the numerical linear algebra
+community.
+</p>
+
+<div class="pure-g">
+{% assign count = 0 %}
+{% assign prevdate = 'None' %}
+{% for paper in site.data.simax reversed %}{% assign count = count | plus:1 %}{% if count < 10 %}
+<div class="pure-u-1 pure-u-md-1-5 pure-u-lg-1-8">
+{% assign pdate = paper.date | date: "%-d %b" %}
+{% if pdate != prevdate %}<h3>{{ pdate }}</h3>{% endif %}
+{% assign prevdate = pdate %}
+</div>
+<div class="pure-u-1 pure-u-md-4-5 pure-u-lg-7-8">
+<p>
+  <a href="{{ paper.link }}">{{ paper.title }}</a><br/>
+  {{ paper.authors }}
+</p>
+</div>
+{% endif %}
+{% endfor %}
+</div>
