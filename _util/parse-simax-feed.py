@@ -30,23 +30,23 @@ def scrape(xml, dbname):
         link = item.find('rss:link')
         doi = item.find('dc:identifier')
         date = item.find('dc:date')
-        authors = date.next.next.encode("utf8")
+        authors = date.next.next.encode("ascii", "xmlcharrefreplace")
         volume = item.find('prism:volume')
         pp_start = item.find('prism:startingpage')
         pp_end   = item.find('prism:endingpage')
         doitxt = doi.get_text().encode("utf8")
         if doitxt not in yset:
-            print "Add: {0}".format(title.get_text().encode("utf8"))
+            print "Add: {0}".format(title.get_text().encode("ascii", "xmlcharrefreplace"))
             new_recs = new_recs + 1
             ydoc.append({
-                'title': title.get_text().encode("utf8"),
+                'title': title.get_text().encode("ascii", "xmlcharrefreplace"),
                 'authors': authors,
-                'link': link.get_text().encode("utf8"),
-                'doi': doi.get_text().encode("utf8"),
-                'date': date.get_text().encode("utf8"),
-                'volume': volume.get_text().encode("utf8"),
-                'pp_start': pp_start.get_text().encode("utf8"),
-                'pp_end': pp_end.get_text().encode("utf8")})
+                'link': link.get_text().encode("ascii", "xmlcharrefreplace"),
+                'doi': doi.get_text().encode("ascii", "xmlcharrefreplace"),
+                'date': date.get_text().encode("ascii", "xmlcharrefreplace"),
+                'volume': volume.get_text().encode("ascii", "xmlcharrefreplace"),
+                'pp_start': pp_start.get_text().encode("ascii", "xmlcharrefreplace"),
+                'pp_end': pp_end.get_text().encode("ascii", "xmlcharrefreplace")})
 
     # Sort all records and write updated database
     ydoc.sort(key=lambda rec: int(rec['volume'])*1e6 + int(rec['pp_start']))

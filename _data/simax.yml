@@ -69,7 +69,7 @@
   pp_start: '143'
   title: A New Analysis of Block Preconditioners for Saddle Point Problems
   volume: '35'
-- authors: Jurjen Duintjer Tebbens and Miroslav Tůma
+- authors: Jurjen Duintjer Tebbens and Miroslav T&#367;ma
   date: Wed, 12 Feb 2014 08:00:00 GMT
   doi: doi:10.1137/130922872
   link: http://epubs.siam.org/doi/abs/10.1137/130922872?ai=s7&mi=3ezuvv&af=R
@@ -77,7 +77,7 @@
   pp_start: '174'
   title: On Incremental Condition Estimators in the 2-Norm
   volume: '35'
-- authors: Rüdiger Borsdorf
+- authors: R&#252;diger Borsdorf
   date: Thu, 20 Feb 2014 08:00:00 GMT
   doi: doi:10.1137/12088906X
   link: http://epubs.siam.org/doi/abs/10.1137/12088906X?ai=s7&mi=3ezuvv&af=R
@@ -102,7 +102,7 @@
   pp_start: '254'
   title: On the Inverse Symmetric Quadratic Eigenvalue Problem
   volume: '35'
-- authors: Ake Björck
+- authors: Ake Bj&#246;rck
   date: Tue, 11 Mar 2014 07:00:00 GMT
   doi: doi:10.1137/120895639
   link: http://epubs.siam.org/doi/abs/10.1137/120895639?ai=s7&mi=3ezuvv&af=R
@@ -153,7 +153,7 @@
   title: FEAST As A Subspace Iteration Eigensolver Accelerated By Approximate Spectral
     Projection
   volume: '35'
-- authors: Raphaël M. Jungers, Antonio Cicone, and Nicola Guglielmi
+- authors: Rapha&#235;l M. Jungers, Antonio Cicone, and Nicola Guglielmi
   date: Thu, 03 Apr 2014 07:00:00 GMT
   doi: doi:10.1137/130907811
   link: http://epubs.siam.org/doi/abs/10.1137/130907811?ai=s7&mi=3ezuvv&af=R
@@ -213,7 +213,7 @@
   title: On the Eigenvalues and Eigenvectors of Block Triangular Preconditioned Block
     Matrices
   volume: '35'
-- authors: Christopher C. Paige and Wolfgang Wülling
+- authors: Christopher C. Paige and Wolfgang W&#252;lling
   date: Thu, 01 May 2014 07:00:00 GMT
   doi: doi:10.1137/120897687
   link: http://epubs.siam.org/doi/abs/10.1137/120897687?ai=s7&mi=3ezuvv&af=R
@@ -271,7 +271,7 @@
   title: 'Canonical Polyadic Decomposition of Third-Order Tensors: Reduction to Generalized
     Eigenvalue Decomposition'
   volume: '35'
-- authors: Andreas Frommer, Stefan Güttel, and Marcel Schweitzer
+- authors: Andreas Frommer, Stefan G&#252;ttel, and Marcel Schweitzer
   date: Thu, 22 May 2014 07:00:00 GMT
   doi: doi:10.1137/13093491X
   link: http://epubs.siam.org/doi/abs/10.1137/13093491X?ai=s7&mi=3ezuvv&af=R
@@ -287,7 +287,7 @@
   pp_start: '684'
   title: Improved Backward Error Bounds for LU and Cholesky Factorizations
   volume: '35'
-- authors: Emre Mengi, E. Alper Yildirim, and Mustafa Kiliç
+- authors: Emre Mengi, E. Alper Yildirim, and Mustafa Kili&#231;
   date: Thu, 05 Jun 2014 07:00:00 GMT
   doi: doi:10.1137/130933472
   link: http://epubs.siam.org/doi/abs/10.1137/130933472?ai=s7&mi=3ezuvv&af=R
@@ -355,7 +355,7 @@
   title: On Generic Nonexistence of the Schmidt--Eckart--Young Decomposition for Complex
     Tensors
   volume: '35'
-- authors: Megan Dailey, Froilán M. Dopico, and Qiang Ye
+- authors: Megan Dailey, Froil&#225;n M. Dopico, and Qiang Ye
   date: Tue, 08 Jul 2014 07:00:00 GMT
   doi: doi:10.1137/13093858X
   link: http://epubs.siam.org/doi/abs/10.1137/13093858X?ai=s7&mi=3ezuvv&af=R
@@ -364,7 +364,7 @@
   title: A New Perturbation Bound for the LDU Factorization of Diagonally Dominant
     Matrices
   volume: '35'
-- authors: Philip A. Knight, Daniel Ruiz, and Bora Uçar
+- authors: Philip A. Knight, Daniel Ruiz, and Bora U&#231;ar
   date: Thu, 17 Jul 2014 07:00:00 GMT
   doi: doi:10.1137/110825753
   link: http://epubs.siam.org/doi/abs/10.1137/110825753?ai=s7&mi=3ezuvv&af=R
@@ -402,8 +402,8 @@
   link: http://epubs.siam.org/doi/abs/10.1137/130945259?ai=s7&mi=3ezuvv&af=R
   pp_end: '1037'
   pp_start: '1019'
-  title: Higher Order Fréchet Derivatives of Matrix Functions and the Level-2 Condition
-    Number
+  title: Higher Order Fr&#233;chet Derivatives of Matrix Functions and the Level-2
+    Condition Number
   volume: '35'
 - authors: Shengguo Li, Ming Gu, Lizhi Cheng, Xuebin Chi, and Meng Sun
   date: Thu, 07 Aug 2014 07:00:00 GMT
@@ -431,7 +431,7 @@
   title: The Exact Condition Number of the Truncated Singular Value Solution of a
     Linear Ill-Posed Problem
   volume: '35'
-- authors: Mansoor Rezghi, S. Mohammad Hosseini, and Lars Eldén
+- authors: Mansoor Rezghi, S. Mohammad Hosseini, and Lars Eld&#233;n
   date: Tue, 19 Aug 2014 07:00:00 GMT
   doi: doi:10.1137/130917260
   link: http://epubs.siam.org/doi/abs/10.1137/130917260?ai=s7&mi=3ezuvv&af=R
@@ -497,8 +497,8 @@
   link: http://epubs.siam.org/doi/abs/10.1137/130927176?ai=s7&mi=3ezuvv&af=R
   pp_end: '1264'
   pp_start: '1242'
-  title: The Canonical Decomposition of $\mathcal{C}^n_d$ and Numerical Gröbner and
-    Border Bases
+  title: The Canonical Decomposition of $\mathcal{C}^n_d$ and Numerical Gr&#246;bner
+    and Border Bases
   volume: '35'
 - authors: Luca Chiantini, Giorgio Ottaviani, and Nick Vannieuwenhoven
   date: Thu, 23 Oct 2014 07:00:00 GMT
@@ -517,7 +517,7 @@
   pp_start: '1288'
   title: On the Decay of the Elements of Inverse Triangular Toeplitz Matrices
   volume: '35'
-- authors: Megan Dailey, Froilán M. Dopico, and Qiang Ye
+- authors: Megan Dailey, Froil&#225;n M. Dopico, and Qiang Ye
   date: Tue, 28 Oct 2014 07:00:00 GMT
   doi: doi:10.1137/130943613
   link: http://epubs.siam.org/doi/abs/10.1137/130943613?ai=s7&mi=3ezuvv&af=R
