@@ -109,6 +109,21 @@ consistent; it does nothing to help with correctness of the records.
 Ideally, if I've made data entry errors, someone will be able to call
 me on it.
 
+## SIMAX papers
+
+Information on recent SIMAX papers is automatically scraped from the
+SIMAX RSS feed by the `_util/parse-simax-feed.py` script.  The current
+database is saved in YAML format in `_data/simax.yml`.  The scraper
+runs automatically once a day; if there are any new papers, this will
+trigger a site re-generation.  The `simax.html` template is
+automatically populated from the ten most recent papers, displayed
+in reverse chronological order immediately after the introductory
+text.
+
+Unfortunately, Jekyll doesn't seem happy to convert UTF-8 to HTML
+entities on the fly, so the scraper script does the conversion
+(and saves the version with HTML entities in the database).
+
 ## Prizes and officers
 
 Information about the officers is saved in `_data/officers.yml`;
