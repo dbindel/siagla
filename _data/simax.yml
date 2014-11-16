@@ -1,0 +1,553 @@
+# Automatically generated from SIMAX RSS feed
+# See parse-simax-feed.py
+
+- authors: Robert Luce and Esmond G. Ng
+  date: Thu, 02 Jan 2014 08:00:00 GMT
+  doi: doi:10.1137/130912438
+  link: http://epubs.siam.org/doi/abs/10.1137/130912438?ai=s7&mi=3ezuvv&af=R
+  pp_end: '21'
+  pp_start: '1'
+  title: On the Minimum FLOPs Problem in the Sparse Cholesky Factorization
+  volume: '35'
+- authors: Erin Carson and James Demmel
+  date: Tue, 21 Jan 2014 08:00:00 GMT
+  doi: doi:10.1137/120893057
+  link: http://epubs.siam.org/doi/abs/10.1137/120893057?ai=s7&mi=3ezuvv&af=R
+  pp_end: '43'
+  pp_start: '22'
+  title: A Residual Replacement Strategy for Improving the Maximum Attainable Accuracy
+    of $s$-Step Krylov Subspace Methods
+  volume: '35'
+- authors: Yuanzhe Xi, Jianlin Xia, Stephen Cauley, and Venkataramanan Balakrishnan
+  date: Tue, 21 Jan 2014 08:00:00 GMT
+  doi: doi:10.1137/120895755
+  link: http://epubs.siam.org/doi/abs/10.1137/120895755?ai=s7&mi=3ezuvv&af=R
+  pp_end: '72'
+  pp_start: '44'
+  title: Superfast and Stable Structured Solvers for Toeplitz Least Squares via Randomized
+    Sampling
+  volume: '35'
+- authors: Guyan Ni, Liqun Qi, and Minru Bai
+  date: Thu, 23 Jan 2014 08:00:00 GMT
+  doi: doi:10.1137/120892891
+  link: http://epubs.siam.org/doi/abs/10.1137/120892891?ai=s7&mi=3ezuvv&af=R
+  pp_end: '87'
+  pp_start: '73'
+  title: Geometric Measure of Entanglement and U-Eigenvalues of Tensors
+  volume: '35'
+- authors: ' Mary Aprahamian  and  Nicholas J. Higham '
+  date: Thu, 30 Jan 2014 08:00:00 GMT
+  doi: doi:10.1137/130920137
+  link: http://epubs.siam.org/doi/abs/10.1137/130920137?ai=s7&mi=3ezuvv&af=R
+  pp_end: '109'
+  pp_start: '88'
+  title: The Matrix Unwinding Function, with an Application to Computing the Matrix
+    Exponential
+  volume: '35'
+- authors: Serge Gratton, David Titley-Peloquin, Philippe Toint, and Jean Tshimanga
+    Ilunga
+  date: Tue, 04 Feb 2014 08:00:00 GMT
+  doi: doi:10.1137/120889848
+  link: http://epubs.siam.org/doi/abs/10.1137/120889848?ai=s7&mi=3ezuvv&af=R
+  pp_end: '126'
+  pp_start: '110'
+  title: Differentiating the Method of Conjugate Gradients
+  volume: '35'
+- authors: Anwa Zhou and Jinyan Fan
+  date: Tue, 04 Feb 2014 08:00:00 GMT
+  doi: doi:10.1137/130919490
+  link: http://epubs.siam.org/doi/abs/10.1137/130919490?ai=s7&mi=3ezuvv&af=R
+  pp_end: '142'
+  pp_start: '127'
+  title: The CP-Matrix Completion Problem
+  volume: '35'
+- authors: Yvan Notay
+  date: Thu, 06 Feb 2014 08:00:00 GMT
+  doi: doi:10.1137/130911962
+  link: http://epubs.siam.org/doi/abs/10.1137/130911962?ai=s7&mi=3ezuvv&af=R
+  pp_end: '173'
+  pp_start: '143'
+  title: A New Analysis of Block Preconditioners for Saddle Point Problems
+  volume: '35'
+- authors: Jurjen Duintjer Tebbens and Miroslav Tůma
+  date: Wed, 12 Feb 2014 08:00:00 GMT
+  doi: doi:10.1137/130922872
+  link: http://epubs.siam.org/doi/abs/10.1137/130922872?ai=s7&mi=3ezuvv&af=R
+  pp_end: '197'
+  pp_start: '174'
+  title: On Incremental Condition Estimators in the 2-Norm
+  volume: '35'
+- authors: Rüdiger Borsdorf
+  date: Thu, 20 Feb 2014 08:00:00 GMT
+  doi: doi:10.1137/12088906X
+  link: http://epubs.siam.org/doi/abs/10.1137/12088906X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '224'
+  pp_start: '198'
+  title: An Algorithm for Finding an Optimal Projection of a Symmetric Matrix onto
+    a Diagonal Matrix
+  volume: '35'
+- authors: Donald Goldfarb and Zhiwei (Tony) Qin
+  date: Thu, 06 Mar 2014 08:00:00 GMT
+  doi: doi:10.1137/130905010
+  link: http://epubs.siam.org/doi/abs/10.1137/130905010?ai=s7&mi=3ezuvv&af=R
+  pp_end: '253'
+  pp_start: '225'
+  title: 'Robust Low-Rank Tensor Recovery: Models and Algorithms'
+  volume: '35'
+- authors: Peter Lancaster and Ion Zaballa
+  date: Thu, 06 Mar 2014 08:00:00 GMT
+  doi: doi:10.1137/130905216
+  link: http://epubs.siam.org/doi/abs/10.1137/130905216?ai=s7&mi=3ezuvv&af=R
+  pp_end: '278'
+  pp_start: '254'
+  title: On the Inverse Symmetric Quadratic Eigenvalue Problem
+  volume: '35'
+- authors: Ake Björck
+  date: Tue, 11 Mar 2014 07:00:00 GMT
+  doi: doi:10.1137/120895639
+  link: http://epubs.siam.org/doi/abs/10.1137/120895639?ai=s7&mi=3ezuvv&af=R
+  pp_end: '291'
+  pp_start: '279'
+  title: Stability of Two Direct Methods for Bidiagonalization and Partial Least Squares
+  volume: '35'
+- authors: Daniel Kressner and Bart Vandereycken
+  date: Thu, 20 Mar 2014 07:00:00 GMT
+  doi: doi:10.1137/120869432
+  link: http://epubs.siam.org/doi/abs/10.1137/120869432?ai=s7&mi=3ezuvv&af=R
+  pp_end: '313'
+  pp_start: '292'
+  title: Subspace Methods for Computing the Pseudospectral Abscissa and the Stability
+    Radius
+  volume: '35'
+- authors: Catherine E. Powell and Elisabeth Ullmann
+  date: Thu, 27 Mar 2014 07:00:00 GMT
+  doi: doi:10.1137/130944552
+  link: http://epubs.siam.org/doi/abs/10.1137/130944552?ai=s7&mi=3ezuvv&af=R
+  pp_end: '315'
+  pp_start: '314'
+  title: 'Erratum: Preconditioning Stochastic Galerkin Saddle Point Systems'
+  volume: '35'
+- authors: Meiyue Shao, Weiguo Gao, and Jungong Xue
+  date: Tue, 01 Apr 2014 07:00:00 GMT
+  doi: doi:10.1137/120894294
+  link: http://epubs.siam.org/doi/abs/10.1137/120894294?ai=s7&mi=3ezuvv&af=R
+  pp_end: '338'
+  pp_start: '317'
+  title: Aggressively Truncated Taylor Series Method for Accurate Computation of Exponentials
+    of Essentially Nonnegative Matrices
+  volume: '35'
+- authors: J. Pestana and A. J. Wathen
+  date: Tue, 01 Apr 2014 07:00:00 GMT
+  doi: doi:10.1137/130934933
+  link: http://epubs.siam.org/doi/abs/10.1137/130934933?ai=s7&mi=3ezuvv&af=R
+  pp_end: '353'
+  pp_start: '339'
+  title: The Antitriangular Factorization of Saddle Point Matrices
+  volume: '35'
+- authors: Ping Tak Peter Tang and Eric Polizzi
+  date: Thu, 03 Apr 2014 07:00:00 GMT
+  doi: doi:10.1137/13090866X
+  link: http://epubs.siam.org/doi/abs/10.1137/13090866X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '390'
+  pp_start: '354'
+  title: FEAST As A Subspace Iteration Eigensolver Accelerated By Approximate Spectral
+    Projection
+  volume: '35'
+- authors: Raphaël M. Jungers, Antonio Cicone, and Nicola Guglielmi
+  date: Thu, 03 Apr 2014 07:00:00 GMT
+  doi: doi:10.1137/130907811
+  link: http://epubs.siam.org/doi/abs/10.1137/130907811?ai=s7&mi=3ezuvv&af=R
+  pp_end: '410'
+  pp_start: '391'
+  title: Lifted Polytope Methods for Computing the Joint Spectral Radius
+  volume: '35'
+- authors: Elias Jarlebring, Karl Meerbergen, and Wim Michiels
+  date: Tue, 08 Apr 2014 07:00:00 GMT
+  doi: doi:10.1137/110858148
+  link: http://epubs.siam.org/doi/abs/10.1137/110858148?ai=s7&mi=3ezuvv&af=R
+  pp_end: '436'
+  pp_start: '411'
+  title: Computing a Partial Schur Factorization of Nonlinear Eigenvalue Problems
+    Using the Infinite Arnoldi Method
+  volume: '35'
+- authors: Liping Zhang, Liqun Qi, and Guanglu Zhou
+  date: Tue, 08 Apr 2014 07:00:00 GMT
+  doi: doi:10.1137/130915339
+  link: http://epubs.siam.org/doi/abs/10.1137/130915339?ai=s7&mi=3ezuvv&af=R
+  pp_end: '452'
+  pp_start: '437'
+  title: $M$-Tensors and Some Applications
+  volume: '35'
+- authors: Shreemayee Bora, Michael Karow, Christian Mehl, and Punit Sharma
+  date: Thu, 17 Apr 2014 07:00:00 GMT
+  doi: doi:10.1137/130925621
+  link: http://epubs.siam.org/doi/abs/10.1137/130925621?ai=s7&mi=3ezuvv&af=R
+  pp_end: '475'
+  pp_start: '453'
+  title: Structured Eigenvalue Backward Errors of Matrix Pencils and Polynomials with
+    Hermitian and Related Structures
+  volume: '35'
+- authors: V. Druskin, V. Simoncini, and M. Zaslavsky
+  date: Thu, 17 Apr 2014 07:00:00 GMT
+  doi: doi:10.1137/120898784
+  link: http://epubs.siam.org/doi/abs/10.1137/120898784?ai=s7&mi=3ezuvv&af=R
+  pp_end: '498'
+  pp_start: '476'
+  title: Adaptive Tangential Interpolation in Rational Krylov Subspaces for MIMO Dynamical
+    Systems
+  volume: '35'
+- authors: Linghui Zeng and Yangfeng Su
+  date: Thu, 24 Apr 2014 07:00:00 GMT
+  doi: doi:10.1137/130921234
+  link: http://epubs.siam.org/doi/abs/10.1137/130921234?ai=s7&mi=3ezuvv&af=R
+  pp_end: '516'
+  pp_start: '499'
+  title: A Backward Stable Algorithm for Quadratic Eigenvalue Problems
+  volume: '35'
+- authors: Jennifer Pestana
+  date: Thu, 24 Apr 2014 07:00:00 GMT
+  doi: doi:10.1137/130920897
+  link: http://epubs.siam.org/doi/abs/10.1137/130920897?ai=s7&mi=3ezuvv&af=R
+  pp_end: '525'
+  pp_start: '517'
+  title: On the Eigenvalues and Eigenvectors of Block Triangular Preconditioned Block
+    Matrices
+  volume: '35'
+- authors: Christopher C. Paige and Wolfgang Wülling
+  date: Thu, 01 May 2014 07:00:00 GMT
+  doi: doi:10.1137/120897687
+  link: http://epubs.siam.org/doi/abs/10.1137/120897687?ai=s7&mi=3ezuvv&af=R
+  pp_end: '545'
+  pp_start: '526'
+  title: Properties of a Unitary Matrix Obtained from a Sequence of Normalized Vectors
+  volume: '35'
+- authors: Xin Liu, Xiao Wang, Zaiwen Wen, and Yaxiang Yuan
+  date: Thu, 01 May 2014 07:00:00 GMT
+  doi: doi:10.1137/130911032
+  link: http://epubs.siam.org/doi/abs/10.1137/130911032?ai=s7&mi=3ezuvv&af=R
+  pp_end: '558'
+  pp_start: '546'
+  title: On the Convergence of the Self-Consistent Field Iteration in Kohn--Sham Density
+    Functional Theory
+  volume: '35'
+- authors: Thomas Mach and Raf Vandebril
+  date: Tue, 06 May 2014 07:00:00 GMT
+  doi: doi:10.1137/130935665
+  link: http://epubs.siam.org/doi/abs/10.1137/130935665?ai=s7&mi=3ezuvv&af=R
+  pp_end: '579'
+  pp_start: '559'
+  title: On Deflations in Extended QR Algorithms
+  volume: '35'
+- authors: A. Daniilidis, D. Drusvyatskiy, and A. S. Lewis
+  date: Tue, 13 May 2014 07:00:00 GMT
+  doi: doi:10.1137/130916710
+  link: http://epubs.siam.org/doi/abs/10.1137/130916710?ai=s7&mi=3ezuvv&af=R
+  pp_end: '598'
+  pp_start: '580'
+  title: Orthogonal Invariance and Identifiability
+  volume: '35'
+- authors: Michael Karow and Daniel Kressner
+  date: Tue, 13 May 2014 07:00:00 GMT
+  doi: doi:10.1137/130912372
+  link: http://epubs.siam.org/doi/abs/10.1137/130912372?ai=s7&mi=3ezuvv&af=R
+  pp_end: '618'
+  pp_start: '599'
+  title: On a Perturbation Bound for Invariant Subspaces of Matrices
+  volume: '35'
+- authors: Melina A. Freitag, Alastair Spence, and Paul Van Dooren
+  date: Thu, 15 May 2014 07:00:00 GMT
+  doi: doi:10.1137/130933228
+  link: http://epubs.siam.org/doi/abs/10.1137/130933228?ai=s7&mi=3ezuvv&af=R
+  pp_end: '635'
+  pp_start: '619'
+  title: Calculating the $H_{\infty}$-norm Using the Implicit Determinant Method
+  volume: '35'
+- authors: Ignat Domanov and Lieven De Lathauwer
+  date: Thu, 15 May 2014 07:00:00 GMT
+  doi: doi:10.1137/130916084
+  link: http://epubs.siam.org/doi/abs/10.1137/130916084?ai=s7&mi=3ezuvv&af=R
+  pp_end: '660'
+  pp_start: '636'
+  title: 'Canonical Polyadic Decomposition of Third-Order Tensors: Reduction to Generalized
+    Eigenvalue Decomposition'
+  volume: '35'
+- authors: Andreas Frommer, Stefan Güttel, and Marcel Schweitzer
+  date: Thu, 22 May 2014 07:00:00 GMT
+  doi: doi:10.1137/13093491X
+  link: http://epubs.siam.org/doi/abs/10.1137/13093491X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '683'
+  pp_start: '661'
+  title: Efficient and Stable Arnoldi Restarts for Matrix Functions Based on Quadrature
+  volume: '35'
+- authors: Siegfried M. Rump and Claude-Pierre Jeannerod
+  date: Tue, 27 May 2014 07:00:00 GMT
+  doi: doi:10.1137/130927231
+  link: http://epubs.siam.org/doi/abs/10.1137/130927231?ai=s7&mi=3ezuvv&af=R
+  pp_end: '698'
+  pp_start: '684'
+  title: Improved Backward Error Bounds for LU and Cholesky Factorizations
+  volume: '35'
+- authors: Emre Mengi, E. Alper Yildirim, and Mustafa Kiliç
+  date: Thu, 05 Jun 2014 07:00:00 GMT
+  doi: doi:10.1137/130933472
+  link: http://epubs.siam.org/doi/abs/10.1137/130933472?ai=s7&mi=3ezuvv&af=R
+  pp_end: '724'
+  pp_start: '699'
+  title: Numerical Optimization of Eigenvalues of Hermitian Matrix Functions
+  volume: '35'
+- authors: Kenneth L. Ho and Leslie Greengard
+  date: Thu, 05 Jun 2014 07:00:00 GMT
+  doi: doi:10.1137/120902677
+  link: http://epubs.siam.org/doi/abs/10.1137/120902677?ai=s7&mi=3ezuvv&af=R
+  pp_end: '748'
+  pp_start: '725'
+  title: A Fast Semidirect Least Squares Algorithm for Hierarchically Block Separable
+    Matrices
+  volume: '35'
+- authors: Vladimir Yu. Protasov and Dmitrii O. Logofet
+  date: Tue, 10 Jun 2014 07:00:00 GMT
+  doi: doi:10.1137/130935537
+  link: http://epubs.siam.org/doi/abs/10.1137/130935537?ai=s7&mi=3ezuvv&af=R
+  pp_end: '764'
+  pp_start: '749'
+  title: Rank-One Corrections of Nonnegative Matrices, With an Application to Matrix
+    Population Models
+  volume: '35'
+- authors: Lei-Hong Zhang, Jungong Xue, and Ren-Cang Li
+  date: Tue, 10 Jun 2014 07:00:00 GMT
+  doi: doi:10.1137/130946563
+  link: http://epubs.siam.org/doi/abs/10.1137/130946563?ai=s7&mi=3ezuvv&af=R
+  pp_end: '782'
+  pp_start: '765'
+  title: Rayleigh--Ritz Approximation For the Linear Response Eigenvalue Problem
+  volume: '35'
+- authors: J. D. Hogg and J. A. Scott
+  date: Tue, 17 Jun 2014 07:00:00 GMT
+  doi: doi:10.1137/130920629
+  link: http://epubs.siam.org/doi/abs/10.1137/130920629?ai=s7&mi=3ezuvv&af=R
+  pp_end: '817'
+  pp_start: '783'
+  title: Compressed Threshold Pivoting for Sparse Symmetric Indefinite Systems
+  volume: '35'
+- authors: Michael Karow, Daniel Kressner, and Emre Mengi
+  date: Tue, 01 Jul 2014 07:00:00 GMT
+  doi: doi:10.1137/130927462
+  link: http://epubs.siam.org/doi/abs/10.1137/130927462?ai=s7&mi=3ezuvv&af=R
+  pp_end: '834'
+  pp_start: '819'
+  title: Nonlinear Eigenvalue Problems with Specified Eigenvalues
+  volume: '35'
+- authors: Daniel A. Spielman and Shang-Hua Teng
+  date: Tue, 08 Jul 2014 07:00:00 GMT
+  doi: doi:10.1137/090771430
+  link: http://epubs.siam.org/doi/abs/10.1137/090771430?ai=s7&mi=3ezuvv&af=R
+  pp_end: '885'
+  pp_start: '835'
+  title: Nearly Linear Time Algorithms for Preconditioning and Solving Symmetric,
+    Diagonally Dominant Linear Systems
+  volume: '35'
+- authors: N. Vannieuwenhoven, J. Nicaise, R. Vandebril, and K. Meerbergen
+  date: Tue, 08 Jul 2014 07:00:00 GMT
+  doi: doi:10.1137/130926171
+  link: http://epubs.siam.org/doi/abs/10.1137/130926171?ai=s7&mi=3ezuvv&af=R
+  pp_end: '903'
+  pp_start: '886'
+  title: On Generic Nonexistence of the Schmidt--Eckart--Young Decomposition for Complex
+    Tensors
+  volume: '35'
+- authors: Megan Dailey, Froilán M. Dopico, and Qiang Ye
+  date: Tue, 08 Jul 2014 07:00:00 GMT
+  doi: doi:10.1137/13093858X
+  link: http://epubs.siam.org/doi/abs/10.1137/13093858X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '930'
+  pp_start: '904'
+  title: A New Perturbation Bound for the LDU Factorization of Diagonally Dominant
+    Matrices
+  volume: '35'
+- authors: Philip A. Knight, Daniel Ruiz, and Bora Uçar
+  date: Thu, 17 Jul 2014 07:00:00 GMT
+  doi: doi:10.1137/110825753
+  link: http://epubs.siam.org/doi/abs/10.1137/110825753?ai=s7&mi=3ezuvv&af=R
+  pp_end: '955'
+  pp_start: '931'
+  title: A Symmetry Preserving Algorithm for Matrix Scaling
+  volume: '35'
+- authors: Lu-Bin Cui, Wen Li, and Michael K. Ng
+  date: Thu, 17 Jul 2014 07:00:00 GMT
+  doi: doi:10.1137/120896499
+  link: http://epubs.siam.org/doi/abs/10.1137/120896499?ai=s7&mi=3ezuvv&af=R
+  pp_end: '973'
+  pp_start: '956'
+  title: Birkhoff--von Neumann Theorem for Multistochastic Tensors
+  volume: '35'
+- authors: Yuanzhe Xi, Jianlin Xia, and Raymond Chan
+  date: Thu, 17 Jul 2014 07:00:00 GMT
+  doi: doi:10.1137/130914966
+  link: http://epubs.siam.org/doi/abs/10.1137/130914966?ai=s7&mi=3ezuvv&af=R
+  pp_end: '996'
+  pp_start: '974'
+  title: A Fast Randomized Eigensolver with Structured LDL Factorization Update
+  volume: '35'
+- authors: Dario Fasino and Francesco Tudisco
+  date: Thu, 17 Jul 2014 07:00:00 GMT
+  doi: doi:10.1137/130943455
+  link: http://epubs.siam.org/doi/abs/10.1137/130943455?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1018'
+  pp_start: '997'
+  title: An Algebraic Analysis of the Graph Modularity
+  volume: '35'
+- authors: ' Nicholas J. Higham  and  Samuel D. Relton '
+  date: Thu, 24 Jul 2014 07:00:00 GMT
+  doi: doi:10.1137/130945259
+  link: http://epubs.siam.org/doi/abs/10.1137/130945259?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1037'
+  pp_start: '1019'
+  title: Higher Order Fréchet Derivatives of Matrix Functions and the Level-2 Condition
+    Number
+  volume: '35'
+- authors: Shengguo Li, Ming Gu, Lizhi Cheng, Xuebin Chi, and Meng Sun
+  date: Thu, 07 Aug 2014 07:00:00 GMT
+  doi: doi:10.1137/130945995
+  link: http://epubs.siam.org/doi/abs/10.1137/130945995?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1057'
+  pp_start: '1038'
+  title: An Accelerated Divide-and-Conquer Algorithm for the Bidiagonal SVD Problem
+  volume: '35'
+- authors: Liqi Wang and Moody T. Chu
+  date: Thu, 07 Aug 2014 07:00:00 GMT
+  doi: doi:10.1137/130938207
+  link: http://epubs.siam.org/doi/abs/10.1137/130938207?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1072'
+  pp_start: '1058'
+  title: On the Global Convergence of the Alternating Least Squares Method for Rank-One
+    Approximation to Generic Tensors
+  volume: '35'
+- authors: El Houcine Bergou, Serge Gratton, and Jean Tshimanga
+  date: Thu, 14 Aug 2014 07:00:00 GMT
+  doi: doi:10.1137/120869286
+  link: http://epubs.siam.org/doi/abs/10.1137/120869286?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1085'
+  pp_start: '1073'
+  title: The Exact Condition Number of the Truncated Singular Value Solution of a
+    Linear Ill-Posed Problem
+  volume: '35'
+- authors: Mansoor Rezghi, S. Mohammad Hosseini, and Lars Eldén
+  date: Tue, 19 Aug 2014 07:00:00 GMT
+  doi: doi:10.1137/130917260
+  link: http://epubs.siam.org/doi/abs/10.1137/130917260?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1104'
+  pp_start: '1086'
+  title: Best Kronecker Product Approximation of The Blurring Operator in Three Dimensional
+    Image Restoration Problems
+  volume: '35'
+- authors: Eugene Vecharynski and Yousef Saad
+  date: Tue, 19 Aug 2014 07:00:00 GMT
+  doi: doi:10.1137/130940414
+  link: http://epubs.siam.org/doi/abs/10.1137/130940414?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1131'
+  pp_start: '1105'
+  title: Fast Updating Algorithms for Latent Semantic Indexing
+  volume: '35'
+- authors: Patrizio Neff, Yuji Nakatsukasa, and Andreas Fischle
+  date: Thu, 28 Aug 2014 07:00:00 GMT
+  doi: doi:10.1137/130909949
+  link: http://epubs.siam.org/doi/abs/10.1137/130909949?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1154'
+  pp_start: '1132'
+  title: A Logarithmic Minimization Property of the Unitary Polar Factor in the Spectral
+    and Frobenius Norms
+  volume: '35'
+- authors: Jiawang Nie and Li Wang
+  date: Thu, 28 Aug 2014 07:00:00 GMT
+  doi: doi:10.1137/130935112
+  link: http://epubs.siam.org/doi/abs/10.1137/130935112?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1179'
+  pp_start: '1155'
+  title: Semidefinite Relaxations for Best Rank-1 Tensor Approximations
+  volume: '35'
+- authors: Mariya Ishteva, Konstantin Usevich, and Ivan Markovsky
+  date: Thu, 11 Sep 2014 07:00:00 GMT
+  doi: doi:10.1137/130931655
+  link: http://epubs.siam.org/doi/abs/10.1137/130931655?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1204'
+  pp_start: '1180'
+  title: Factorization Approach to Structured Low-Rank Approximation with Applications
+  volume: '35'
+- authors: Shinya Miyajima
+  date: Thu, 11 Sep 2014 07:00:00 GMT
+  doi: doi:10.1137/140953150
+  link: http://epubs.siam.org/doi/abs/10.1137/140953150?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1225'
+  pp_start: '1205'
+  title: Fast Enclosure for All Eigenvalues and Invariant Subspaces in Generalized
+    Eigenvalue Problems
+  volume: '35'
+- authors: Liqun Qi, Changqing Xu, and Yi Xu
+  date: Thu, 09 Oct 2014 07:00:00 GMT
+  doi: doi:10.1137/13092232X
+  link: http://epubs.siam.org/doi/abs/10.1137/13092232X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1241'
+  pp_start: '1227'
+  title: Nonnegative Tensor Factorization, Completely Positive Tensors, and a Hierarchical
+    Elimination Algorithm
+  volume: '35'
+- authors: Kim Batselier, Philippe Dreesen, and Bart De Moor
+  date: Thu, 09 Oct 2014 07:00:00 GMT
+  doi: doi:10.1137/130927176
+  link: http://epubs.siam.org/doi/abs/10.1137/130927176?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1264'
+  pp_start: '1242'
+  title: The Canonical Decomposition of $\mathcal{C}^n_d$ and Numerical Gröbner and
+    Border Bases
+  volume: '35'
+- authors: Luca Chiantini, Giorgio Ottaviani, and Nick Vannieuwenhoven
+  date: Thu, 23 Oct 2014 07:00:00 GMT
+  doi: doi:10.1137/140961389
+  link: http://epubs.siam.org/doi/abs/10.1137/140961389?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1287'
+  pp_start: '1265'
+  title: An Algorithm For Generic and Low-Rank Specific Identifiability of Complex
+    Tensors
+  volume: '35'
+- authors: Neville J. Ford, Dmitry V. Savostyanov, and Nickolai L. Zamarashkin
+  date: Tue, 28 Oct 2014 07:00:00 GMT
+  doi: doi:10.1137/130931734
+  link: http://epubs.siam.org/doi/abs/10.1137/130931734?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1302'
+  pp_start: '1288'
+  title: On the Decay of the Elements of Inverse Triangular Toeplitz Matrices
+  volume: '35'
+- authors: Megan Dailey, Froilán M. Dopico, and Qiang Ye
+  date: Tue, 28 Oct 2014 07:00:00 GMT
+  doi: doi:10.1137/130943613
+  link: http://epubs.siam.org/doi/abs/10.1137/130943613?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1328'
+  pp_start: '1303'
+  title: Relative Perturbation Theory for Diagonally Dominant Matrices
+  volume: '35'
+- authors: Nick Gould, Dominique Orban, and Tyrone Rees
+  date: Tue, 04 Nov 2014 08:00:00 GMT
+  doi: doi:10.1137/130916394
+  link: http://epubs.siam.org/doi/abs/10.1137/130916394?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1343'
+  pp_start: '1329'
+  title: Projected Krylov Methods for Saddle-Point Systems
+  volume: '35'
+- authors: Antti Koskela and Alexander Ostermann
+  date: Tue, 04 Nov 2014 08:00:00 GMT
+  doi: doi:10.1137/130945156
+  link: http://epubs.siam.org/doi/abs/10.1137/130945156?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1363'
+  pp_start: '1344'
+  title: A Moment-Matching Arnoldi Iteration for Linear Combinations of $\varphi$
+    Functions
+  volume: '35'
+- authors: Grey Ballard, Dulceneia Becker, James Demmel, Jack Dongarra, Alex Druinsky,
+    Inon Peled, Oded Schwartz, Sivan Toledo, and Ichitaro Yamazaki
+  date: Thu, 13 Nov 2014 08:00:00 GMT
+  doi: doi:10.1137/130929060
+  link: http://epubs.siam.org/doi/abs/10.1137/130929060?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1406'
+  pp_start: '1364'
+  title: Communication-Avoiding Symmetric-Indefinite Factorization
+  volume: '35'
