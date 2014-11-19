@@ -1,5 +1,10 @@
 #!/bin/sh
 
+if [ "$#" -ne 1 ]; then
+  echo "Syntax: meeting.sh tag"
+  exit 1
+fi
+
 cat > tmp.md <<EOF
 ---
 title: 
@@ -14,6 +19,11 @@ EOF
 
 vi tmp.md
 DATE=`awk '/start_date:/ { print $2 }' tmp.md`
+if [ -z $DATE ]; then
+  echo "Could not find date"
+  exit
+fi
+
 awk '
 /start_date:/ { $3 = "12:00:00" }
 /end_date:/ { $3 = "12:00:00" }
