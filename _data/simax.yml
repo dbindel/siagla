@@ -551,3 +551,24 @@
   pp_start: '1364'
   title: Communication-Avoiding Symmetric-Indefinite Factorization
   volume: '35'
+- authors: '
+
+    '
+  date: Tue, 18 Nov 2014 08:00:00 GMT
+  doi: doi:10.1137/13094476X
+  link: http://epubs.siam.org/doi/abs/10.1137/13094476X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1428'
+  pp_start: '1407'
+  title: Computing Extremal Points of Symplectic Pseudospectra and Solving Symplectic
+    Matrix Nearness Problems
+  volume: '35'
+- authors: '
+
+    '
+  date: Tue, 18 Nov 2014 08:00:00 GMT
+  doi: doi:10.1137/140956841
+  link: http://epubs.siam.org/doi/abs/10.1137/140956841?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1443'
+  pp_start: '1429'
+  title: Orbit Closure Hierarchies of Skew-symmetric Matrix Pencils
+  volume: '35'
