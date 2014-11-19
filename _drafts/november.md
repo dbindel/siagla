@@ -15,21 +15,56 @@ accepting applications.  The application deadline is February 1, 2015.
 And don't forget that there is a [call for proposals for the next G2S3][3]
 out (letter of intent due January 31, 2015)!
 
-Possibly interesting items from the web at large:
-
-- George Dantzig (Nov 8 1914-May 13, 2005) of linear programming fame 
-  would have turned 100 this month.  
-  A [session in his honor][dantzig] was held at this month's
-  INFORMS annual meeting in San Francisco.
-- SIAM fall elections closed, and we [have a new board and council][siamnew].
-- Ilse Ipsen on [Rolling the Dice on Big Data][ipsen]
-  
 [1]: {{ site.baseurl }}meetings/2015-07-06-dd23.html
 [2]: {{ site.baseurl }}meetings/2015-09-07-mattriad.html
 
+
+Possibly interesting items from the web at large:
+
+- The recent [National Days of Computer Algebra][luminy] meeting
+  in Luminy included short courses on
+  [matrix structures and applications][bini]
+  and [communication-avoiding LA algorithms][grigori].
+- George Dantzig (Nov 8 1914-May 13, 2005) of linear programming fame 
+  would have turned 100 this month.
+  A [session in his honor][dantzig] was held at this month's
+  INFORMS annual meeting in San Francisco.
+- SIAM fall elections closed, and we [have a new board and council][siamnew].
+- [Outreach in the Linear Algebra Community][siagla] appears
+  on [SIAM Blogs][siamblogs].
+- Ilse Ipsen on [Rolling the Dice on Big Data][ipsen].
+- [Supercomputing 14][sc14] included many linear algebra talks.
+- [Does UQ need efficient linear algebra?][silvester]
+- Cleve Moler on MathWorks Logo: parts [3][logo3] and [4][logo4].
+- [Etsy does matrix factorizations][etsy].
+
 [dantzig]: http://meetings2.informs.org/wordpress/sanfrancisco2014/2014/11/09/happy-birthday-george-dantzig/
 [siamnew]: http://connect.siam.org/siam-unwrapped-november-2014/#unique-identifier
-
+[siagla]: http://blogs.siam.org/outreach-in-the-linear-algebra-community/
+[siamblogs]: http://blogs.siam.org/
 [g2s3]: {{ site.baseurl }}meetings/2015-06-15-randnla.html
 [g2s3call]: http://www.siam.org/students/g2s3/summer_call.php
 [ipsen]: http://www.americanscientist.org/science/pub/rolling-the-dice-on-big-data
+[luminy]: http://www.lifl.fr/jncf2014/
+[bini]: http://www.lifl.fr/jncf2014/files/lecture-notes/bini.pdf
+[grigori]: http://www.lifl.fr/jncf2014/files/lecture-notes/grigori.pdf
+[sc14]: http://sc14.supercomputing.org/schedule/
+[silvester]: https://slideslive.com/38891908/uncertainty-quantification-does-it-need-efficient-linear-algebra
+[logo3]: http://blogs.mathworks.com/cleve/2014/11/03/mathworks-logo-part-three-pde-toolbox/
+[logo4]: http://blogs.mathworks.com/cleve/2014/11/17/mathworks-logo-part-four-method-of-particular-solutions-generates-the-logo/
+[etsy]: https://codeascraft.com/2014/11/17/personalized-recommendations-at-etsy/
+
+
+New linear algebra in the SIAM bookstore:
+
+- [Preconditioning and the Conjugate Gradient Method in the Context of Solving PDEs][malek-strakos]
+  (December 2014; first in the SIAM Spotlights series) 
+- [Stability, Control, and Computation for Time-Delay Systems: An Eigenvalue Based Approach (2e)][michiels-2e] (December 2014)
+- [Differential Equations and Linear Algebra][strang] and 
+- [Iterative Methods for Linear Systems: Theory and Applications][olshanskii]
+  
+[malek-strakos]: http://bookstore.siam.org/sl01/
+[michels-2e]: http://bookstore.siam.org/dc27/
+[strang]: http://bookstore.siam.org/wc13/
+[olshanskii]: http://bookstore.siam.org/ot138/
+
