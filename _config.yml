@@ -32,6 +32,8 @@ defaults:
 collections:
   meetings:
     output: true
+  jobads:
+    output: false
 
 # Build settings
 markdown: kramdown

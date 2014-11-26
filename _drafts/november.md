@@ -37,6 +37,10 @@ Possibly interesting items from the web at large:
 - [Does UQ need efficient linear algebra?][silvester]
 - Cleve Moler on MathWorks Logo: parts [3][logo3] and [4][logo4].
 - [Etsy does matrix factorizations][etsy].
+- Cayley to Sylvester:
+  [I  have just obtained a theorem that appears to be very remarkable][cayley] (Nov
+  19, 1857)
+- New software: [Rational Krylov Toolbox for MATLAB][ratkry].
 
 [dantzig]: http://meetings2.informs.org/wordpress/sanfrancisco2014/2014/11/09/happy-birthday-george-dantzig/
 [siamnew]: http://connect.siam.org/siam-unwrapped-november-2014/#unique-identifier
@@ -53,6 +57,8 @@ Possibly interesting items from the web at large:
 [logo3]: http://blogs.mathworks.com/cleve/2014/11/03/mathworks-logo-part-three-pde-toolbox/
 [logo4]: http://blogs.mathworks.com/cleve/2014/11/17/mathworks-logo-part-four-method-of-particular-solutions-generates-the-logo/
 [etsy]: https://codeascraft.com/2014/11/17/personalized-recommendations-at-etsy/
+[cayley]: http://pballew.blogspot.com/2014/11/on-this-day-in-math-november-19.html
+[ratkry]: http://guettel.com/rktoolbox/
 
 
 New linear algebra in the SIAM bookstore:

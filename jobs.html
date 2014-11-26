@@ -1,0 +1,30 @@
+---
+subhead: Job Advertisements
+layout: default
+nav: jobs
+jquery: blurb.js
+---
+
+The following jobs have been advertised to the SIAG/LA mailing list
+at the request of SIAG/LA members.  If no closing date is included
+in the request, the default is two months after the original posting.
+If you are a job-seeker, you may also be interested in the
+<a href="http://jobs.siam.org/">SIAM Job Board</a> or
+<a href="http://www.netlib.org/na-digest-html/">NA Digest</a>.
+
+
+{% for ad in site.jobads reversed %}
+{% if ad.closes > site.time %}
+<div class="content-subhead">
+  <h3>{% if ad.page %}<a href="{{ ad.page }}">{{ ad.title }}</a>{% else %}{{ ad.title }}{% endif %}</h3>
+  Posted to SIAG/LA: {{ ad.posted | date: "%B %-d, %Y"}}.
+  <a href="#" class="toggler" id="ad-{{ ad.title | slugify }}"><i class="fa fa-plus-square"></i></a>
+</div>
+
+<div class="blurb ad-{{ ad.title | slugify }}">
+{{ ad.content | markdownify }}
+</div>
+{% endif %}
+{% endfor %}
+
+
