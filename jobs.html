@@ -14,14 +14,17 @@ If you are a job-seeker, you may also be interested in the
 
 
 {% for ad in site.jobads reversed %}
+{% assign fname = ad.relative_path | remove:"_jobads/" %}
+{% assign name = fname | remove:".md" %}
 {% if ad.closes > site.time %}
 <div class="content-subhead">
+  <a name="{{ name }}"></a>
   <h3>{% if ad.page %}<a href="{{ ad.page }}">{{ ad.title }}</a>{% else %}{{ ad.title }}{% endif %}</h3>
   Posted to SIAG/LA: {{ ad.posted | date: "%B %-d, %Y"}}.
-  <a href="#" class="toggler" id="ad-{{ ad.title | slugify }}"><i class="fa fa-plus-square"></i></a>
+  <a href="#" class="toggler" id="ad-{{ name }}"><i class="fa fa-plus-square"></i></a>
 </div>
 
-<div class="blurb ad-{{ ad.title | slugify }}">
+<div class="blurb ad-{{ name }}">
 {{ ad.content | markdownify }}
 </div>
 {% endif %}
