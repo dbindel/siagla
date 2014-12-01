@@ -109,6 +109,32 @@ consistent; it does nothing to help with correctness of the records.
 Ideally, if I've made data entry errors, someone will be able to call
 me on it.
 
+## Job postings
+
+Job advertisements posted to the SIAG-LA mailing list are copied into
+the `_jobads` subdirectory.  Job ads are posted in reverse chronological
+order by posting date on the jobs web page.  Only ads that have not
+passed their closing date are listed.
+
+Unlike conferences, job ads do not get their own pages.  The reasoning
+is that a past conference is still likely of interest (and there are
+many of them), while past job ads are less interesting.  The data
+remains in the repository, so someone could change their mind about
+this in the future.
+
+The job record YAML looks like:
+
+    ---
+    title: 
+    page:
+    posted:
+    closes:
+    ---
+
+If no closing date is explicitly mentioned, I default to two months
+after the posting.
+
+
 ## SIMAX papers
 
 Information on recent SIMAX papers is automatically scraped from the
