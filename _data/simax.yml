@@ -568,3 +568,25 @@
   pp_start: '1429'
   title: Orbit Closure Hierarchies of Skew-symmetric Matrix Pencils
   volume: '35'
+- authors: '
+
+    '
+  date: Thu, 04 Dec 2014 08:00:00 GMT
+  doi: doi:10.1137/130923087
+  link: http://epubs.siam.org/doi/abs/10.1137/130923087?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1466'
+  pp_start: '1444'
+  title: 'Deflated and Augmented Krylov Subspace Methods: A Framework for Deflated
+    BiCG and Related Solvers'
+  volume: '35'
+- authors: '
+
+    '
+  date: Thu, 04 Dec 2014 08:00:00 GMT
+  doi: doi:10.1137/140964655
+  link: http://epubs.siam.org/doi/abs/10.1137/140964655?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1489'
+  pp_start: '1467'
+  title: Uniform Approximation of $\varphi$-Functions in Exponential Integrators by
+    a Rational Krylov Subspace Method with Simple Poles
+  volume: '35'
