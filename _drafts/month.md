@@ -12,9 +12,12 @@ announced this month on the SIAG-LA digest and NA-digest, including:
 - Workshop on
   [Low-Rank Approximation for High Performance Sparse Solvers][2] in
   June 2015
+- [26th Biennial Numerical Analysis Conference][3] in June 2015
+  (second announcement)
 
 [1]: {{ site.baseurl }}meetings/2015-04-30-mining.html
 [2]: {{ site.baseurl }}meetings/2015-06-24-low-rank.html
+[3]: {{ site.baseurl }}meetings/2015-06-23-strathclyde.html
 
 Possibly interesting items from the web at large:
 

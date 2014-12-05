@@ -1,6 +1,6 @@
 ---
 title: 26th Biennial Numerical Analysis Conference
-page: http://numericalanalysisconference.org.uk/
+page: http://naconf.org.uk/
 start_date: 2015-06-23 12:00:00
 end_date: 2015-06-26 12:00:00
 where: University of Strathclyde, Glasgow, Scotland
@@ -29,7 +29,7 @@ Mike Giles (University of Oxford), Jan Hesthaven (EPFL), Tamara Kolda
 Tubingen), Cleve Moler (Mathworks), Michael Saunders (Stanford
 University), Rob Scheichl (University of Bath), Karen Willcox (MIT).
 
-Further information may be found at http://www.naconf.org.uk
+Further information may be found at <http://www.naconf.org.uk>.
 
 Please note that the meeting will be preceded by the 17th IMA Leslie
 Fox Prize presentations, which will take place at the University of
