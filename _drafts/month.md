@@ -19,5 +19,7 @@ announced this month on the SIAG-LA digest and NA-digest, including:
 Possibly interesting items from the web at large:
 
 - [Mathworks Logo Part 5: Evolution of the Logo][logo]
+- [IMAGE: Bulletin of ILAS, Fall 2014][image]
 
 [logo]: http://blogs.mathworks.com/cleve/2014/12/01/mathworks-logo-part-five-evolution-of-the-logo/
+[image]: http://www.ilasic.org/IMAGE/IMAGES/image53.pdf
