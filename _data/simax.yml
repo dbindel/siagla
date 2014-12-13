@@ -586,9 +586,7 @@
   title: Uniform Approximation of $\varphi$-Functions in Exponential Integrators by
     a Rational Krylov Subspace Method with Simple Poles
   volume: '35'
-- authors: '
-
-    '
+- authors: Ilse C. F. Ipsen and Thomas Wentworth
   date: Thu, 11 Dec 2014 08:00:00 GMT
   doi: doi:10.1137/120870748
   link: http://epubs.siam.org/doi/abs/10.1137/120870748?ai=s7&mi=3ezuvv&af=R
@@ -597,9 +595,7 @@
   title: The Effect of Coherence on Sampling from Matrices with Orthonormal Columns,
     and Preconditioned Least Squares Problems
   volume: '35'
-- authors: '
-
-    '
+- authors: Giorgio Ottaviani, Pierre-Jean Spaenlehauer, and Bernd Sturmfels
   date: Thu, 11 Dec 2014 08:00:00 GMT
   doi: doi:10.1137/13094520X
   link: http://epubs.siam.org/doi/abs/10.1137/13094520X?ai=s7&mi=3ezuvv&af=R
@@ -607,9 +603,7 @@
   pp_start: '1521'
   title: Exact Solutions in Structured Low-Rank Approximation
   volume: '35'
-- authors: '
-
-    '
+- authors: J. H. de M. Goulart and G. Favier
   date: Thu, 11 Dec 2014 08:00:00 GMT
   doi: doi:10.1137/140955963
   link: http://epubs.siam.org/doi/abs/10.1137/140955963?ai=s7&mi=3ezuvv&af=R
@@ -618,9 +612,7 @@
   title: An Algebraic Solution for the Candecomp/PARAFAC Decomposition with Circulant
     Factors
   volume: '35'
-- authors: '
-
-    '
+- authors: Tamara G. Kolda and Jackson R. Mayo
   date: Thu, 11 Dec 2014 08:00:00 GMT
   doi: doi:10.1137/140951758
   link: http://epubs.siam.org/doi/abs/10.1137/140951758?ai=s7&mi=3ezuvv&af=R
@@ -628,9 +620,7 @@
   pp_start: '1563'
   title: An Adaptive Shifted Power Method for Computing Generalized Tensor Eigenpairs
   volume: '35'
-- authors: '
-
-    '
+- authors: Chun-Feng Cui, Yu-Hong Dai, and Jiawang Nie
   date: Thu, 11 Dec 2014 08:00:00 GMT
   doi: doi:10.1137/140962292
   link: http://epubs.siam.org/doi/abs/10.1137/140962292?ai=s7&mi=3ezuvv&af=R
