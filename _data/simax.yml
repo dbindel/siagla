@@ -568,7 +568,7 @@
   pp_start: '1429'
   title: Orbit Closure Hierarchies of Skew-symmetric Matrix Pencils
   volume: '35'
-- authors: 'Martin H. Gutknecht'
+- authors: Martin H. Gutknecht
   date: Thu, 04 Dec 2014 08:00:00 GMT
   doi: doi:10.1137/130923087
   link: http://epubs.siam.org/doi/abs/10.1137/130923087?ai=s7&mi=3ezuvv&af=R
@@ -577,7 +577,7 @@
   title: 'Deflated and Augmented Krylov Subspace Methods: A Framework for Deflated
     BiCG and Related Solvers'
   volume: '35'
-- authors: 'Tanja G&ouml;ockler and Volker Grimm'
+- authors: Tanja G&ouml;ockler and Volker Grimm
   date: Thu, 04 Dec 2014 08:00:00 GMT
   doi: doi:10.1137/140964655
   link: http://epubs.siam.org/doi/abs/10.1137/140964655?ai=s7&mi=3ezuvv&af=R
@@ -585,4 +585,56 @@
   pp_start: '1467'
   title: Uniform Approximation of $\varphi$-Functions in Exponential Integrators by
     a Rational Krylov Subspace Method with Simple Poles
+  volume: '35'
+- authors: '
+
+    '
+  date: Thu, 11 Dec 2014 08:00:00 GMT
+  doi: doi:10.1137/120870748
+  link: http://epubs.siam.org/doi/abs/10.1137/120870748?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1520'
+  pp_start: '1490'
+  title: The Effect of Coherence on Sampling from Matrices with Orthonormal Columns,
+    and Preconditioned Least Squares Problems
+  volume: '35'
+- authors: '
+
+    '
+  date: Thu, 11 Dec 2014 08:00:00 GMT
+  doi: doi:10.1137/13094520X
+  link: http://epubs.siam.org/doi/abs/10.1137/13094520X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1542'
+  pp_start: '1521'
+  title: Exact Solutions in Structured Low-Rank Approximation
+  volume: '35'
+- authors: '
+
+    '
+  date: Thu, 11 Dec 2014 08:00:00 GMT
+  doi: doi:10.1137/140955963
+  link: http://epubs.siam.org/doi/abs/10.1137/140955963?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1562'
+  pp_start: '1543'
+  title: An Algebraic Solution for the Candecomp/PARAFAC Decomposition with Circulant
+    Factors
+  volume: '35'
+- authors: '
+
+    '
+  date: Thu, 11 Dec 2014 08:00:00 GMT
+  doi: doi:10.1137/140951758
+  link: http://epubs.siam.org/doi/abs/10.1137/140951758?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1581'
+  pp_start: '1563'
+  title: An Adaptive Shifted Power Method for Computing Generalized Tensor Eigenpairs
+  volume: '35'
+- authors: '
+
+    '
+  date: Thu, 11 Dec 2014 08:00:00 GMT
+  doi: doi:10.1137/140962292
+  link: http://epubs.siam.org/doi/abs/10.1137/140962292?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1601'
+  pp_start: '1582'
+  title: All Real Eigenvalues of Symmetric Tensors
   volume: '35'
