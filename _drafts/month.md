@@ -9,19 +9,17 @@ Several conferences of possible interest to SIAG-LA members were
 announced this month on the SIAG-LA digest and NA-digest, including:
 
 - Workshop on [Mining Networks and Graphs][1] in April 2015
-- Workshop on
-  [Low-Rank Approximation for High Performance Sparse Solvers][2] in
-  June 2015
 - [26th Biennial Numerical Analysis Conference][3] in June 2015
   (second announcement)
 - [SIAM Control and Applications][4] in July 2015 -- upcoming CFP
   deadline
 - In the context of the
   [CIMI semester on "High performance linear and nonlinear methods for large scale applications"][cimi],
-  there is a call open for
-  [Sparse Days in St. Girons III][5]
-  in June 2015 and
-  a workshop on [Innovative Clustering Methods][6] in July 2015
+  there are calls open for
+  [Sparse Days in St. Girons III][5] in June 2015,
+  a workshop on
+  [Low-Rank Approximation for High Performance Sparse Solvers][2] in June 2015
+  and a workshop on [Innovative Clustering Methods][6] in July 2015
 
 [SIAG/LA prize nominations][prize] are due February 15, 2015!  Also, the [Gene
 Golub SIAM Summer School on RandNLA][randnla] in June 2015 is now accepting

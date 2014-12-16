@@ -1,5 +1,6 @@
 ---
 title: Innovative Clustering Methods
+page: http://cimi-semester-hpc.fr/
 start_date: 2015-07-06 12:00:00
 end_date: 2015-07-08 12:00:00
 where: Toulouse, France
