@@ -11,6 +11,7 @@ announced this month on the SIAG-LA digest and NA-digest, including:
 - Workshop on [Mining Networks and Graphs][1] in April 2015
 - [26th Biennial Numerical Analysis Conference][3] in June 2015
   (second announcement)
+- [PASC15][7] in June 2015
 - [SIAM Control and Applications][4] in July 2015 -- upcoming CFP
   deadline
 - In the context of the
@@ -32,11 +33,7 @@ for the next G2S3][g2s3call] out (letter of intent due January 31, 2015).
 [4]: {{ site.baseurl }}meetings/2015-07-08-siamct.html
 [5]: {{ site.baseurl }}meetings/2015-06-29-sparse.html
 [6]: {{ site.baseurl }}meetings/2015-07-06-clustering.html
-
-[cimi]: http://cimi-semester-hpc.fr/
-[prize]: http://www.siam.org/prizes/nominations/nom_siagla.php
-[randnla]: http://www.cs.rpi.edu//~drinep/G2S3_RandNLA_2015/
-[g2s3call]: http://www.siam.org/students/g2s3/summer_call.php
+[7]: {{ site.baseurl }}meetings/2015-06-01-pasc15.html
 
 Possibly interesting items from the web at large:
 
