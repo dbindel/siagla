@@ -637,3 +637,13 @@
   title: Convergence of Restarted Krylov Subspace Methods for Stieltjes Functions
     of Matrices
   volume: '35'
+- authors: '
+
+    '
+  date: Tue, 23 Dec 2014 08:00:00 GMT
+  doi: doi:10.1137/140961912
+  link: http://epubs.siam.org/doi/abs/10.1137/140961912?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1651'
+  pp_start: '1625'
+  title: Block GMRES Method with Inexact Breakdowns and Deflated Restarting
+  volume: '35'
