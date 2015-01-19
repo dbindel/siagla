@@ -645,9 +645,7 @@
   pp_start: '1625'
   title: Block GMRES Method with Inexact Breakdowns and Deflated Restarting
   volume: '35'
-- authors: '
-
-    '
+- authors: Liqi Wang, Moody T. Chu, and Bo Yu
   date: Thu, 15 Jan 2015 08:00:00 GMT
   doi: doi:10.1137/130943133
   link: http://epubs.siam.org/doi/abs/10.1137/130943133?ai=s7&mi=3ezuvv&af=R
