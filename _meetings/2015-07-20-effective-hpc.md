@@ -1,0 +1,96 @@
+---
+title: CSCS-USI Summer School on Effective High Performance Computing
+page: http://goo.gl/w8Xnxq
+start_date: 2015-07-20 12:00:00
+end_date: 2015-07-30 12:00:00
+where: Serpiano, Tessin, Switzerland
+---
+
+The Swiss National Supercomputing Centre (<www.cscs.ch>) and the Institute of
+Computational Science (<www.ics.inf.usi.ch>) at Universit&agrave; della Svizzera
+italiana are pleased to announce the opening of the selection process for
+participation in the annual Summer School. The Summer School will be held from
+July 20 through July 30, 2015, in Hotel Serpiano (<http://www.serpiano.ch>),
+located in the Italian area of Switzerland. The hotel is positioned on Mount
+San Giorgio, UNESCO World Heritage site since 2003, wherefrom participants can
+enjoy an incredible view of Ceresio lake and its surroundings.
+
+The Summer School will focus on the effective exploitation of High Performance
+Computing (HPC) systems, more details on the agenda can be found on our
+webpage: <http://goo.gl/w8Xnxq>
+
+### REQUIREMENTS
+
+The Summer School is dedicated to Master and Ph.D. students, academic staff and professionals. Applicants have to match the following requirements:
+
+- Good knowledge of at least one of the following programming languages: C++, C, or Fortran 90
+- Familiarity with the UNIX/Linux OS and the basic programming environment tools (terminals, editors, compilers)
+- Require HPC skills for their work or research.
+
+Only applicants who satisfy all requirements will be considered. Participants
+will need to bring their own laptop for practical sessions.
+
+### CONTENT
+
+The school will focus on the effective exploitation of High Performance
+Computing (HPC) systems. Current and coming generations of HPC systems are
+increasing in size and complexity. Multi-core processors, general purpose
+graphic accelerators (GPUs), many-cores accelerators (MIC), ultra-fast parallel
+storage devices, and high bandwidth low-latency networks are being combined to
+be used effectively for scientific and technical computing. On suitable classes
+of algorithms, outstanding performance can be achieved with power efficiency
+significantly higher than traditional architectures, considerably minimising
+overall times-to-solution of high-end scientific problems. An efficient usage
+of such hybrid architectures is not a trivial task, often requiring a full
+redesign and refactoring of the code in order to expose those features that can
+be optimally exploited by a given hardware component, as massively parallel
+algorithmic components, that can be effectively accelerated by the GPU, or
+overlapping computation and communication in order to scale on thousands of
+CPUs. Traditional parallel programming approaches, based on the message-passing
+paradigm, are no longer sufficient to fulfil this task, and innovative
+solutions need to be addressed.
+
+During the two weeks of the school a number of such solutions will be
+presented. The MPI, OpenMP, CUDA, OpenACC programming models will be
+introduced, together with scientific libraries and efficient I/O and data
+visualisation solutions and optimisation techniques. Their effective combined
+usage, in order to achieve an ideal exploitation of large hybrid architectures,
+will be discussed and experimented with extensive practical and exercise lab
+sessions to help clarify and consolidate the theoretical material presented.
+
+The following topics will be covered:
+
+- Message passing programming model and the MPI standard
+- Shared memory systems and the OpenMP programming model
+- Scientific libraries
+- MPI I/O and other solutions for efficient data reading and writing
+- GPU programming with CUDA and OpenACC
+- Code optimization
+- Scientific visualisation
+
+### APPLICATION PROCESS
+
+If you meet all requirements, please download the application form
+(<goo.gl/15Io47>) fill it in, and send it to summerschool2015@cscs.ch no later
+than Sunday, April 12, 2015. Thirty applicants will be selected to participate
+in the Summer School. You will be notified about acceptance or rejection of
+your application by Monday, April 27, 2015. Those candidates whose application
+successfully passes the selection process will receive further information
+regarding the registration.
+
+### PARTICIPATION FEE
+
+- Rate for academic staff, PhDs and university students: CHF 1300
+- Rate for non-academic professionals: CHF 2600
+- Fees include:
+  - Eight full-day and one half-day intensive courses based on theoretical and practical coaching in a group of 30 participants
+  - Learning materials introduced by instructors
+  - A visit to the Swiss National Supercomputing Centre (CSCS)
+  - Double room accommodation together with another participant throughout the duration of the course (eleven nights from Sunday, July 19 through Thursday, July 30, 2015)
+  - Breakfast, lunch and dinner during weekdays
+  - Breakfast during the weekend
+
+Participants can book additional nights at their expense before or after the
+event at the same favorable rate of CHF 118 for a room with double occupancy,
+or CHF 99 for a room with single occupancy.
+
