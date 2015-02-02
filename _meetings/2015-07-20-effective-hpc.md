@@ -6,14 +6,16 @@ end_date: 2015-07-30 12:00:00
 where: Serpiano, Tessin, Switzerland
 ---
 
-The Swiss National Supercomputing Centre (<www.cscs.ch>) and the Institute of
-Computational Science (<www.ics.inf.usi.ch>) at Universit&agrave; della Svizzera
-italiana are pleased to announce the opening of the selection process for
-participation in the annual Summer School. The Summer School will be held from
-July 20 through July 30, 2015, in Hotel Serpiano (<http://www.serpiano.ch>),
-located in the Italian area of Switzerland. The hotel is positioned on Mount
-San Giorgio, UNESCO World Heritage site since 2003, wherefrom participants can
-enjoy an incredible view of Ceresio lake and its surroundings.
+The Swiss National Supercomputing Centre ( <http://www.cscs.ch> ) and
+the Institute of Computational Science ( <http://www.ics.inf.usi.ch> )
+at Universit&agrave; della Svizzera italiana are pleased to announce
+the opening of the selection process for participation in the annual
+Summer School. The Summer School will be held from July 20 through
+July 30, 2015, in Hotel Serpiano ( <http://www.serpiano.ch> ), located
+in the Italian area of Switzerland. The hotel is positioned on Mount
+San Giorgio, UNESCO World Heritage site since 2003, wherefrom
+participants can enjoy an incredible view of Ceresio lake and its
+surroundings.
 
 The Summer School will focus on the effective exploitation of High Performance
 Computing (HPC) systems, more details on the agenda can be found on our
@@ -71,7 +73,7 @@ The following topics will be covered:
 ### APPLICATION PROCESS
 
 If you meet all requirements, please download the application form
-(<goo.gl/15Io47>) fill it in, and send it to summerschool2015@cscs.ch no later
+( <http://goo.gl/15Io47> ) fill it in, and send it to `summerschool2015@cscs.ch` no later
 than Sunday, April 12, 2015. Thirty applicants will be selected to participate
 in the Summer School. You will be notified about acceptance or rejection of
 your application by Monday, April 27, 2015. Those candidates whose application
