@@ -686,3 +686,24 @@
   pp_start: '90'
   title: Sparse Matrix-Matrix Products Executed Through Coloring
   volume: '36'
+- authors: '
+
+    '
+  date: Thu, 05 Feb 2015 08:00:00 GMT
+  doi: doi:10.1137/130940116
+  link: http://epubs.siam.org/doi/abs/10.1137/130940116?ai=s7&mi=3ezuvv&af=R
+  pp_end: '137'
+  pp_start: '110'
+  title: 'Randomized Approximation of the Gram Matrix: Exact Computation and Probabilistic
+    Bounds'
+  volume: '36'
+- authors: '
+
+    '
+  date: Thu, 05 Feb 2015 08:00:00 GMT
+  doi: doi:10.1137/14096637X
+  link: http://epubs.siam.org/doi/abs/10.1137/14096637X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '157'
+  pp_start: '138'
+  title: Tropical Roots as Approximations to Eigenvalues of Matrix Polynomials
+  volume: '36'
