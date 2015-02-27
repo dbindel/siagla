@@ -695,7 +695,7 @@
   title: 'Randomized Approximation of the Gram Matrix: Exact Computation and Probabilistic
     Bounds'
   volume: '36'
-- authors: 'Vanni Noferini, Meisam Sharify, and Fran&ccedil;oise Tisseur'
+- authors: Vanni Noferini, Meisam Sharify, and Fran&ccedil;oise Tisseur
   date: Thu, 05 Feb 2015 08:00:00 GMT
   doi: doi:10.1137/14096637X
   link: http://epubs.siam.org/doi/abs/10.1137/14096637X?ai=s7&mi=3ezuvv&af=R
@@ -718,4 +718,15 @@
   pp_end: '202'
   pp_start: '178'
   title: Stability Analysis of Implicit Difference Equations Under Restricted Perturbations
+  volume: '36'
+- authors: '
+
+    '
+  date: Thu, 26 Feb 2015 08:00:00 GMT
+  doi: doi:10.1137/140958748
+  link: http://epubs.siam.org/doi/abs/10.1137/140958748?ai=s7&mi=3ezuvv&af=R
+  pp_end: '224'
+  pp_start: '203'
+  title: Singular Value Decompositions for Single-Curl Operators in Three-Dimensional
+    Maxwell's Equations for Complex Media
   volume: '36'
