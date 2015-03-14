@@ -719,7 +719,8 @@
   pp_start: '178'
   title: Stability Analysis of Implicit Difference Equations Under Restricted Perturbations
   volume: '36'
-- authors: Ruey-Lin Chern, Han-En Hsieh, Tsung-Ming Huang, Wen-Wei Lin, and Weichung Wang
+- authors: Ruey-Lin Chern, Han-En Hsieh, Tsung-Ming Huang, Wen-Wei Lin, and Weichung
+    Wang
   date: Thu, 26 Feb 2015 08:00:00 GMT
   doi: doi:10.1137/140958748
   link: http://epubs.siam.org/doi/abs/10.1137/140958748?ai=s7&mi=3ezuvv&af=R
@@ -727,4 +728,25 @@
   pp_start: '203'
   title: Singular Value Decompositions for Single-Curl Operators in Three-Dimensional
     Maxwell's Equations for Complex Media
+  volume: '36'
+- authors: '
+
+    '
+  date: Wed, 04 Mar 2015 08:00:00 GMT
+  doi: doi:10.1137/130946009
+  link: http://epubs.siam.org/doi/abs/10.1137/130946009?ai=s7&mi=3ezuvv&af=R
+  pp_end: '250'
+  pp_start: '225'
+  title: Convergence of Inner-Iteration GMRES Methods for Rank-Deficient Least Squares
+    Problems
+  volume: '36'
+- authors: '
+
+    '
+  date: Wed, 04 Mar 2015 08:00:00 GMT
+  doi: doi:10.1137/140969099
+  link: http://epubs.siam.org/doi/abs/10.1137/140969099?ai=s7&mi=3ezuvv&af=R
+  pp_end: '272'
+  pp_start: '251'
+  title: An Algorithm for Quadratic Eigenproblems with Low Rank Damping
   volume: '36'
