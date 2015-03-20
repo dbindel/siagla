@@ -750,3 +750,13 @@
   pp_start: '251'
   title: An Algorithm for Quadratic Eigenproblems with Low Rank Damping
   volume: '36'
+- authors: '
+
+    '
+  date: Thu, 19 Mar 2015 07:00:00 GMT
+  doi: doi:10.1137/140974213
+  link: http://epubs.siam.org/doi/abs/10.1137/140974213?ai=s7&mi=3ezuvv&af=R
+  pp_end: '288'
+  pp_start: '273'
+  title: A Preconditioned MINRES Method for Nonsymmetric Toeplitz Matrices
+  volume: '36'
