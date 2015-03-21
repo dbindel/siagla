@@ -760,3 +760,13 @@
   pp_start: '273'
   title: A Preconditioned MINRES Method for Nonsymmetric Toeplitz Matrices
   volume: '36'
+- authors: '
+
+    '
+  date: Thu, 19 Mar 2015 07:00:00 GMT
+  doi: doi:10.1137/140961742
+  link: http://epubs.siam.org/doi/abs/10.1137/140961742?ai=s7&mi=3ezuvv&af=R
+  pp_end: '301'
+  pp_start: '289'
+  title: Roots of Matrices in the Study of GMRES Convergence and Crouzeix's Conjecture
+  volume: '36'
