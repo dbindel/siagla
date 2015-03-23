@@ -729,9 +729,7 @@
   title: Singular Value Decompositions for Single-Curl Operators in Three-Dimensional
     Maxwell's Equations for Complex Media
   volume: '36'
-- authors: '
-
-    '
+- authors: Keiichi Morikuni and Ken Hayami
   date: Wed, 04 Mar 2015 08:00:00 GMT
   doi: doi:10.1137/130946009
   link: http://epubs.siam.org/doi/abs/10.1137/130946009?ai=s7&mi=3ezuvv&af=R
@@ -740,9 +738,7 @@
   title: Convergence of Inner-Iteration GMRES Methods for Rank-Deficient Least Squares
     Problems
   volume: '36'
-- authors: '
-
-    '
+- authors: Leo Taslaman
   date: Wed, 04 Mar 2015 08:00:00 GMT
   doi: doi:10.1137/140969099
   link: http://epubs.siam.org/doi/abs/10.1137/140969099?ai=s7&mi=3ezuvv&af=R
@@ -750,9 +746,7 @@
   pp_start: '251'
   title: An Algorithm for Quadratic Eigenproblems with Low Rank Damping
   volume: '36'
-- authors: '
-
-    '
+- authors: J. Pestana and A. J. Wathen
   date: Thu, 19 Mar 2015 07:00:00 GMT
   doi: doi:10.1137/140974213
   link: http://epubs.siam.org/doi/abs/10.1137/140974213?ai=s7&mi=3ezuvv&af=R
@@ -760,9 +754,7 @@
   pp_start: '273'
   title: A Preconditioned MINRES Method for Nonsymmetric Toeplitz Matrices
   volume: '36'
-- authors: '
-
-    '
+- authors: Daeshik Choi and Anne Greenbaum
   date: Thu, 19 Mar 2015 07:00:00 GMT
   doi: doi:10.1137/140961742
   link: http://epubs.siam.org/doi/abs/10.1137/140961742?ai=s7&mi=3ezuvv&af=R
