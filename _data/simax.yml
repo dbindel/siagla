@@ -800,3 +800,36 @@
   title: On Nonsingular Saddle-Point Systems with a Maximally Rank Deficient Leading
     Block
   volume: '36'
+- authors: '
+
+    '
+  date: '2015-04-14T07:00:00Z'
+  doi: doi:10.1137/140985500
+  link: http://epubs.siam.org/doi/abs/10.1137/140985500?ai=s7&mi=3ezuvv&af=R
+  pp_end: '392'
+  pp_start: '385'
+  title: The Componentwise Structured and Unstructured Backward Errors Can be Arbitrarily
+    Far Apart
+  volume: '36'
+- authors: '
+
+    '
+  date: '2015-04-14T07:00:00Z'
+  doi: doi:10.1137/140973839
+  link: http://epubs.siam.org/doi/abs/10.1137/140973839?ai=s7&mi=3ezuvv&af=R
+  pp_end: '416'
+  pp_start: '393'
+  title: Structured Eigenvalue Backward Errors of Matrix Pencils and Polynomials with
+    Palindromic Structures
+  volume: '36'
+- authors: '
+
+    '
+  date: '2015-04-14T07:00:00Z'
+  doi: doi:10.1137/140968914
+  link: http://epubs.siam.org/doi/abs/10.1137/140968914?ai=s7&mi=3ezuvv&af=R
+  pp_end: '434'
+  pp_start: '417'
+  title: Band Generalization of the Golub--Kahan Bidiagonalization, Generalized Jacobi
+    Matrices, and the Core Problem
+  volume: '36'
