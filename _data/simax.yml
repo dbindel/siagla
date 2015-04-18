@@ -833,3 +833,13 @@
   title: Band Generalization of the Golub--Kahan Bidiagonalization, Generalized Jacobi
     Matrices, and the Core Problem
   volume: '36'
+- authors: '
+
+    '
+  date: '2015-04-16T07:00:00Z'
+  doi: doi:10.1137/140963479
+  link: http://epubs.siam.org/doi/abs/10.1137/140963479?ai=s7&mi=3ezuvv&af=R
+  pp_end: '460'
+  pp_start: '435'
+  title: 'On Matrix Nearness Problems: Distance to Delocalization'
+  volume: '36'
