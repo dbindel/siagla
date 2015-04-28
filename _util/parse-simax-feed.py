@@ -9,6 +9,19 @@ import yaml
 DBNAME="simax.yml"
 URL="http://epubs.siam.org/action/showFeed?ui=0&mi=3ezuvv&ai=s7&jc=sjmael&type=etoc&feed=rss"
 
+def get_item_text(item):
+    return item.get_text().encode("ascii", "xmlcharrefreplace")
+
+def textify_list(items):
+    if len(items) == 0:
+        return ''
+    elif len(items) == 1:
+        return items[0]
+    elif len(items) == 2:
+        return "{0} and {1}".format(items[0], items[1])
+    else:
+        return "{0}, {1}".format(items[0], textify_list(items[1:]))
+    
 def scrape(xml, dbname):
     # Number of added records
     new_recs = 0
@@ -30,7 +43,7 @@ def scrape(xml, dbname):
         link = item.find('rss:link')
         doi = item.find('dc:identifier')
         date = item.find('dc:date')
-        authors = date.next.next.encode("ascii", "xmlcharrefreplace")
+        authors = item.find_all('dc:creator')
         volume = item.find('prism:volume')
         pp_start = item.find('prism:startingpage')
         pp_end   = item.find('prism:endingpage')
@@ -40,7 +53,7 @@ def scrape(xml, dbname):
             new_recs = new_recs + 1
             ydoc.append({
                 'title': title.get_text().encode("ascii", "xmlcharrefreplace"),
-                'authors': authors,
+                'authors': textify_list(map(get_item_text, authors)),
                 'link': link.get_text().encode("ascii", "xmlcharrefreplace"),
                 'doi': doi.get_text().encode("ascii", "xmlcharrefreplace"),
                 'date': date.get_text().encode("ascii", "xmlcharrefreplace"),
