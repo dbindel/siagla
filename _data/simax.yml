@@ -848,3 +848,12 @@
   title: Relative Perturbation Analysis for Eigenvalues  and Singular Values of Totally
     Nonpositive Matrices
   volume: '36'
+- authors: Mikael S&#248;rensen and Lieven De De Lathauwer
+  date: '2015-05-07T07:00:00Z'
+  doi: doi:10.1137/140956853
+  link: http://epubs.siam.org/doi/abs/10.1137/140956853?ai=s7&mi=3ezuvv&af=R
+  pp_end: '522'
+  pp_start: '496'
+  title: 'Coupled Canonical Polyadic Decompositions  and (Coupled) Decompositions
+    in Multilinear Rank-$(L_r,n,L_r,n,1)$ Terms---Part I: Uniqueness'
+  volume: '36'
