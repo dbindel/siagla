@@ -857,3 +857,11 @@
   title: 'Coupled Canonical Polyadic Decompositions  and (Coupled) Decompositions
     in Multilinear Rank-$(L_r,n,L_r,n,1)$ Terms---Part I: Uniqueness'
   volume: '36'
+- authors: P. Butt&#224;, N. Guglielmi, M. Manetta and S. Noschese
+  date: '2015-05-12T07:00:00Z'
+  doi: doi:10.1137/140964631
+  link: http://epubs.siam.org/doi/abs/10.1137/140964631?ai=s7&mi=3ezuvv&af=R
+  pp_end: '548'
+  pp_start: '523'
+  title: Differential Equations for Real-Structured Defectivity Measures
+  volume: '36'
