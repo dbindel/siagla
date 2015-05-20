@@ -865,3 +865,29 @@
   pp_start: '523'
   title: Differential Equations for Real-Structured Defectivity Measures
   volume: '36'
+- authors: Garret Flagg and Serkan Gugercin
+  date: '2015-05-19T07:00:00Z'
+  doi: doi:10.1137/130947830
+  link: http://epubs.siam.org/doi/abs/10.1137/130947830?ai=s7&mi=3ezuvv&af=R
+  pp_end: '579'
+  pp_start: '549'
+  title: Multipoint Volterra Series Interpolation and $\mathcal{H}_2$ Optimal Model
+    Reduction of Bilinear Systems
+  volume: '36'
+- authors: Andrii Dmytryshyn and Bo K&#229;gstr&#246;m
+  date: '2015-05-19T07:00:00Z'
+  doi: doi:10.1137/151005907
+  link: http://epubs.siam.org/doi/abs/10.1137/151005907?ai=s7&mi=3ezuvv&af=R
+  pp_end: '593'
+  pp_start: '580'
+  title: Coupled Sylvester-type Matrix Equations and Block Diagonalization
+  volume: '36'
+- authors: Philipp Bader, Sergio Blanes and Muaz Seydao&#287;lu
+  date: '2015-05-19T07:00:00Z'
+  doi: doi:10.1137/14098003X
+  link: http://epubs.siam.org/doi/abs/10.1137/14098003X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '614'
+  pp_start: '594'
+  title: The Scaling, Splitting, and Squaring Method for the Exponential of Perturbed
+    Matrices
+  volume: '36'
