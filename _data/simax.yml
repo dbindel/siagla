@@ -899,3 +899,20 @@
   pp_start: '615'
   title: Solvability of Parametric Interval Linear Systems of Equations and Inequalities
   volume: '36'
+- authors: N. Guglielmi and M. Zennaro
+  date: '2015-06-02T07:00:00Z'
+  doi: doi:10.1137/140962814
+  link: http://epubs.siam.org/doi/abs/10.1137/140962814?ai=s7&mi=3ezuvv&af=R
+  pp_end: '655'
+  pp_start: '634'
+  title: Canonical Construction of Polytope Barabanov Norms and Antinorms for Sets
+    of Matrices
+  volume: '36'
+- authors: Jonathan Baker, Mark Embree and John Sabino
+  date: '2015-06-02T07:00:00Z'
+  doi: doi:10.1137/140993867
+  link: http://epubs.siam.org/doi/abs/10.1137/140993867?ai=s7&mi=3ezuvv&af=R
+  pp_end: '668'
+  pp_start: '656'
+  title: Fast Singular Value Decay for Lyapunov Solutions with Nonnormal Coefficients
+  volume: '36'
