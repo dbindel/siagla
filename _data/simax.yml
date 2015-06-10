@@ -916,3 +916,19 @@
   pp_start: '656'
   title: Fast Singular Value Decay for Lyapunov Solutions with Nonnormal Coefficients
   volume: '36'
+- authors: Massimiliano Fasi, Nicholas J. Higham and Bruno Iannazzo
+  date: '2015-06-09T07:00:00Z'
+  doi: doi:10.1137/140997610
+  link: http://epubs.siam.org/doi/abs/10.1137/140997610?ai=s7&mi=3ezuvv&af=R
+  pp_end: '685'
+  pp_start: '669'
+  title: An Algorithm for the Matrix Lambert $W$ Function
+  volume: '36'
+- authors: Michele Benzi and Christine Klymko
+  date: '2015-06-09T07:00:00Z'
+  doi: doi:10.1137/130950550
+  link: http://epubs.siam.org/doi/abs/10.1137/130950550?ai=s7&mi=3ezuvv&af=R
+  pp_end: '706'
+  pp_start: '686'
+  title: On the Limiting Behavior of Parameter-Dependent Network Centrality Measures
+  volume: '36'
