@@ -932,3 +932,38 @@
   pp_start: '686'
   title: On the Limiting Behavior of Parameter-Dependent Network Centrality Measures
   volume: '36'
+- authors: Hua Dai, Zhong-Zhi Bai and Ying Wei
+  date: '2015-06-11T07:00:00Z'
+  doi: doi:10.1137/140972494
+  link: http://epubs.siam.org/doi/abs/10.1137/140972494?ai=s7&mi=3ezuvv&af=R
+  pp_end: '726'
+  pp_start: '707'
+  title: On the Solvability Condition and Numerical Algorithm for the Parameterized
+    Generalized Inverse Eigenvalue Problem
+  volume: '36'
+- authors: M. Rozlo&#382;n&#205;k, F. Okulicka-D&#321;u&#380;ewska and A. Smoktunowicz
+  date: '2015-06-11T07:00:00Z'
+  doi: doi:10.1137/130947003
+  link: http://epubs.siam.org/doi/abs/10.1137/130947003?ai=s7&mi=3ezuvv&af=R
+  pp_end: '751'
+  pp_start: '727'
+  title: Cholesky-Like Factorization of Symmetric Indefinite Matrices and Orthogonalization
+    with Respect to Bilinear Forms
+  volume: '36'
+- authors: Zhi Zhao, Zheng-Jian Bai and Xiao-Qing Jin
+  date: '2015-06-11T07:00:00Z'
+  doi: doi:10.1137/140967994
+  link: http://epubs.siam.org/doi/abs/10.1137/140967994?ai=s7&mi=3ezuvv&af=R
+  pp_end: '774'
+  pp_start: '752'
+  title: A Riemannian Newton Algorithm for Nonlinear Eigenvalue Problems
+  volume: '36'
+- authors: Yao-Lin Jiang and Xu Kong
+  date: '2015-06-11T07:00:00Z'
+  doi: doi:10.1137/140975577
+  link: http://epubs.siam.org/doi/abs/10.1137/140975577?ai=s7&mi=3ezuvv&af=R
+  pp_end: '792'
+  pp_start: '775'
+  title: On the Uniqueness and Perturbation to the Best Rank-One Approximation of
+    a Tensor
+  volume: '36'
