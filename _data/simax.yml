@@ -992,3 +992,12 @@
   pp_start: '839'
   title: A Matrix Polynomial Spectral Approach for General Joint Block Diagonalization
   volume: '36'
+- authors: Philippe Dreesen, Mariya Ishteva and Johan Schoukens
+  date: '2015-06-25T07:00:00Z'
+  doi: doi:10.1137/140991546
+  link: http://epubs.siam.org/doi/abs/10.1137/140991546?ai=s7&mi=3ezuvv&af=R
+  pp_end: '879'
+  pp_start: '864'
+  title: Decoupling Multivariate Polynomials Using First-Order Information and Tensor
+    Decompositions
+  volume: '36'
