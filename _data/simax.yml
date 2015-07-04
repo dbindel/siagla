@@ -1018,3 +1018,11 @@
   title: Generalized Rational Krylov Decompositions with an Application to Rational
     Approximation
   volume: '36'
+- authors: Erik Thiede, Brian Van Koten and Jonathan Weare
+  date: '2015-07-02T07:00:00Z'
+  doi: doi:10.1137/140987900
+  link: http://epubs.siam.org/doi/abs/10.1137/140987900?ai=s7&mi=3ezuvv&af=R
+  pp_end: '941'
+  pp_start: '917'
+  title: Sharp Entrywise Perturbation Bounds for Markov Chains
+  volume: '36'
