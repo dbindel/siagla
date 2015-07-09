@@ -1026,3 +1026,11 @@
   pp_start: '917'
   title: Sharp Entrywise Perturbation Bounds for Markov Chains
   volume: '36'
+- authors: Jared L. Aurentz, Thomas Mach, Raf Vandebril and David S. Watkins
+  date: '2015-07-07T07:00:00Z'
+  doi: doi:10.1137/140983434
+  link: http://epubs.siam.org/doi/abs/10.1137/140983434?ai=s7&mi=3ezuvv&af=R
+  pp_end: '973'
+  pp_start: '942'
+  title: Fast and Backward Stable Computation of Roots of Polynomials
+  volume: '36'
