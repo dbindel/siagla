@@ -1034,3 +1034,20 @@
   pp_start: '942'
   title: Fast and Backward Stable Computation of Roots of Polynomials
   volume: '36'
+- authors: Charles F. Van Loan and Joseph P. Vokt
+  date: '2015-07-16T07:00:00Z'
+  doi: doi:10.1137/140986347
+  link: http://epubs.siam.org/doi/abs/10.1137/140986347?ai=s7&mi=3ezuvv&af=R
+  pp_end: '993'
+  pp_start: '974'
+  title: Approximating Matrices with Multiple Symmetries
+  volume: '36'
+- authors: Namgil Lee and Andrzej Cichocki
+  date: '2015-07-16T07:00:00Z'
+  doi: doi:10.1137/140983410
+  link: http://epubs.siam.org/doi/abs/10.1137/140983410?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1014'
+  pp_start: '994'
+  title: Estimating a Few Extreme Singular Values and Vectors for Large-Scale Matrices
+    in Tensor Train Format
+  volume: '36'
