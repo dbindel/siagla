@@ -1051,3 +1051,29 @@
   title: Estimating a Few Extreme Singular Values and Vectors for Large-Scale Matrices
     in Tensor Train Format
   volume: '36'
+- authors: Mikael S&#248;rensen, Ignat Domanov and Lieven De Lathauwer
+  date: '2015-07-21T07:00:00Z'
+  doi: doi:10.1137/140956865
+  link: http://epubs.siam.org/doi/abs/10.1137/140956865?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1045'
+  pp_start: '1015'
+  title: 'Coupled Canonical Polyadic Decompositions and (Coupled) Decompositions in
+    Multilinear Rank- $(L_{r,n},L_{r,n},1)$ Terms---Part II: Algorithms'
+  volume: '36'
+- authors: R. Bevilacqua, G. M. Del Corso and L. Gemignani
+  date: '2015-07-21T07:00:00Z'
+  doi: doi:10.1137/140978065
+  link: http://epubs.siam.org/doi/abs/10.1137/140978065?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1068'
+  pp_start: '1046'
+  title: A CMV-Based Eigensolver for Companion Matrices
+  volume: '36'
+- authors: Sheng Chen and Yunbo Tian
+  date: '2015-07-21T07:00:00Z'
+  doi: doi:10.1137/140974031
+  link: http://epubs.siam.org/doi/abs/10.1137/140974031?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1072'
+  pp_start: '1069'
+  title: Note on &#8220;On the Singular &#8220;Vectors&#8221; of the Lyapunov Operator&#8221;
+    by  R. Byers and S. Nash
+  volume: '36'
