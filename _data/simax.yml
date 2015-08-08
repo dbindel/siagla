@@ -1094,3 +1094,11 @@
   title: Spectral Analysis and Spectral Symbol of $d$-variate $\mathbb Q_{\boldsymbol
     p}$ Lagrangian FEM Stiffness Matrices
   volume: '36'
+- authors: Yuan Xu
+  date: '2015-08-06T07:00:00Z'
+  doi: doi:10.1137/140972810
+  link: http://epubs.siam.org/doi/abs/10.1137/140972810?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1142'
+  pp_start: '1129'
+  title: Generalized Characteristic Polynomials and Gaussian Cubature Rules
+  volume: '36'
