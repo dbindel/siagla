@@ -1102,3 +1102,36 @@
   pp_start: '1129'
   title: Generalized Characteristic Polynomials and Gaussian Cubature Rules
   volume: '36'
+- authors: John T. Holodnak, Ilse C. F. Ipsen and Thomas Wentworth
+  date: '2015-08-11T07:00:00Z'
+  doi: doi:10.1137/140988541
+  link: http://epubs.siam.org/doi/abs/10.1137/140988541?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1163'
+  pp_start: '1143'
+  title: Conditioning of Leverage Scores and Computation by QR Decomposition
+  volume: '36'
+- authors: Meik D&#246;rpinghaus, Norbert Gaffke, Lorens A. Imhof and Rudolf Mathar
+  date: '2015-08-11T07:00:00Z'
+  doi: doi:10.1137/140954647
+  link: http://epubs.siam.org/doi/abs/10.1137/140954647?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1179'
+  pp_start: '1164'
+  title: A Log-Det Inequality for Random Matrices
+  volume: '36'
+- authors: Sungkyu Jung, Armin Schwartzman and David Groisser
+  date: '2015-08-11T07:00:00Z'
+  doi: doi:10.1137/140967040
+  link: http://epubs.siam.org/doi/abs/10.1137/140967040?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1201'
+  pp_start: '1180'
+  title: Scaling-Rotation Distance and Interpolation of Symmetric Positive-Definite
+    Matrices
+  volume: '36'
+- authors: Richard A. Brualdi and Geir Dahl
+  date: '2015-08-11T07:00:00Z'
+  doi: doi:10.1137/140995428
+  link: http://epubs.siam.org/doi/abs/10.1137/140995428?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1220'
+  pp_start: '1202'
+  title: Strict Sign-Central Matrices
+  volume: '36'
