@@ -4,6 +4,16 @@
 # an award for a two-part paper in 2009.
 
 -
+  awardees: David Bindel and Amanda Hood
+  year: 2015
+  papers:
+  - title: "Localization Theorems for Nonlinear Eigenvalue Problems"
+    journal: simax
+    volume: 34
+    pages: 1728-1749
+    year: 2015
+    url: http://epubs.siam.org/doi/abs/10.1137/130913651
+-
   awardees: Sou-Cheng Choi, Christopher Paige, and Michael Saunders
   year: 2012
   papers:
