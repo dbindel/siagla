@@ -839,3 +839,307 @@
   pp_start: '461'
   title: Strongly Damped Quadratic Matrix Polynomials
   volume: '36'
+- authors: Rong Huang and Delin Chu
+  date: '2015-04-28T07:00:00Z'
+  doi: doi:10.1137/140995702
+  link: http://epubs.siam.org/doi/abs/10.1137/140995702?ai=s7&mi=3ezuvv&af=R
+  pp_end: '495'
+  pp_start: '476'
+  title: Relative Perturbation Analysis for Eigenvalues  and Singular Values of Totally
+    Nonpositive Matrices
+  volume: '36'
+- authors: Mikael S&#248;rensen and Lieven De De Lathauwer
+  date: '2015-05-07T07:00:00Z'
+  doi: doi:10.1137/140956853
+  link: http://epubs.siam.org/doi/abs/10.1137/140956853?ai=s7&mi=3ezuvv&af=R
+  pp_end: '522'
+  pp_start: '496'
+  title: 'Coupled Canonical Polyadic Decompositions  and (Coupled) Decompositions
+    in Multilinear Rank-$(L_r,n,L_r,n,1)$ Terms---Part I: Uniqueness'
+  volume: '36'
+- authors: P. Butt&#224;, N. Guglielmi, M. Manetta and S. Noschese
+  date: '2015-05-12T07:00:00Z'
+  doi: doi:10.1137/140964631
+  link: http://epubs.siam.org/doi/abs/10.1137/140964631?ai=s7&mi=3ezuvv&af=R
+  pp_end: '548'
+  pp_start: '523'
+  title: Differential Equations for Real-Structured Defectivity Measures
+  volume: '36'
+- authors: Garret Flagg and Serkan Gugercin
+  date: '2015-05-19T07:00:00Z'
+  doi: doi:10.1137/130947830
+  link: http://epubs.siam.org/doi/abs/10.1137/130947830?ai=s7&mi=3ezuvv&af=R
+  pp_end: '579'
+  pp_start: '549'
+  title: Multipoint Volterra Series Interpolation and $\mathcal{H}_2$ Optimal Model
+    Reduction of Bilinear Systems
+  volume: '36'
+- authors: Andrii Dmytryshyn and Bo K&#229;gstr&#246;m
+  date: '2015-05-19T07:00:00Z'
+  doi: doi:10.1137/151005907
+  link: http://epubs.siam.org/doi/abs/10.1137/151005907?ai=s7&mi=3ezuvv&af=R
+  pp_end: '593'
+  pp_start: '580'
+  title: Coupled Sylvester-type Matrix Equations and Block Diagonalization
+  volume: '36'
+- authors: Philipp Bader, Sergio Blanes and Muaz Seydao&#287;lu
+  date: '2015-05-19T07:00:00Z'
+  doi: doi:10.1137/14098003X
+  link: http://epubs.siam.org/doi/abs/10.1137/14098003X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '614'
+  pp_start: '594'
+  title: The Scaling, Splitting, and Squaring Method for the Exponential of Perturbed
+    Matrices
+  volume: '36'
+- authors: Evgenija D. Popova
+  date: '2015-05-26T07:00:00Z'
+  doi: doi:10.1137/140966459
+  link: http://epubs.siam.org/doi/abs/10.1137/140966459?ai=s7&mi=3ezuvv&af=R
+  pp_end: '633'
+  pp_start: '615'
+  title: Solvability of Parametric Interval Linear Systems of Equations and Inequalities
+  volume: '36'
+- authors: N. Guglielmi and M. Zennaro
+  date: '2015-06-02T07:00:00Z'
+  doi: doi:10.1137/140962814
+  link: http://epubs.siam.org/doi/abs/10.1137/140962814?ai=s7&mi=3ezuvv&af=R
+  pp_end: '655'
+  pp_start: '634'
+  title: Canonical Construction of Polytope Barabanov Norms and Antinorms for Sets
+    of Matrices
+  volume: '36'
+- authors: Jonathan Baker, Mark Embree and John Sabino
+  date: '2015-06-02T07:00:00Z'
+  doi: doi:10.1137/140993867
+  link: http://epubs.siam.org/doi/abs/10.1137/140993867?ai=s7&mi=3ezuvv&af=R
+  pp_end: '668'
+  pp_start: '656'
+  title: Fast Singular Value Decay for Lyapunov Solutions with Nonnormal Coefficients
+  volume: '36'
+- authors: Massimiliano Fasi, Nicholas J. Higham and Bruno Iannazzo
+  date: '2015-06-09T07:00:00Z'
+  doi: doi:10.1137/140997610
+  link: http://epubs.siam.org/doi/abs/10.1137/140997610?ai=s7&mi=3ezuvv&af=R
+  pp_end: '685'
+  pp_start: '669'
+  title: An Algorithm for the Matrix Lambert $W$ Function
+  volume: '36'
+- authors: Michele Benzi and Christine Klymko
+  date: '2015-06-09T07:00:00Z'
+  doi: doi:10.1137/130950550
+  link: http://epubs.siam.org/doi/abs/10.1137/130950550?ai=s7&mi=3ezuvv&af=R
+  pp_end: '706'
+  pp_start: '686'
+  title: On the Limiting Behavior of Parameter-Dependent Network Centrality Measures
+  volume: '36'
+- authors: Hua Dai, Zhong-Zhi Bai and Ying Wei
+  date: '2015-06-11T07:00:00Z'
+  doi: doi:10.1137/140972494
+  link: http://epubs.siam.org/doi/abs/10.1137/140972494?ai=s7&mi=3ezuvv&af=R
+  pp_end: '726'
+  pp_start: '707'
+  title: On the Solvability Condition and Numerical Algorithm for the Parameterized
+    Generalized Inverse Eigenvalue Problem
+  volume: '36'
+- authors: M. Rozlo&#382;n&#205;k, F. Okulicka-D&#321;u&#380;ewska and A. Smoktunowicz
+  date: '2015-06-11T07:00:00Z'
+  doi: doi:10.1137/130947003
+  link: http://epubs.siam.org/doi/abs/10.1137/130947003?ai=s7&mi=3ezuvv&af=R
+  pp_end: '751'
+  pp_start: '727'
+  title: Cholesky-Like Factorization of Symmetric Indefinite Matrices and Orthogonalization
+    with Respect to Bilinear Forms
+  volume: '36'
+- authors: Zhi Zhao, Zheng-Jian Bai and Xiao-Qing Jin
+  date: '2015-06-11T07:00:00Z'
+  doi: doi:10.1137/140967994
+  link: http://epubs.siam.org/doi/abs/10.1137/140967994?ai=s7&mi=3ezuvv&af=R
+  pp_end: '774'
+  pp_start: '752'
+  title: A Riemannian Newton Algorithm for Nonlinear Eigenvalue Problems
+  volume: '36'
+- authors: Yao-Lin Jiang and Xu Kong
+  date: '2015-06-11T07:00:00Z'
+  doi: doi:10.1137/140975577
+  link: http://epubs.siam.org/doi/abs/10.1137/140975577?ai=s7&mi=3ezuvv&af=R
+  pp_end: '792'
+  pp_start: '775'
+  title: On the Uniqueness and Perturbation to the Best Rank-One Approximation of
+    a Tensor
+  volume: '36'
+- authors: Erin Carson and James W. Demmel
+  date: '2015-06-18T07:00:00Z'
+  doi: doi:10.1137/140990735
+  link: http://epubs.siam.org/doi/abs/10.1137/140990735?ai=s7&mi=3ezuvv&af=R
+  pp_end: '819'
+  pp_start: '793'
+  title: Accuracy of the $s$-Step Lanczos Method for the Symmetric Eigenproblem in
+    Finite Precision
+  volume: '36'
+- authors: Roel Van Beeumen, Karl Meerbergen and Wim Michiels
+  date: '2015-06-18T07:00:00Z'
+  doi: doi:10.1137/140976698
+  link: http://epubs.siam.org/doi/abs/10.1137/140976698?ai=s7&mi=3ezuvv&af=R
+  pp_end: '838'
+  pp_start: '820'
+  title: Compact Rational Krylov Methods for Nonlinear Eigenvalue Problems
+  volume: '36'
+- authors: Yunfeng Cai, Decai Shi and Shufang Xu
+  date: '2015-06-18T07:00:00Z'
+  doi: doi:10.1137/130935264
+  link: http://epubs.siam.org/doi/abs/10.1137/130935264?ai=s7&mi=3ezuvv&af=R
+  pp_end: '863'
+  pp_start: '839'
+  title: A Matrix Polynomial Spectral Approach for General Joint Block Diagonalization
+  volume: '36'
+- authors: Philippe Dreesen, Mariya Ishteva and Johan Schoukens
+  date: '2015-06-25T07:00:00Z'
+  doi: doi:10.1137/140991546
+  link: http://epubs.siam.org/doi/abs/10.1137/140991546?ai=s7&mi=3ezuvv&af=R
+  pp_end: '879'
+  pp_start: '864'
+  title: Decoupling Multivariate Polynomials Using First-Order Information and Tensor
+    Decompositions
+  volume: '36'
+- authors: Jorge Delgado and J. M. Pen&#834;a
+  date: '2015-06-30T07:00:00Z'
+  doi: doi:10.1137/140993211
+  link: http://epubs.siam.org/doi/abs/10.1137/140993211?ai=s7&mi=3ezuvv&af=R
+  pp_end: '893'
+  pp_start: '880'
+  title: Accurate Computations with Collocation Matrices of q-Bernstein Polynomials
+  volume: '36'
+- authors: Mario Berljafa and Stefan G&#252;ttel
+  date: '2015-06-30T07:00:00Z'
+  doi: doi:10.1137/140998081
+  link: http://epubs.siam.org/doi/abs/10.1137/140998081?ai=s7&mi=3ezuvv&af=R
+  pp_end: '916'
+  pp_start: '894'
+  title: Generalized Rational Krylov Decompositions with an Application to Rational
+    Approximation
+  volume: '36'
+- authors: Erik Thiede, Brian Van Koten and Jonathan Weare
+  date: '2015-07-02T07:00:00Z'
+  doi: doi:10.1137/140987900
+  link: http://epubs.siam.org/doi/abs/10.1137/140987900?ai=s7&mi=3ezuvv&af=R
+  pp_end: '941'
+  pp_start: '917'
+  title: Sharp Entrywise Perturbation Bounds for Markov Chains
+  volume: '36'
+- authors: Jared L. Aurentz, Thomas Mach, Raf Vandebril and David S. Watkins
+  date: '2015-07-07T07:00:00Z'
+  doi: doi:10.1137/140983434
+  link: http://epubs.siam.org/doi/abs/10.1137/140983434?ai=s7&mi=3ezuvv&af=R
+  pp_end: '973'
+  pp_start: '942'
+  title: Fast and Backward Stable Computation of Roots of Polynomials
+  volume: '36'
+- authors: Charles F. Van Loan and Joseph P. Vokt
+  date: '2015-07-16T07:00:00Z'
+  doi: doi:10.1137/140986347
+  link: http://epubs.siam.org/doi/abs/10.1137/140986347?ai=s7&mi=3ezuvv&af=R
+  pp_end: '993'
+  pp_start: '974'
+  title: Approximating Matrices with Multiple Symmetries
+  volume: '36'
+- authors: Namgil Lee and Andrzej Cichocki
+  date: '2015-07-16T07:00:00Z'
+  doi: doi:10.1137/140983410
+  link: http://epubs.siam.org/doi/abs/10.1137/140983410?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1014'
+  pp_start: '994'
+  title: Estimating a Few Extreme Singular Values and Vectors for Large-Scale Matrices
+    in Tensor Train Format
+  volume: '36'
+- authors: Mikael S&#248;rensen, Ignat Domanov and Lieven De Lathauwer
+  date: '2015-07-21T07:00:00Z'
+  doi: doi:10.1137/140956865
+  link: http://epubs.siam.org/doi/abs/10.1137/140956865?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1045'
+  pp_start: '1015'
+  title: 'Coupled Canonical Polyadic Decompositions and (Coupled) Decompositions in
+    Multilinear Rank- $(L_{r,n},L_{r,n},1)$ Terms---Part II: Algorithms'
+  volume: '36'
+- authors: R. Bevilacqua, G. M. Del Corso and L. Gemignani
+  date: '2015-07-21T07:00:00Z'
+  doi: doi:10.1137/140978065
+  link: http://epubs.siam.org/doi/abs/10.1137/140978065?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1068'
+  pp_start: '1046'
+  title: A CMV-Based Eigensolver for Companion Matrices
+  volume: '36'
+- authors: Sheng Chen and Yunbo Tian
+  date: '2015-07-21T07:00:00Z'
+  doi: doi:10.1137/140974031
+  link: http://epubs.siam.org/doi/abs/10.1137/140974031?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1072'
+  pp_start: '1069'
+  title: Note on &#8220;On the Singular &#8220;Vectors&#8221; of the Lyapunov Operator&#8221;
+    by  R. Byers and S. Nash
+  volume: '36'
+- authors: Weiyang Ding and Yimin Wei
+  date: '2015-08-04T07:00:00Z'
+  doi: doi:10.1137/140975656
+  link: http://epubs.siam.org/doi/abs/10.1137/140975656?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1099'
+  pp_start: '1073'
+  title: Generalized Tensor Eigenvalue Problems
+  volume: '36'
+- authors: Carlo Garoni, Stefano Serra-Capizzano and Debora Sesana
+  date: '2015-08-04T07:00:00Z'
+  doi: doi:10.1137/140976480
+  link: http://epubs.siam.org/doi/abs/10.1137/140976480?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1128'
+  pp_start: '1100'
+  title: Spectral Analysis and Spectral Symbol of $d$-variate $\mathbb Q_{\boldsymbol
+    p}$ Lagrangian FEM Stiffness Matrices
+  volume: '36'
+- authors: Yuan Xu
+  date: '2015-08-06T07:00:00Z'
+  doi: doi:10.1137/140972810
+  link: http://epubs.siam.org/doi/abs/10.1137/140972810?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1142'
+  pp_start: '1129'
+  title: Generalized Characteristic Polynomials and Gaussian Cubature Rules
+  volume: '36'
+- authors: John T. Holodnak, Ilse C. F. Ipsen and Thomas Wentworth
+  date: '2015-08-11T07:00:00Z'
+  doi: doi:10.1137/140988541
+  link: http://epubs.siam.org/doi/abs/10.1137/140988541?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1163'
+  pp_start: '1143'
+  title: Conditioning of Leverage Scores and Computation by QR Decomposition
+  volume: '36'
+- authors: Meik D&#246;rpinghaus, Norbert Gaffke, Lorens A. Imhof and Rudolf Mathar
+  date: '2015-08-11T07:00:00Z'
+  doi: doi:10.1137/140954647
+  link: http://epubs.siam.org/doi/abs/10.1137/140954647?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1179'
+  pp_start: '1164'
+  title: A Log-Det Inequality for Random Matrices
+  volume: '36'
+- authors: Sungkyu Jung, Armin Schwartzman and David Groisser
+  date: '2015-08-11T07:00:00Z'
+  doi: doi:10.1137/140967040
+  link: http://epubs.siam.org/doi/abs/10.1137/140967040?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1201'
+  pp_start: '1180'
+  title: Scaling-Rotation Distance and Interpolation of Symmetric Positive-Definite
+    Matrices
+  volume: '36'
+- authors: Richard A. Brualdi and Geir Dahl
+  date: '2015-08-11T07:00:00Z'
+  doi: doi:10.1137/140995428
+  link: http://epubs.siam.org/doi/abs/10.1137/140995428?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1220'
+  pp_start: '1202'
+  title: Strict Sign-Central Matrices
+  volume: '36'
+- authors: Vladimir Kazeev and Christoph Schwab
+  date: '2015-08-13T07:00:00Z'
+  doi: doi:10.1137/130927218
+  link: http://epubs.siam.org/doi/abs/10.1137/130927218?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1247'
+  pp_start: '1221'
+  title: Tensor Approximation of Stationary Distributions of Chemical Reaction Networks
+  volume: '36'
