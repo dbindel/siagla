@@ -1143,3 +1143,12 @@
   pp_start: '1221'
   title: Tensor Approximation of Stationary Distributions of Chemical Reaction Networks
   volume: '36'
+- authors: Daeshik Choi and Anne Greenbaum
+  date: '2015-08-27T07:00:00Z'
+  doi: doi:10.1137/140990395
+  link: http://epubs.siam.org/doi/abs/10.1137/140990395?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1262'
+  pp_start: '1248'
+  title: An Algorithm for Finding a 2-Similarity Transformation from a Numerical Contraction
+    to a Contraction
+  volume: '36'
