@@ -1152,3 +1152,20 @@
   title: An Algorithm for Finding a 2-Similarity Transformation from a Numerical Contraction
     to a Contraction
   volume: '36'
+- authors: Michele Benzi and Valeria Simoncini
+  date: '2015-09-01T07:00:00Z'
+  doi: doi:10.1137/151006159
+  link: http://epubs.siam.org/doi/abs/10.1137/151006159?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1282'
+  pp_start: '1263'
+  title: Decay Bounds for Functions of Hermitian Matrices with Banded or Kronecker
+    Structure
+  volume: '36'
+- authors: Jianlin Xia, Yuanzhe Xi, Stephen Cauley and Venkataramanan Balakrishnan
+  date: '2015-09-01T07:00:00Z'
+  doi: doi:10.1137/14095755X
+  link: http://epubs.siam.org/doi/abs/10.1137/14095755X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1314'
+  pp_start: '1283'
+  title: Fast Sparse Selected Inversion
+  volume: '36'
