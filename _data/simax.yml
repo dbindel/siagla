@@ -1169,3 +1169,12 @@
   pp_start: '1283'
   title: Fast Sparse Selected Inversion
   volume: '36'
+- authors: Kim Batselier, Haotian Liu and Ngai Wong
+  date: '2015-09-10T07:00:00Z'
+  doi: doi:10.1137/141000658
+  link: http://epubs.siam.org/doi/abs/10.1137/141000658?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1337'
+  pp_start: '1315'
+  title: A Constructive Algorithm for Decomposing a Tensor into a Finite Sum of Orthonormal
+    Rank-1 Terms
+  volume: '36'
