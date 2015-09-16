@@ -1178,3 +1178,11 @@
   title: A Constructive Algorithm for Decomposing a Tensor into a Finite Sum of Orthonormal
     Rank-1 Terms
   volume: '36'
+- authors: Jennifer B. Erway and Roummel F. Marcia
+  date: '2015-09-15T07:00:00Z'
+  doi: doi:10.1137/140997737
+  link: http://epubs.siam.org/doi/abs/10.1137/140997737?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1359'
+  pp_start: '1338'
+  title: On Efficiently Computing the Eigenvalues of Limited-Memory Quasi-Newton Matrices
+  volume: '36'
