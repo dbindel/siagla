@@ -1186,3 +1186,12 @@
   pp_start: '1338'
   title: On Efficiently Computing the Eigenvalues of Limited-Memory Quasi-Newton Matrices
   volume: '36'
+- authors: Dmitriy Drusvyatskiy, Hon-Leung Lee and Rekha R. Thomas
+  date: '2015-09-30T07:00:00Z'
+  doi: doi:10.1137/15M1007835
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1007835?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1380'
+  pp_start: '1360'
+  title: Counting Real Critical Points of the Distance to Orthogonally Invariant Matrix
+    Sets
+  volume: '36'
