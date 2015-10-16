@@ -1204,3 +1204,28 @@
   title: New Uniqueness Conditions for the Canonical Polyadic Decomposition of Third-Order
     Tensors
   volume: '36'
+- authors: Nicolas Gillis and Abhishek Kumar
+  date: '2015-10-15T07:00:00Z'
+  doi: doi:10.1137/140993272
+  link: http://epubs.siam.org/doi/abs/10.1137/140993272?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1424'
+  pp_start: '1404'
+  title: Exact and Heuristic Algorithms for Semi-Nonnegative Matrix Factorization
+  volume: '36'
+- authors: Piers W. Lawrence and Robert M. Corless
+  date: '2015-10-15T07:00:00Z'
+  doi: doi:10.1137/140979034
+  link: http://epubs.siam.org/doi/abs/10.1137/140979034?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1442'
+  pp_start: '1425'
+  title: Backward Error of Polynomial Eigenvalue Problems Solved by Linearization
+    of Lagrange Interpolants
+  volume: '36'
+- authors: Alexey Kuznetsov
+  date: '2015-10-15T07:00:00Z'
+  doi: doi:10.1137/15M1006428
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1006428?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1464'
+  pp_start: '1443'
+  title: Explicit Hermite-type Eigenvectors of the Discrete Fourier Transform
+  volume: '36'
