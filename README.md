@@ -134,6 +134,27 @@ The job record YAML looks like:
 If no closing date is explicitly mentioned, I default to two months
 after the posting.
 
+## Forms for job and conference postings
+
+Job and conference advertisements can be submitted through email
+or via a Google Forms setup.  The forms have an attached script
+to email submitters when they have successfully submitted an
+advertisement.  The `sync-jobs.py` and `sync-conf.py` scripts under
+the `_util` subdirectory create appropriately-formated files for
+inclusion under the `_meetings` and `_jobads` directories.  For
+example, to post a new conference ad submitted via the web form,
+one might (for example) do:
+
+    cd _util
+    python sync-conf.py
+    cp 2015-10-01-foo.md ../_meetings
+    git add ../_meetings/2015-10-01-foo.md
+    git commit -m "Added foo meeting"
+    git push origin
+
+Note that the `sync-conf.py` script and `sync-jobs.py` script require
+`pandas`, `gspread`, and `oauth2client`.  All of these can be
+installed via `pip`.
 
 ## SIMAX papers
 
