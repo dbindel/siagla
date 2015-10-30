@@ -5,13 +5,15 @@ nav: jobs
 jquery: blurb.js
 ---
 
+<p>
 The following jobs have been advertised to the SIAG/LA mailing list
 at the request of SIAG/LA members.  If no closing date is included
 in the request, the default is two months after the original posting.
 If you are a job-seeker, you may also be interested in the
 <a href="http://jobs.siam.org/">SIAM Job Board</a> or
 <a href="http://www.netlib.org/na-digest-html/">NA Digest</a>.
-
+SIAG-LA members may <a href="form_jobs.html">submit job ads via a web form.</a>
+</p>
 
 {% for ad in site.jobads reversed %}
 {% assign fname = ad.relative_path | remove:"_jobads/" %}
