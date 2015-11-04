@@ -1229,3 +1229,19 @@
   pp_start: '1443'
   title: Explicit Hermite-type Eigenvectors of the Discrete Fourier Transform
   volume: '36'
+- authors: F. Fogel, R. Jenatton, F. Bach and A. d'Aspremont
+  date: '2015-11-03T08:00:00Z'
+  doi: doi:10.1137/130947362
+  link: http://epubs.siam.org/doi/abs/10.1137/130947362?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1488'
+  pp_start: '1465'
+  title: Convex Relaxations for Permutation Problems
+  volume: '36'
+- authors: Xin-Guo Liu, Xue-Feng Wang and Wei-Guo Wang
+  date: '2015-11-03T08:00:00Z'
+  doi: doi:10.1137/15M100883X
+  link: http://epubs.siam.org/doi/abs/10.1137/15M100883X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1506'
+  pp_start: '1489'
+  title: Maximization of Matrix Trace Function of Product Stiefel Manifolds
+  volume: '36'
