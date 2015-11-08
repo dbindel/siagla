@@ -9,7 +9,7 @@ import pandas as pd
 import json
 
 SCOPE = ["https://spreadsheets.google.com/feeds"]
-SECRETS_FILE = "SIAG-key.json"
+SECRETS_FILE = "../../SIAG-key.json"
 SPREADSHEET = "SIAG LA job posting (Responses)"
 
 # Based on docs here - http://gspread.readthedocs.org/en/latest/oauth2.html
