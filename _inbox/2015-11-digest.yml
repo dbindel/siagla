@@ -1,0 +1,56 @@
+welcome: |
+  It was a pleasure seeing many of you at SIAM ALA in Atlanta, Georgia,
+  and it has been a pleasure serving as SIAG secretary.  We will have a
+  new slate of officers in January; don't forget to vote!
+announce:
+  -
+    title: Minutes of the SIAG LA business meeting
+    content: |
+      The SIAG LA business meeting took place on October 27 during the
+      SIAM ALA meeting in Atlanta, Georgia.  Minutes of the meeting
+      have been posted at
+      <http://siags.siam.org/siagla//2015/10/27/minutes.html>.
+  -
+    title: SIAG officer elections
+    content: |
+      Officer elections for SIAG LA are underway, and voting is open
+      until Dec 2, 2015.  The slate is
+
+        - Chair: Peter Benner and Jim Nagy
+        - Vice-Chair: Zhaojun Bai and Alison Ramage
+        - Program Director: Melina Freitag and Xiaoye Li
+        - Secretary: Jennifer Pestana and Raf Vandebril
+
+      The nominating committee was Bruce Hendrickson, Iain Duff, Ilse Ipsen,
+      Chen Greif, and Paul Van Dooren.
+
+      In the initial posting, some of the candidate statements were cut off.
+      This has since been resolved, but for completeness, SIAM has allowed
+      us to post candidate statements at
+
+      <http://siags.siam.org/siagla/articles/2015-statements.pdf>
+  -
+    title: SIAG LA conference/job postings
+    content: |
+      In addition to the usual email-based submission, the SIAG LA web
+      page now has a form-based submission system for conference and
+      job advertisements.  You can reach these forms from the
+      "posting" link at the top of the conferences page and from a
+      link at the top of the jobs page.
+  -
+    title: SIAG LA at SIAM AN16
+    content: |
+      There is a SIAG LA track at the upcoming annual meeting!
+      Minisymposium proposals for AN16 are due January 11, and
+      contributed talks are due by February 1.  We would also like to
+      solicit posters for a SIAG-LA themed miniposterium (a collection
+      of three or more posters by different presenters grouped around
+      a central theme).  If you are interested in participating,
+      please contact Francoise Tisseur (ftisseur@ma.man.ac.uk).
+meetings:
+  - 2016-08-17-mopta
+  - 2016-03-07-gamm
+jobs:
+  - 2015-10-26-mines
+  - 2015-10-05-von-neumann
+  - 2015-09-30-alvarez
