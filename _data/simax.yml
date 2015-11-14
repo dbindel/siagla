@@ -1271,3 +1271,12 @@
   title: Generic Uniqueness Conditions for the Canonical Polyadic Decomposition and
     INDSCAL
   volume: '36'
+- authors: Anna Ma, Deanna Needell and Aaditya Ramdas
+  date: '2015-11-12T08:00:00Z'
+  doi: doi:10.1137/15M1014425
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1014425?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1604'
+  pp_start: '1590'
+  title: Convergence Properties of the Randomized Extended Gauss--Seidel and Kaczmarz
+    Methods
+  volume: '36'
