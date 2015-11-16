@@ -37,6 +37,7 @@ data = pd.DataFrame(sheet.get_all_records())
 for idx, row in data.iterrows():
 
     info   = row['Conference information (Markdown format)']
+    info   = info.encode('ascii', 'xmlcharrefreplace')
     name   = row['Conference Name']
     tag    = row['Short Name']
     dstart = pd.to_datetime(row['Start Date']).replace(hour=12)
