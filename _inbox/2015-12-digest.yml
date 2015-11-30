@@ -4,10 +4,21 @@ welcome: |
   SIAG LA elections (open until December 2).
 announce:
   -
+    title: Miroslav Fiedler
+    content: |
+      With a deep sorrow we inform you that in the morning of 20th
+      November 2015, Professor Miroslav Fiedler passed away peacefully
+      at his home.
+
+      You may express your sympathy to the family by sending a message
+      to `mathinst@math.cas.cz`.
+
+      Jiri Rakosnik, Miroslav Rozloznik, Zdenek Strakos
+  -
     title: SIAG officer elections
     content: |
       Officer elections for SIAG LA are underway, and voting is open
-      until Dec 2, 2015.  The slate is
+      until this Wednesday, Dec 2, 2015.  The slate is
 
         - Chair: Peter Benner and Jim Nagy
         - Vice-Chair: Zhaojun Bai and Alison Ramage
@@ -22,7 +33,75 @@ announce:
       us to post candidate statements at
 
       <http://siags.siam.org/siagla/articles/2015-statements.pdf>
+  -
+    title:
+    content: |
+      Dear LA15 attendees and SIAG/LA members,
+
+      Presentations from select sessions at the 2015 SIAM Conference
+      on Applied Linear Algebra are now available on SIAM
+      Presents…Featured Lectures from Our Archives:
+        
+      <http://www.siam.org/meetings/presents.php>
+
+      View and listen to invited speakers and the SIAG/LA prize
+      lecture by David Bindel, Cornell University.  Also included are
+      select minisymposia.
+
+      Please go to the direct link below to view all the LA15 sessions
+      captured:
+
+      <https://www.pathlms.com/siam/courses/1697>
+
+      You do not need to login to view presentations, though
+      registering will allow you to track the presentations you
+      access. Audio/slides can be viewed by selecting the
+      meeting/course.  You can filter the list of sessions by using
+      the selections under “All Tracks” and then connecting to a
+      specific session.
+
+      Sincerely,
+
+      The SIAM Conference team  
+      `meetings@siam.org`
+  -
+    title: 2016 Copper Mountain Student Paper Competition
+    content: |
+      The 14th Copper Mountain Conference on Iterative Methods (March 20-25,
+      2016) invites submissions to the student paper competition, see
+      <http://grandmaster.colorado.edu/~copper/2016/student.php#Compete>
+
+      Any current student, or any recent PhD graduate whose degree was awarded
+      after January 1, 2015, is eligible to submit a paper. Papers must
+      contain original unpublished research due mainly to the student. These
+      papers must be received before January 15, 2016. The student must be the
+      primary author and the paper may be no more than 10 pages in length.
+
+      The paper must be emailed as an attachment in PDF format to
+      copper@colorado.edu and identified in the email as an entry for the 2016
+      student paper competition. In addition to emailing the paper, an
+      abstract for the paper must be submitted through our Abstract Submission
+      form. Sending only an abstract is unacceptable. A panel of judges will
+      determine the best papers.
+
+      The Copper Mountain Conference offers reduced student registration rates
+      and awards to pay for lodging and conference expenses for students,
+      subject to NSF funding. Postdocs are not they eligible for student
+      registration fees or lodging support. Students seeking support should
+      email the conference coordinator, Annette Anthony,
+      `annetteFanthony@gmail.com`, for more information.
+
+      The 2016 conference also features a Workshop on Iterative Linear
+      Algebraic Data Mining Techniques Workshop (Sunday, March 20 - Tuesday,
+      Mach 22), which may be of special interest to students, see
+      <http://grandmaster.colorado.edu/~copper/2016/workshops.php>
+
+      Michele Benzi, conference co-chair  
+      Ray Tuminaro, conference co-chair  
+      Sven Leyffer, student competition chair
+
 meetings:
   - 2016-10-10-csc16
 jobs:
   - 2015-11-19-ICTS-TIFR
+  - 2015-11-30-phd-vienna
