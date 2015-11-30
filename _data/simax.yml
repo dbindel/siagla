@@ -1280,3 +1280,11 @@
   title: Convergence Properties of the Randomized Extended Gauss--Seidel and Kaczmarz
     Methods
   volume: '36'
+- authors: George S. Miminis
+  date: '2015-11-19T08:00:00Z'
+  doi: doi:10.1137/140999414
+  link: http://epubs.siam.org/doi/abs/10.1137/140999414?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1621'
+  pp_start: '1605'
+  title: Pole Placement in Single-Input Linear Descriptor Systems
+  volume: '36'
