@@ -1,0 +1,147 @@
+welcome: |
+  Happy New Year!  This edition of the SIAG LA digest will be my last
+  as secretary of the SIAG; as of January 1, Jennifer Pestana is the
+  new secretary.
+announce:
+  -
+    title: New SIAG/LA Officers elected
+    content: |
+      Dear SIAG Linear Algebra (LA):
+ 
+      The newly elected officers for your SIAG are:
+      
+      SIAG/LA/Linear Algebra
+      
+      Chair:
+      James Nagy
+      
+      Vice Chair:
+      Alison Ramage
+      
+      Program Director:
+      Melina Freitag
+      
+      Secretary:
+      Jennifer Pestana
+      
+      Their term begins on January 1, 2016.
+       
+      Best wishes to the new officers and thank you very much.
+      
+      Also a big thank you to the others who participated in the
+      election by running for office as well as handling the
+      nomination committee.
+       
+      Sincerely,  
+      SIAM
+  -
+    title: "New from SIAM: An Introduction to Domain Decomposition Methods"
+    content: |
+      Announcing the December 14, 2015, publication by SIAM of:
+
+      An Introduction to Domain Decomposition Methods:  
+      Algorithms, Theory, and Parallel Implementation
+      Victorita Dolean, Pierre Jolivet, Frédéric Nataf
+  
+      The purpose of this book is to offer an overview of the most
+      popular domain decomposition methods for partial differential
+      equations (PDEs). These methods are widely used for numerical
+      simulations in solid mechanics, electromagnetism, flow in porous
+      media, etc., on parallel machines from tens to hundreds of
+      thousands of cores. The appealing feature of domain
+      decomposition methods is that, contrary to direct methods, they
+      are naturally parallel.  The authors focus on parallel linear
+      solvers.
+       
+      The authors present all popular algorithms, both at the PDE
+      level and at the discrete level in terms of matrices, along with
+      systematic scripts for sequential implementation in a free
+      open-source finite element package as well as some parallel
+      scripts. Also included is a new coarse space construction
+      (two-level method) that adapts to highly heterogeneous problems.
+       
+      ### Audience
+      
+      This book is intended for those working in domain decomposition
+      methods, parallel computing, and iterative methods, in
+      particular those who need to implement parallel solvers for
+      PDEs. It will also be of interest to mechanical, civil, and
+      aeronautical engineers, physical and environmental scientists,
+      and physicists in need of parallel PDE solvers.    
+       
+      ### About the Authors
+      
+      Victorita Dolean is currently a Reader in the Department of
+      Mathematics and Statistics, University of Strathclyde, Glasgow,
+      United Kingdom. She has been a research assistant at the CMAP
+      (Center of Applied Mathematics) at the École Polytechnique in
+      Paris, assistant professor at the University of Evry and at the
+      University of Nice, and visiting professor at the University of
+      Geneva. Her research has been oriented toward practical and
+      modern applications of scientific computing by developing
+      interactions between academic and industrial partners and taking
+      part in the life of the scientific community as a member of the
+      Board of Directors of SMAI (Society of Industrial and Applied
+      Mathematics in France).
+       
+      Pierre Jolivet is a scientist at CNRS in the Toulouse Institute
+      of Computer Science Research, France, working mainly in the
+      field of parallel computing. Before that, he was an ETH Zürich
+      Postdoctoral Fellow of the the Scalable Parallel Computing Lab,
+      Zürich, Switzerland. He received his Ph.D. from Université de
+      Grenoble, France, in 2014 for his work on domain decomposition
+      methods and their applications on massively parallel
+      architectures. During his Ph.D., Pierre visited the Oak Ridge
+      National Laboratory, Tennessee, for three months in 2013. One of
+      his papers was nominated for the best paper award at
+      Supercomputing 2013.
+       
+      Frédéric Nataf is a senior scientist at CNRS in Laboratory
+      J.L. Lions at University Pierre and Marie Curie, France. He is
+      also part of an INRIA team. His field of expertise is in high
+      performance scientific computing (domain decomposition
+      methods/approximate factorizations), absorbing/PML boundary
+      conditions, and inverse problems. He has coauthored nearly 100
+      papers and given several invited plenary talks on these
+      subjects. He developed the theory of optimized Schwarz methods
+      and very recently the GENEO coarse space. This last method
+      enables the solving of very large highly heterogeneous problems
+      on large scale computers. The related paper was nominated for
+      the best paper award at Supercomputing 2013.
+       
+      ### Contents
+      
+      Preface; Chapter 1: Schwarz methods; Chapter 2:
+      Optimized Schwarz methods; Chapter 3: Krylov methods; Chapter 4:
+      Coarse spaces; Chapter 5: Theory of two-level additive Schwarz
+      methods; Chapter 6: Neumann–Neumann and FETI algorithms; Chapter
+      7: Robust coarse spaces via generalized eigenproblems: The GenEO
+      method; Chapter 8: Parallel implementation of Schwarz methods;
+      Index.
+       
+      2015 / x + 238 pages / Softcover / ISBN 978-1-611974-05-8  
+      List Price $79.00 / SIAM Member Price $55.30 / Order Code OT144
+       
+      To order or for more about this book, including links to its
+      table of contents, preface, and index, please visit
+      <http://bookstore.siam.org/OT144/>.
+       
+      For more information about SIAM books, journals, conferences,
+      memberships, or activities, contact:
+       
+      SIAM  
+      Society for Industrial and Applied Mathematics  
+      3600 Market Street, 6th floor  
+      Philadelphia, PA 19104-2688  
+      800-447-SIAM (US and Canada)  
+      215-382-9800  
+      Fax 215-386-7999  
+      service@siam.org  
+      www.siam.org
+      
+meetings:
+  - 2016-05-23-gabb
+  - 2016-06-08-pasc16
+  - 2016-07-15-ns16
+  - 2016-08-17-mopta
+jobs: []
