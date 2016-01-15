@@ -1339,3 +1339,12 @@
   title: Invariant Polytopes of Sets of Matrices with Application to Regularity of
     Wavelets and Subdivisions
   volume: '37'
+- authors: Shreemayee Bora and Ravi Srivastava
+  date: '2016-01-14T08:00:00Z'
+  doi: doi:10.1137/140963364
+  link: http://epubs.siam.org/doi/abs/10.1137/140963364?ai=s7&mi=3ezuvv&af=R
+  pp_end: '85'
+  pp_start: '53'
+  title: Distance Problems for Hermitian Matrix Pencils with Eigenvalues of Definite
+    Type
+  volume: '37'
