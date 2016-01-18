@@ -37,6 +37,7 @@ data = pd.DataFrame(sheet.get_all_records())
 for idx, row in data.iterrows():
 
     info   = row['Posting Text']
+    info   = info.encode('ascii', 'xmlcharrefreplace')
     title  = row['Subject']
     tag    = row['Tag']
     dpost  = pd.to_datetime(row['Timestamp']).replace(hour=12)
