@@ -1348,3 +1348,19 @@
   title: Distance Problems for Hermitian Matrix Pencils with Eigenvalues of Definite
     Type
   volume: '37'
+- authors: Elina Robeva
+  date: '2016-01-28T08:00:00Z'
+  doi: doi:10.1137/140989340
+  link: http://epubs.siam.org/doi/abs/10.1137/140989340?ai=s7&mi=3ezuvv&af=R
+  pp_end: '102'
+  pp_start: '86'
+  title: Orthogonal Decomposition of Symmetric Tensors
+  volume: '37'
+- authors: Yousef Saad
+  date: '2016-01-28T08:00:00Z'
+  doi: doi:10.1137/141002037
+  link: http://epubs.siam.org/doi/abs/10.1137/141002037?ai=s7&mi=3ezuvv&af=R
+  pp_end: '122'
+  pp_start: '103'
+  title: Analysis of Subspace Iteration for Eigenvalue Problems with Evolving Matrices
+  volume: '37'
