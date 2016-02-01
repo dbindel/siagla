@@ -2,18 +2,18 @@
 # The format is fairly self-explanatory.
 
  - office: Chair
-   name: Danny Sorensen
-   url: http://www.caam.rice.edu/~sorensen/
-   email: sorensen@rice.edu
- - office: Vice Chair
    name: James Nagy
    url: http://www.mathcs.emory.edu/~nagy/
    email: nagy@mathcs.emory.edu
+ - office: Vice Chair
+   name: Alison Ramage
+   url: http://personal.strath.ac.uk/a.ramage/
+   email: a.ramage@strath.ac.uk
  - office: Program Directory
-   name: Francoise Tisseur
-   url: http://www.maths.manchester.ac.uk/~ftisseur/
-   email: ftisseur@ma.man.ac.uk
+   name: Melina Freitag
+   url: http://people.bath.ac.uk/mamamf/
+   email: m.a.freitag@bath.ac.uk
  - office: Secretary
-   name: David Bindel
+   name: Jennifer Pestana
    url: http://www.cs.cornell.edu/~bindel
-   email: bindel@cs.cornell.edu
+   email: jennifer.pestana@strath.ac.uk
