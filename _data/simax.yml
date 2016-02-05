@@ -1364,3 +1364,11 @@
   pp_start: '103'
   title: Analysis of Subspace Iteration for Eigenvalue Problems with Evolving Matrices
   volume: '37'
+- authors: Piers W. Lawrence, Marc Van Barel and Paul Van Dooren
+  date: '2016-02-04T08:00:00Z'
+  doi: doi:10.1137/15M1015777
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1015777?ai=s7&mi=3ezuvv&af=R
+  pp_end: '144'
+  pp_start: '123'
+  title: Backward Error Analysis of Polynomial Eigenvalue Problems Solved by Linearization
+  volume: '37'
