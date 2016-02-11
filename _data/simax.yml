@@ -1372,3 +1372,19 @@
   pp_start: '123'
   title: Backward Error Analysis of Polynomial Eigenvalue Problems Solved by Linearization
   volume: '37'
+- authors: Stefan G&#252;ttel and Yuji Nakatsukasa
+  date: '2016-02-09T08:00:00Z'
+  doi: doi:10.1137/15M1027553
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1027553?ai=s7&mi=3ezuvv&af=R
+  pp_end: '170'
+  pp_start: '145'
+  title: Scaled and Squared Subdiagonal Pad&#233; Approximation for the Matrix Exponential
+  volume: '37'
+- authors: Jinyan Fan and Anwa Zhou
+  date: '2016-02-09T08:00:00Z'
+  doi: doi:10.1137/15M1012086
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1012086?ai=s7&mi=3ezuvv&af=R
+  pp_end: '194'
+  pp_start: '171'
+  title: The CP-Matrix Approximation Problem
+  volume: '37'
