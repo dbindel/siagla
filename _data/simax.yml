@@ -1388,3 +1388,11 @@
   pp_start: '171'
   title: The CP-Matrix Approximation Problem
   volume: '37'
+- authors: Ding Lu, Yangfeng Su and Zhaojun Bai
+  date: '2016-02-16T08:00:00Z'
+  doi: doi:10.1137/151005142
+  link: http://epubs.siam.org/doi/abs/10.1137/151005142?ai=s7&mi=3ezuvv&af=R
+  pp_end: '214'
+  pp_start: '195'
+  title: Stability Analysis of the Two-level Orthogonal Arnoldi Procedure
+  volume: '37'
