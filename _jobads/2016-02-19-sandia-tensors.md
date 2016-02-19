@@ -1,6 +1,5 @@
 ---
-title: "Postdoctoral Appointee in Numerical Tensor Decompositions (Job ID: 652635)
-"
+title: "Postdoc in Tensor Decompositions, Sandia Natl Labs, California"
 page: https://cg.sandia.gov/psp/applicant/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=652635&PostingSeq=1
 posted: 2016-02-18 14:13:15
 closes: 2016-04-19 12:00:00
