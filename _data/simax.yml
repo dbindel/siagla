@@ -1396,3 +1396,12 @@
   pp_start: '195'
   title: Stability Analysis of the Two-level Orthogonal Arnoldi Procedure
   volume: '37'
+- authors: Teng-Teng Yao, Zheng-Jian Bai, Zhi Zhao and Wai-Ki Ching
+  date: '2016-02-25T08:00:00Z'
+  doi: doi:10.1137/15M1023051
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1023051?ai=s7&mi=3ezuvv&af=R
+  pp_end: '234'
+  pp_start: '215'
+  title: A Riemannian Fletcher--Reeves Conjugate Gradient Method for Doubly Stochastic
+    Inverse Eigenvalue Problems
+  volume: '37'
