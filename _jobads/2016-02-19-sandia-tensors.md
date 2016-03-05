@@ -25,6 +25,6 @@ Please drop me a note if you apply.
 Best wishes,
 Tammy
 
-Tamara G. Kolda, Sandia National Labs, Livermore, CA
-Email: tgkolda@sandia.gov<mailto:tgkolda@sandia.gov>, Phone 925-294-4769
-URL: http://www.sandia.gov/~tgkolda/
+Tamara G. Kolda, Sandia National Labs, Livermore, CA <br>
+Email: tgkolda@sandia.gov<mailto:tgkolda@sandia.gov>, Phone 925-294-4769<br>
+URL: <http://www.sandia.gov/~tgkolda/>
