@@ -1405,3 +1405,12 @@
   title: A Riemannian Fletcher--Reeves Conjugate Gradient Method for Doubly Stochastic
     Inverse Eigenvalue Problems
   volume: '37'
+- authors: Yuanzhe Xi, Ruipeng Li and Yousef Saad
+  date: '2016-03-03T08:00:00Z'
+  doi: doi:10.1137/15M1021830
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1021830?ai=s7&mi=3ezuvv&af=R
+  pp_end: '259'
+  pp_start: '235'
+  title: An Algebraic  Multilevel Preconditioner with Low-Rank Corrections for Sparse
+    Symmetric Matrices
+  volume: '37'
