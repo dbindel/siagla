@@ -16,9 +16,9 @@ Desired Qualifications: (1) Previous research in one or more of the following ar
 
 The Post-Doctoral Appointee Program is designed to recruit outstanding Ph.D. applicants to assist a line organization in meeting its mission objectives and to provide a professional technical work environment for the employee. The Ph.D. must have been conferred within one to five years prior to employment. These assignments are for a one-year period, with the option at management's discretion to serve no more than five additional one-year assignments. This position does not currently require a Department of Energy (DOE)-granted security clearance.
 
-For more information, go to http://jobs.sandia.gov and search for Job ID 652635.
+For more information, go to <http://jobs.sandia.gov> and search for Job ID 652635.
 
-You can also click the following link directly: https://cg.sandia.gov/psp/applicant/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=652635&PostingSeq=1
+You can also click the following link directly: <https://cg.sandia.gov/psp/applicant/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=652635&PostingSeq=1>
 
 Please drop me a note if you apply.
 
