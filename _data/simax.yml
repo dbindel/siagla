@@ -1414,3 +1414,19 @@
   title: An Algebraic  Multilevel Preconditioner with Low-Rank Corrections for Sparse
     Symmetric Matrices
   volume: '37'
+- authors: Eliseu Fritscher and Vilmar Trevisan
+  date: '2016-03-15T07:00:00Z'
+  doi: doi:10.1137/15M1013262
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1013262?ai=s7&mi=3ezuvv&af=R
+  pp_end: '289'
+  pp_start: '260'
+  title: Exploring Symmetries to Decompose Matrices and Graphs Preserving the Spectrum
+  volume: '37'
+- authors: Liping Chen, Lixing Han and Liangmin Zhou
+  date: '2016-03-15T07:00:00Z'
+  doi: doi:10.1137/15M1010725
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1010725?ai=s7&mi=3ezuvv&af=R
+  pp_end: '319'
+  pp_start: '290'
+  title: Computing Tensor Eigenvalues via Homotopy Methods
+  volume: '37'
