@@ -1438,3 +1438,20 @@
   pp_start: '320'
   title: Remarks on the Symmetric Rank of Symmetric Tensors
   volume: '37'
+- authors: K. Lessel, M. Hartman and S. Chandrasekaran
+  date: '2016-03-23T07:00:00Z'
+  doi: doi:10.1137/15M1028467
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1028467?ai=s7&mi=3ezuvv&af=R
+  pp_end: '353'
+  pp_start: '338'
+  title: A Fast Memory Efficient Construction Algorithm for Hierarchically Semi-Separable
+    Representations
+  volume: '37'
+- authors: Rafikul Alam and Namita Behera
+  date: '2016-03-23T07:00:00Z'
+  doi: doi:10.1137/15M1008622
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1008622?ai=s7&mi=3ezuvv&af=R
+  pp_end: '380'
+  pp_start: '354'
+  title: Linearizations for Rational Matrix Functions and Rosenbrock System Polynomials
+  volume: '37'
