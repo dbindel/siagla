@@ -1455,3 +1455,12 @@
   pp_start: '354'
   title: Linearizations for Rational Matrix Functions and Rosenbrock System Polynomials
   volume: '37'
+- authors: Bo Jiang, Zhening Li and Shuzhong Zhang
+  date: '2016-03-24T07:00:00Z'
+  doi: doi:10.1137/141002256
+  link: http://epubs.siam.org/doi/abs/10.1137/141002256?ai=s7&mi=3ezuvv&af=R
+  pp_end: '408'
+  pp_start: '381'
+  title: Characterizing Real-Valued Multivariate Complex Polynomials and Their Symmetric
+    Tensor Representations
+  volume: '37'
