@@ -1464,3 +1464,20 @@
   title: Characterizing Real-Valued Multivariate Complex Polynomials and Their Symmetric
     Tensor Representations
   volume: '37'
+- authors: Shinji Ito and Kazuo Murota
+  date: '2016-03-29T07:00:00Z'
+  doi: doi:10.1137/14099231X
+  link: http://epubs.siam.org/doi/abs/10.1137/14099231X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '419'
+  pp_start: '409'
+  title: An Algorithm for the Generalized Eigenvalue Problem for Nonsquare Matrix
+    Pencils by Minimal Perturbation Approach
+  volume: '37'
+- authors: Michel Crouzeix
+  date: '2016-03-29T07:00:00Z'
+  doi: doi:10.1137/15M1020411
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1020411?ai=s7&mi=3ezuvv&af=R
+  pp_end: '442'
+  pp_start: '420'
+  title: Some Constants Related to Numerical Ranges
+  volume: '37'
