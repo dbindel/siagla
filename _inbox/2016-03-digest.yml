@@ -1,0 +1,107 @@
+welcome: |
+ This month the digest features an article from student 
+ member Manuel Baumann on the formation and activities 
+ of the TU Delft SIAM Student Chapter. 
+ We would love to hear more from early career and student 
+ members of SIAG/LA so if you, or someone you know, is 
+ doing something interesting in linear algebra 
+ please get in touch! 
+announce:
+  -
+    title: Reflections on founding a new SIAM Student 
+     Chapter at TU Delft
+    content: |
+     The following is a short piece from Manuel Baumann, 
+     the inaugural president of the TU Delft Student Chapter.
+
+     Dear SIAG/LA community,
+ 
+     I was offered to share some (personal) experiences 
+     with you about our [SIAM Student Chapter at Delft 
+     University of Technology](http://sscdelft.github.io/) 
+     which we founded in fall 2014. The story of our Chapter 
+     begins slightly earlier with so-called ba**NaN**a talks - 
+     a series of informal lectures *for-and-by* PhD students 
+     of the Numerical Analysis department. The talks cover 
+     software tools and practical aspects from the life of the 
+     (young) mathematical researcher. 
+     Based on this framework a small group of active PhD students 
+     founded the Student Chapter in Delft as the first one in 
+     The Netherlands. 
+     Throughout the whole process we got great support from our 
+     Faculty Advisors at TU Delft as well as from SIAM. 
+     For our *kick-off* meeting, we received this 
+     [video message](https://www.youtube.com/watch?v=D9dobJG-ttw) 
+     from the former SIAM president Irene Fonseca.
+
+     ### Student Krylov Day 2015
+     From my point of view it is most feasible for a young 
+     Chapter to concentrate on one main yearly event. 
+     Biased by the research interests of our board, we decided 
+     to organize the 
+     [SIAM Student Krylov Day 2015](http://sscdelft.github.io/activities/2015/02/02/krylov-day.html). 
+     For this one-day workshop, we invited PhD students 
+     from other SIAM Chapters in Europe as well as from Dutch 
+     universities that we met during previous conferences. 
+     The day consisted of talks about theory and applications 
+     of Krylov methods by participating PhD students, 
+     and Peter Sonneveld from TU Delft gave a historical 
+     talk on IDR(s), a short-recurrence Krylov method developed 
+     in 2008. 
+     Pictures and more details can be found in an article in 
+     [SIAM News](https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/504/European-Students-Gather-at-TU-Delft-for-Krylov-Day.aspx).
+
+     ### Bi-monthly ba**NaN**a talks
+     Besides the main event, we organize regular so-called 
+     [ba**NaN**a talks](http://projectbanana.github.io/). 
+     This seminar differs from other talks in two aspects: 
+     Firstly, we usually meet after the official working day and, 
+     secondly, the presenters do not prepare a lot of slides but 
+     start a learning-by-doing session *live* with their laptops. 
+     The content of the talks cover a wide range of software tools 
+     that can be beneficial, especially for researchers in 
+     Numerical Linear Algebra:
+       - Version control with [git](https://git-scm.com), 
+         and efficient collaboration using [github](https://github.com) 
+         or [bitbucket](https://bitbucket.org),
+       - How to use the [LAPACK](http://www.netlib.org/lapack/) 
+         and [BLAS](www.netlib.org/blas/) libraries,
+       - Linking [Python](https://www.python.org/) with (fast) 
+         C/Fortran code,
+       - The new programming language [Julia](http://julialang.org),
+       - [Latex](https://www.latex-project.org) best-practice 
+         and reference management using [JabRef](http://jabref.sourceforge.net),
+       - The CFD open source tool [OpenFOAM](http://www.openfoam.com).
+
+     ### Visit to TATA Steel
+     Since we are proper *applied* mathematicians, we also visited 
+     a Dutch steel company with the Student Chapter. 
+     A company visit gives a great opportunity to attract new 
+     members for the Student Chapter. 
+     In our case, we got the contact to TATA from a former 
+     collaborator of our group. The visit itself consisted of talks 
+     about numerical methods used at TATA and a tour through 
+     the steel factories.
+
+     <img class="pure-img" style="test-align:center;" src="{{ site.baseurl }}img/TUDelft-SIAMSC-TATA.jpg">
+
+     ### The social component
+     An important part of a SIAM Student Chapter is the social 
+     component. At the end of each academic year, we organize 
+     a BBQ on campus where all members and their families are 
+     invited. Moreover, we meet for movie nights showing movies 
+     with mathematical content such as *Enigma*, or 
+     *The Theory of Everything*. Overall, I met a lot of enthusiastic 
+     colleagues through the Student Chapter activities. 
+     If anyone considers to found a new SIAM Student Chapter 
+     at his/her university, please do not hesitate to ask us 
+     for more information!
+
+
+meetings:
+ - 2016-07-04-pdesoft
+
+jobs: 
+  - 2016-02-19-sandia-tensors
+  - 2016-02-25-umea
+  - 2016-02-29-iit

@@ -1,0 +1,94 @@
+welcome: |
+  SIAG-LA was sad to hear of the passing of Marvin Marcus, who will be remembered not only for his 
+  many contributions to matrix theory and multilinear algebra but also to his support and mentorship  
+  of others. 
+  Among his many achievements, Marvin co-founded Linear and Multilinear 
+  Algebra, and a special issue will be devoted to his memory as detailed below. 
+
+announce:
+  -
+    title: Special issue of Linear and Multilinear Algebra in memory of Marvin Marcus
+    content: |
+      Dear colleagues,
+
+      The linear and multilinear algebra community is sad to lose Marvin Marcus, 
+      who had make substantial contributions on various topics on the subject, 
+      developed human resources by training and attracting many researchers to 
+      the research area, and co-founded the journal Linear and Multilinear Algebra. 
+      A special issue of Linear and Multilinear Algebra will be devoted to the memory 
+      of Marvin Marcus. Colleagues are encouraged to submit paper to the special issue 
+      by September 30, 2016. The special editors are:
+
+      Shmuel Friedland, University of Illinois - Chicago, friedlan@uic.edu.
+      Thomas Pate, Auburn University, pate_tom@bellsouth.net
+      Yiu-Tung Poon, Iowa State University, ytpoon@iastate.edu
+
+      Submissions should be done through the website:
+
+      <https://mc.manuscriptcentral.com/glma>
+      
+      
+      Steve Kirkland and Chi-Kwong Li
+      Editors, Linear and Multilinear Algebra
+
+  -
+    title: SISC Copper Mountain Special Section
+    content: |
+     The Fourteenth Copper Mountain Conference on Iterative
+     Methods was held on March 20-25, 2016. The meeting
+     attracted more than 200 participants from around the
+     world, and there were 173 talks covering a broad
+     spectrum of topics related to iterative solvers
+     (<http://grandmaster.colorado.edu/~copper/2016/>).
+
+     As in previous even-numbered years, the SIAM Journal
+     on Scientific Computing (SISC) is planning a Special
+     Section, dedicated to recent progress in iterative methods.
+
+     Submissions are encouraged in all aspects of iterative
+     methods including the following areas:
+
+     * Iterative Linear Algebraic Data Mining Techniques
+     * Optimization of Complex Problems/Systems (PDE-constrained
+       optimization, optimization under uncertainty, and
+       simulation-based optimization)
+     * Inverse problems, regularization
+     * Nonlinear solution methods, nonlinear least squares
+     * Eigenvalue and singular value methods and applications
+     * Iterative solvers/linear algebra on high concurrency
+       node architectures
+     * Uncertainty quantification/PDEs with random data
+     * Hybrid direct-iterative solvers
+     * Solvers for indefinite systems
+     * Surrogate modeling/model reduction
+     * Low-rank solvers for systems with Kronecker structure
+     * Robust and scalable iterative solution of coupled
+       multi-physics problems: electromagnetics/fluids
+     * Iterative methods in energy applications
+     * Iterative methods in imaging
+     * Quantum chemistry/physics
+     * Iterative solvers in climate applications
+
+     The window for submission is April 1 - June 30, 2016.
+     Attendees and participants of the conference as well
+     as the general community are invited to submit papers.
+     Papers will be subject to review by a guest Editorial Board.
+
+     For submission instructions, visit
+     
+     <http://www.siam.org/journals/sisc/sisc_special.php>
+     
+     or
+
+     <http://grandmaster.colorado.edu/~copper/2016/sisc.php>
+
+     Michele Benzi
+     Guest Editor-in-Charge, Copper Mountain Special Section
+
+meetings:
+ - 2016-07-06-pmaa
+ - 2016-07-17-cscsusi
+ - 2016-07-17-imsm
+
+jobs:
+- 2014-10-10-calgary
