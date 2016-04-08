@@ -1481,3 +1481,28 @@
   pp_start: '420'
   title: Some Constants Related to Numerical Ranges
   volume: '37'
+- authors: Francesca Arrigo and Michele Benzi
+  date: '2016-03-31T07:00:00Z'
+  doi: doi:10.1137/15M1034131
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1034131?ai=s7&mi=3ezuvv&af=R
+  pp_end: '468'
+  pp_start: '443'
+  title: Edge Modification Criteria for Enhancing the Communicability of Digraphs
+  volume: '37'
+- authors: Faisal Fairag, Mohammed Alshahrani and Hattan Tawfiq
+  date: '2016-03-31T07:00:00Z'
+  doi: doi:10.1137/151003143
+  link: http://epubs.siam.org/doi/abs/10.1137/151003143?ai=s7&mi=3ezuvv&af=R
+  pp_end: '489'
+  pp_start: '469'
+  title: Bramble--Pasciak-Type Conjugate Gradient Method for Darcy's Equations
+  volume: '37'
+- authors: Peter Benner, Akwum Onwunta and Martin Stoll
+  date: '2016-04-07T07:00:00Z'
+  doi: doi:10.1137/15M1018502
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1018502?ai=s7&mi=3ezuvv&af=R
+  pp_end: '518'
+  pp_start: '491'
+  title: Block-Diagonal Preconditioning for Optimal Control Problems Constrained by
+    PDEs with Uncertain Inputs
+  volume: '37'
