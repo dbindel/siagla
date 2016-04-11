@@ -1,5 +1,5 @@
 ---
-title: "Lectureship in Mathematics of Data Science, University of Edinburgh"
+title: "Assistant Prof position in Mathematics of Data Science at University of Edinburgh"
 page: https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.jobspec?p_id=035938
 posted: 2016-04-09 08:00:02
 closes: 2016-05-09 12:00:00
