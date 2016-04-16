@@ -1506,3 +1506,11 @@
   title: Block-Diagonal Preconditioning for Optimal Control Problems Constrained by
     PDEs with Uncertain Inputs
   volume: '37'
+- authors: Antti Koskela, Elias Jarlebring and Michiel E. Hochstenbach
+  date: '2016-04-14T07:00:00Z'
+  doi: doi:10.1137/15M1032831
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1032831?ai=s7&mi=3ezuvv&af=R
+  pp_end: '538'
+  pp_start: '519'
+  title: Krylov Approximation of Linear ODEs with Polynomial Parameterization
+  volume: '37'
