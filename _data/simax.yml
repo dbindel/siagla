@@ -1531,3 +1531,11 @@
   title: A Homotopy Method for Finding All Solutions of a Multiparameter Eigenvalue
     Problem
   volume: '37'
+- authors: P. E. Farrell
+  date: '2016-04-26T07:00:00Z'
+  doi: doi:10.1137/15M1037603
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1037603?ai=s7&mi=3ezuvv&af=R
+  pp_end: '576'
+  pp_start: '572'
+  title: The Number of Distinct Eigenvalues of a Matrix After Perturbation
+  volume: '37'
