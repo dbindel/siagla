@@ -1547,3 +1547,12 @@
   pp_start: '577'
   title: The Inverse Eigenvector Problem for Real Tridiagonal Matrices
   volume: '37'
+- authors: Namgil Lee and Andrzej Cichocki
+  date: '2016-05-12T07:00:00Z'
+  doi: doi:10.1137/15M1028479
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1028479?ai=s7&mi=3ezuvv&af=R
+  pp_end: '623'
+  pp_start: '598'
+  title: Regularized Computation of Approximate Pseudoinverse of Large Matrices Using
+    Low-Rank Tensor Train Decompositions
+  volume: '37'
