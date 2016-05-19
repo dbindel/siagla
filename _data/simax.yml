@@ -1556,3 +1556,11 @@
   title: Regularized Computation of Approximate Pseudoinverse of Large Matrices Using
     Low-Rank Tensor Train Decompositions
   volume: '37'
+- authors: Arash Massoudi, Mark R. Opmeer and Timo Reis
+  date: '2016-05-17T07:00:00Z'
+  doi: doi:10.1137/140985792
+  link: http://epubs.siam.org/doi/abs/10.1137/140985792?ai=s7&mi=3ezuvv&af=R
+  pp_end: '648'
+  pp_start: '624'
+  title: Analysis of an Iteration Method for the Algebraic Riccati Equation
+  volume: '37'
