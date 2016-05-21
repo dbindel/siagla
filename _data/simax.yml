@@ -1564,3 +1564,11 @@
   pp_start: '624'
   title: Analysis of an Iteration Method for the Algebraic Riccati Equation
   volume: '37'
+- authors: Yimin Wei, Pengpeng Xie and Liping Zhang
+  date: '2016-05-19T07:00:00Z'
+  doi: doi:10.1137/15M1030200
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1030200?ai=s7&mi=3ezuvv&af=R
+  pp_end: '675'
+  pp_start: '649'
+  title: Tikhonov Regularization and Randomized GSVD
+  volume: '37'
