@@ -1572,3 +1572,19 @@
   pp_start: '649'
   title: Tikhonov Regularization and Randomized GSVD
   volume: '37'
+- authors: Victor Y. Pan
+  date: '2016-05-25T07:00:00Z'
+  doi: doi:10.1137/15M1030170
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1030170?ai=s7&mi=3ezuvv&af=R
+  pp_end: '694'
+  pp_start: '676'
+  title: How Bad Are Vandermonde Matrices?
+  volume: '37'
+- authors: Petar Sirkovi&#263; and Daniel Kressner
+  date: '2016-05-25T07:00:00Z'
+  doi: doi:10.1137/15M1017181
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1017181?ai=s7&mi=3ezuvv&af=R
+  pp_end: '718'
+  pp_start: '695'
+  title: Subspace Acceleration for Large-Scale Parameter-Dependent Hermitian Eigenproblems
+  volume: '37'
