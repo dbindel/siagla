@@ -1588,3 +1588,11 @@
   pp_start: '695'
   title: Subspace Acceleration for Large-Scale Parameter-Dependent Hermitian Eigenproblems
   volume: '37'
+- authors: Joa&#834;o R. Cardoso and Rui Ralha
+  date: '2016-06-02T07:00:00Z'
+  doi: doi:10.1137/140998226
+  link: http://epubs.siam.org/doi/abs/10.1137/140998226?ai=s7&mi=3ezuvv&af=R
+  pp_end: '743'
+  pp_start: '719'
+  title: Matrix Arithmetic-Geometric Mean and the Computation of the Logarithm
+  volume: '37'
