@@ -1,6 +1,6 @@
 welcome: |
   Conference season will soon be upon us, and this month's digest has 
-  reminders of upcoming deadlines and meeting. I hope to see many of you 
+  reminders of a number of upcoming deadlines and meetings. I hope to see many of you 
   this summer!
 announce:
   -  
@@ -15,8 +15,6 @@ announce:
 
       ### CONFERENCE INFORMATION
       With the continuing advances in high-performance computing, the role of computational science and engineering (CSE) has extensively grown in importance over the last decades. At the same time scientific simulations continue to face a number of challenges and generate massive amounts of data. Many of the underlying problems here are combinatorial in nature and unified by a common set of abstractions, data structures, and algorithms, often based on graphs and hypergraphs. On a related front, data science and analytics have emerged as powerful methods of inquiry across a broad range of domains and pose various fundamental challenges associated with size and complexity of data that would greatly benefit from combinatorial methods. CSC16 provides a forum for researchers interested in the interaction of combinatorial mathematics and algorithms with CSE and/or data science.  
-
-      Workshop website: <www.siam.org/meetings/csc16/>   
 
       ### CONFERENCE PROCEEDINGS
       CSC16 follows six successful CSC workshops held roughly biennially since 2004. A new feature of CSC16 is that there will be a peer-reviewed proceedings associated with the workshop. The proceedings will be published by SIAM and hosted at its platform <http://epubs.siam.org/series/pr>. The papers will be made permanently available with DOI links. SIAM proceedings are indexed by major scientific bibliography databases.   
@@ -138,8 +136,7 @@ announce:
       The workshop also provides students with experience in a research team environment and exposure to possible career opportunities. On the first day, a Software Carpentry bootcamp will bring students up-to-date on their programming skills in Python/Matlab and R, and introduce them to version control systems and software repositories.
 
       Local expenses and travel expenses will be covered for students at US institutions. The application deadline is **15 May 2016**\.
-      Information is available at <http://www.samsi.info/IMSM16>
-and questions can be directed to <grad@samsi.info>
+      Information is available at <http://www.samsi.info/IMSM16> and questions can be directed to <grad@samsi.info>
 
       With best regards,
       Ilse Ipsen, Pierre Gremaud, and Ralph Smith
