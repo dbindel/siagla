@@ -16,7 +16,7 @@ def main(fname):
     print("---")
     print("title: SIAG LA digest")
     print("date: {0}".format(d))
-    print("author: David Bindel")
+    print("author: Jen Pestana")
     print("comments: true")
     print("---\n")
     print("\n")

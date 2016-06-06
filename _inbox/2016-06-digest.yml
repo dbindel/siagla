@@ -1,8 +1,9 @@
 welcome: |
-  As some of you may be aware SIAM News articles, SIAM Connect and SIAM blogs will soon come together at the [SIAM News Online](https://sinews.siam.org) site. 
-  This presents a great opportunity to showcase activities and research to a much wider audience. If there are any interesting linear algebra news that you think
+  SIAM News articles, SIAM Connect and SIAM blogs will soon come together 
+  at the [SIAM News Online](https://sinews.siam.org) site. 
+  This presents a great opportunity to showcase linear algebra activities and research to a much wider audience. 
+  If you have any interesting linear algebra news that you think
   would be appreciated by a wider audience please don't hesitate to get in touch. 
-
 announce:
   -
     title: New Book,  Introduction to Linear Algebra, Fifth Edition, by Gil Strang
@@ -11,19 +12,29 @@ announce:
       Introduction to Linear Algebra with new chapters on singular values and probability/statistics.
 
       x + 574 pages / Hardcover / 978-09802327-7-6 / Wellesley-Cambridge Press
-70.00 at <linearalgebrabook@gmail.com> and member price 67.50 at <http://siam.org/books>
+      70.00 at <linearalgebrabook@gmail.com> and member price 67.50 at <http://siam.org/books>
 
-      I am writing to announce the new Fifth Edition of Introduction to Linear Algebra. This textbook is available from <http://siam.org/books> and from <http://math.mit.edu/linearalgebra> (which shows the Table of Contents and offers several sections to download). This is the book that goes with my video lectures on OpenCourseWare  <http://ocw.mit.edu>. It is the text for a large number of universities and colleges and now high schools.
+      I am writing to announce the new Fifth Edition of Introduction to Linear Algebra. 
+      This textbook is available from <http://siam.org/books> and from <http://math.mit.edu/linearalgebra> 
+      (which shows the Table of Contents and offers several sections to download). 
+      This is the book that goes with my video lectures on OpenCourseWare  <http://ocw.mit.edu>. 
+      It is the text for a large number of universities and colleges and now high schools.
 
-       This edition has become more than a textbook. That will always be its first purpose. The new Chapter 7 presenting the SVD along with Principal Components in finance and data analysis, and Chapter 12 about Probability, make it also a text for a graduate course and a resource at work. Linear algebra has become central in modern applied mathematics.  I hope you will look at the website math.mit.edu/linearalgebra and also at the writing and the approach in the book itself.
+       This edition has become more than a textbook. That will always be its first purpose. 
+       The new Chapter 7 presenting the SVD along with Principal Components in finance and data analysis, 
+       and Chapter 12 about Probability, make it also a text for a graduate course and a resource at work. 
+       Linear algebra has become central in modern applied mathematics.  
+       I hope you will look at the website math.mit.edu/linearalgebra and also at the 
+       writing and the approach in the book itself. 
+
   - 
-    title: PMAA'16 Workshop - July 6-8, Bordeaux, France
+    title: PMAA'16 Workshop - July 6-8, Bordeaux, France  
+    content: |  
+      The 9th International Workshop on Parallel Matrix Algorithms and Applications (PMAA16) will be held in 
+       Bordeaux (France) and will run from July 6 to 8, 2016.
 
-    content: |
-
-       The 9th International Workshop on Parallel Matrix Algorithms and Applications (PMAA16) will be held in Bordeaux (France) and will run from July 6 to 8, 2016.
-
-      The program is now online at <http://pmaa16.inria.fr> and registrations are still open (thanks to sponsoring we succeeded to have no registration fee for PhD students).
+      The program is now online at <http://pmaa16.inria.fr> and registrations are still open 
+      (thanks to sponsoring we succeeded to have no registration fee for PhD students).
 
       Invited speakers  
        - Cleeve Ashcraft (LSTC, Livermore) - An industrial perspective on new solvers  
@@ -31,13 +42,11 @@ announce:
        - Thierry Deutsch (CEA, France) - Linear scaling method with Daubechies Wavelets for Electronic Structure Calculation
        - Jack Dongarra (University of Tennessee, Oak Ridge National Laboratory, and University of Manchester) - Current Trends High-Performance Computing and Challenges for the Future  
 
-      We look forward welcoming you in Bordeaux in July !
-      The PMAA'16 organizers
+       We look forward welcoming you in Bordeaux in July !
+       The PMAA'16 organizers
    
 
 meetings:
   - 2016-12-19-ieee
 jobs:
   - 2016-04-09-edinburgh
-  - 
-  - 
