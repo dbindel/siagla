@@ -2,30 +2,38 @@ welcome: |
   SIAM News articles, SIAM Connect and SIAM blogs will soon come together 
   at the [SIAM News Online](https://sinews.siam.org) site. 
   This presents a great opportunity to showcase linear algebra activities and research to a much wider audience. 
-  If you have any interesting linear algebra news that you think
+  If you have any linear algebra news that you think
   would be appreciated by a wider audience please don't hesitate to get in touch. 
 announce:
   -
-    title: New Book,  Introduction to Linear Algebra, Fifth Edition, by Gil Strang
+    title: NEW BOOK,  Introduction to Linear Algebra by Gilbert Strang, Fifth Edition, June 2016
     content: |
-      Announcing the May 2016 publication of this widely used textbook by Gilbert Strang :   
-      Introduction to Linear Algebra with new chapters on singular values and probability/statistics.
+      It is a pleasure to report the publication of this new edition.  
+      The first six chapters are the text for hundreds of math/CS/engineering departments 
+      (and increasingly also good high schools -- a positive sign in linear algebra's battle for 
+      a front seat beside calculus in math education). 
 
       x + 574 pages / Hardcover / 978-09802327-7-6 / Wellesley-Cambridge Press
-      70.00 at <linearalgebrabook@gmail.com> and member price 67.50 at <http://siam.org/books>
+      70.00 at <linearalgebrabook@gmail.com> and member price 67.50 at <http://SIAM.org/books>
 
-      I am writing to announce the new Fifth Edition of Introduction to Linear Algebra. 
-      This textbook is available from <http://siam.org/books> and from <http://math.mit.edu/linearalgebra> 
-      (which shows the Table of Contents and offers several sections to download). 
-      This is the book that goes with my video lectures on OpenCourseWare  <http://ocw.mit.edu>. 
-      It is the text for a large number of universities and colleges and now high schools.
+      The website <http://math.mit.edu/linearalgebra> shows the Table of Contents and offers six sections to download.
+      This is the book that goes with my video lectures for 18.06 on OpenCourseWare  <http://ocw.mit.edu>.
 
-       This edition has become more than a textbook. That will always be its first purpose. 
-       The new Chapter 7 presenting the SVD along with Principal Components in finance and data analysis, 
-       and Chapter 12 about Probability, make it also a text for a graduate course and a resource at work. 
-       Linear algebra has become central in modern applied mathematics.  
-       I hope you will look at the website math.mit.edu/linearalgebra and also at the 
-       writing and the approach in the book itself. 
+      This edition has become more than a textbook. That will always be its first purpose -- the basic course 
+      develops bases for the Four Fundamental Subspaces (the column space and nullspace of A and A' )
+      The incidence matrices of graphs are outstanding examples -- and A'A is symmetric positive semidefinite.
+      Elimination for Ax=b and rank and projections and determinants and eigenvalues are central.
+
+      The new Chapter 7 presents the SVD along with Principal Components in finance and data analysis. Combined 
+      with Chapter 12 on Probability/Statistics this becomes a text for a graduate course and a resource at work.
+
+      My favorite graphs (below) show the singular values of two special matrices -- a triangular matrix L of 1's and  
+      the Hilbert matrix.  Notice the steep dropoff for hilb(40).  The singular values of L drop slowly and stop at 1/2 .
+
+      <img class="pure-img" style="test-align:center;" src="{{ site.baseurl }}img/Strang_Gil_SVD.jpg">
+
+      Linear algebra has become central in modern applied mathematics.  I hope you will look
+      at the website math.mit.edu/linearalgebra and also at the writing and the approach in the book itself.
 
   - 
     title: PMAA'16 Workshop - July 6-8, Bordeaux, France  
