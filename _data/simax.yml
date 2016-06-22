@@ -1596,3 +1596,19 @@
   pp_start: '719'
   title: Matrix Arithmetic-Geometric Mean and the Computation of the Logarithm
   volume: '37'
+- authors: Laura Grigori, Sophie Moufawad and Frederic Nataf
+  date: '2016-06-21T07:00:00Z'
+  doi: doi:10.1137/140989492
+  link: http://epubs.siam.org/doi/abs/10.1137/140989492?ai=s7&mi=3ezuvv&af=R
+  pp_end: '773'
+  pp_start: '744'
+  title: Enlarged Krylov Subspace Conjugate Gradient Methods for Reducing Communication
+  volume: '37'
+- authors: Massimo Franchi and Paolo Paruolo
+  date: '2016-06-21T07:00:00Z'
+  doi: doi:10.1137/140999839
+  link: http://epubs.siam.org/doi/abs/10.1137/140999839?ai=s7&mi=3ezuvv&af=R
+  pp_end: '797'
+  pp_start: '774'
+  title: Inverting a Matrix Function around a Singularity via Local Rank Factorization
+  volume: '37'
