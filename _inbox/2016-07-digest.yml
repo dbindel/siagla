@@ -1,0 +1,39 @@
+welcome: | 
+  Welcome to the July digest. This month is a great one for numerical linear algebra since the SIAM Annual Meeting in Boston features an NLA track this year, while the 2016 ILAS meeting takes place in Belgium.  
+ 
+announce:
+  -
+    title: Submission deadlines approaching for CSC16
+    content: | 
+
+      Due to several requests, we have extended the deadline for International Conference on Computing, 
+      Analytics and Security Trends (CAST 2016)  to 15th July 2016. 
+
+      The conference (technically sponsored by IEEE) will be held on 19th to 21st December 2016
+      at College of Engineering, Pune
+
+      Potential authors  are invited to submit manuscripts of original unpublished research and 
+      recent developments in the topics related to the CAST-2016 conference. Accepted papers will be 
+      published in the conference proceedings, which will be submitted to IEEE Xplore Digital Library.
+ 
+      Call for original contributions from wide area listed below but are not limited to  
+      * Data Analytics, Big Data and Bioinformatics  
+      * Information Security and Networking  
+      * Distributed, Parallel and Cloud Computing  
+      * Natural Language Processing and Information Retrieval  
+      * Signal Processing, Multimedia and Embedded Systems  
+      * Green Computing and Sustainable Energy Systems  
+ 
+      For details, please visit conference website:<http://cast2016.coep.org.in/> 
+      and mail <info_CAST2016@coep.ac.in> for any further query.
+ 
+      Regards
+      CAST 2016 Team
+
+
+meetings:
+  - 2016-09-15-gammanla
+  - 2016-11-12-purdue
+
+jobs:
+  - 2016-04-13-otago
