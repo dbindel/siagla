@@ -1620,3 +1620,11 @@
   pp_start: '798'
   title: Sensitivity and Computation of a Defective Eigenvalue
   volume: '37'
+- authors: Simon Etter, Sergey Dolgov and Boris N. Khoromskij
+  date: '2016-06-30T07:00:00Z'
+  doi: doi:10.1137/15M104089X
+  link: http://epubs.siam.org/doi/abs/10.1137/15M104089X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '822'
+  pp_start: '818'
+  title: 'Erratum: Two-Level QTT-Tucker Format for Optimized Tensor Calculus'
+  volume: '37'
