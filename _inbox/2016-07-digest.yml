@@ -1,9 +1,38 @@
 welcome: | 
-  Welcome to the July digest. This month is a great one for numerical linear algebra since the SIAM Annual Meeting in Boston features an NLA track this year, while the 2016 ILAS meeting takes place in Belgium.  
+  We at SIAG/LA are looking forward to an exciting month, with both the SIAM Annual Meeting in Boston (featuring a linear algebra track) and the 2016 ILAS meeting taking place next week.  
  
 announce:
+  -  
+    title: SIAG/LA sponsored minisymposia and miniposterium at SIAM Annual Meeting
+    content: |
+      A reminder that this year's SIAM Annual meeting 
+      in Boston features a Linear Algebra Track. 
+      The following minisymposia and miniposterium within the track 
+      will be sponsored by SIAG/LA. 
+
+      ### Minisymposia  
+      - David Bindel (Cornell) and Ilse Ipsen (NC State):  
+        Numerical Linear and Multilinear Algebra: Celebrating Charlie Van Loan Parts [I](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23486) and [II](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23492)
+
+      - Mikhail Zaslavsky (Schlumberger) and Rob. F Remis (TU Delft):  
+        Model Reduction for Wavefield Simulations Parts [1](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23453) and [II](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23454)
+
+      - Misha Kilmer (Tufts):  
+        Advances in Numerical Linear Algebraic Techniques for Inverse Problems Parts [I](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23539) and [II](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23540)
+
+      - Boris Kramer (MIT) and Joshua L. Proctor (Institute for Disease Modeling):  
+        [Data-Based Methods Towards Optimal Control of Complex Systems](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23238)
+      
+      - Yuanzhe Xi and Yousef Saad (Minnesota):  
+        [Innovative Methods for Large Scale Eigenvalue Solutions](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23309)
+
+      ### Minisymposterium
+      - Nicholas Higham and Francoise Tisseur (Manchester):  
+        [Algorithms and Software in Numerical Linear Algebra](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=60187)
+
+
   -
-    title: Submission deadlines approaching for CSC16
+    title: Paper Submission Deadline Extended for IEEE International Conference CAST 2016
     content: | 
 
       Due to several requests, we have extended the deadline for International Conference on Computing, 
