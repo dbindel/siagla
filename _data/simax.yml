@@ -1628,3 +1628,20 @@
   pp_start: '818'
   title: 'Erratum: Two-Level QTT-Tucker Format for Optimized Tensor Calculus'
   volume: '37'
+- authors: Fernando De Ter&#225;n and Froil&#225;n M. Dopico
+  date: '2016-07-12T07:00:00Z'
+  doi: doi:10.1137/15M1022069
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1022069?ai=s7&mi=3ezuvv&af=R
+  pp_end: '835'
+  pp_start: '823'
+  title: Generic Change of the Partial Multiplicities of Regular Matrix Pencils under
+    Low-Rank Perturbations
+  volume: '37'
+- authors: Francesca Arrigo, Michele Benzi and Caterina Fenu
+  date: '2016-07-12T07:00:00Z'
+  doi: doi:10.1137/15M1049634
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1049634?ai=s7&mi=3ezuvv&af=R
+  pp_end: '860'
+  pp_start: '836'
+  title: Computation of Generalized Matrix Functions
+  volume: '37'
