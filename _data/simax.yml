@@ -1645,3 +1645,30 @@
   pp_start: '836'
   title: Computation of Generalized Matrix Functions
   volume: '37'
+- authors: Iveta Hn&#283;tynkov&#225;, Martin Ple&#353;inger and Diana Maria Sima
+  date: '2016-07-19T07:00:00Z'
+  doi: doi:10.1137/15M1028339
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1028339?ai=s7&mi=3ezuvv&af=R
+  pp_end: '876'
+  pp_start: '861'
+  title: Solvability of the Core Problem with Multiple Right-Hand Sides in the TLS
+    Sense
+  volume: '37'
+- authors: Hiroyuki Masuyama
+  date: '2016-07-19T07:00:00Z'
+  doi: doi:10.1137/15M1024743
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1024743?ai=s7&mi=3ezuvv&af=R
+  pp_end: '910'
+  pp_start: '877'
+  title: Error Bounds for Augmented Truncations of Discrete-Time Block-Monotone Markov
+    Chains under Subgeometric Drift Conditions
+  volume: '37'
+- authors: Ching-Sung Liu, Chun-Hua Guo and Wen-Wei Lin
+  date: '2016-07-19T07:00:00Z'
+  doi: doi:10.1137/15M1040128
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1040128?ai=s7&mi=3ezuvv&af=R
+  pp_end: '932'
+  pp_start: '911'
+  title: A Positivity Preserving Inverse Iteration for Finding the Perron Pair of
+    an Irreducible Nonnegative Third Order Tensor
+  volume: '37'
