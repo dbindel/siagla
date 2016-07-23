@@ -1672,3 +1672,11 @@
   title: A Positivity Preserving Inverse Iteration for Finding the Perron Pair of
     an Irreducible Nonnegative Third Order Tensor
   volume: '37'
+- authors: Rushabh Patel, Andrea Carron and Francesco Bullo
+  date: '2016-07-21T07:00:00Z'
+  doi: doi:10.1137/15M1010737
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1010737?ai=s7&mi=3ezuvv&af=R
+  pp_end: '954'
+  pp_start: '933'
+  title: The Hitting Time of Multiple Random Walks
+  volume: '37'
