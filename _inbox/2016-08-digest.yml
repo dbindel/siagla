@@ -1,0 +1,21 @@
+welcome: |
+ This month the digest features is going out a little early 
+ to remind you of upcoming SIAM CSE meeting deadlines. 
+  
+announce:
+  -  
+    title: SIAG/LA sponsored minisymposia and miniposterium at SIAM Annual Meeting
+    content: |
+      We were very pleased to see that a  number of SIAG/LA members received SIAM and ILAS prizes. 
+
+      - [Paul Van Dooren](http://perso.uclouvain.be/paul.vandooren/)  received the ILAS Hans Schneider Prize for lifetime contributions to linear algebra.
+      -[Nicola Mastronardi](http://users.ba.cnr.it/iac/irmanm21/) and [Paul Van Dooren](http://perso.uclouvain.be/paul.vandooren/) received an outstanding paper prize for [The Antitriangular Factorization of Symmetric Matrices](http://epubs.siam.org/doi/abs/10.1137/110858860), SIAM Journal on Matrix Analysis and Applications, Vol. 34,  Issue 1 (2013), pp. 173-196  
+      -[Mario Berljafa](http://www.maths.manchester.ac.uk/~berljafa/) received a SIAM Student paper prize for his paper with [Stefan G&uuml;ttel](http://www.guettel.com) on [Generalized Rational Krylov Decompositions with an Application to Rational Approximation](http://epubs.siam.org/doi/abs/10.1137/140998081) in SIAM Journal on Matrix Analysis and Applications, Vol. 36, Issue 2 (2015), pp. 894-916
+      - The  [2016 SIAM Fellows](http://fellows.siam.org/index.php?sort=year&value=2016), a number of whom are SIAG/LA members, were recognized at the Annual Meeting 
+      
+
+meetings:
+  - 2017-02-27-cse
+
+jobs:
+  - 2016-04-13-otago
