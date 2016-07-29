@@ -1680,3 +1680,11 @@
   pp_start: '933'
   title: The Hitting Time of Multiple Random Walks
   volume: '37'
+- authors: Klaus Neymeyr and Ming Zhou
+  date: '2016-07-27T07:00:00Z'
+  doi: doi:10.1137/16M1056481
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1056481?ai=s7&mi=3ezuvv&af=R
+  pp_end: '975'
+  pp_start: '955'
+  title: Convergence Analysis of Restarted Krylov Subspace Eigensolvers
+  volume: '37'
