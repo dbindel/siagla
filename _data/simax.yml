@@ -1688,3 +1688,11 @@
   pp_start: '955'
   title: Convergence Analysis of Restarted Krylov Subspace Eigensolvers
   volume: '37'
+- authors: Yueh-Cheng Kuo, Wen-Wei Lin and Shih-Feng Shieh
+  date: '2016-08-02T07:00:00Z'
+  doi: doi:10.1137/15M1019155
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1019155?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1001'
+  pp_start: '976'
+  title: Structure-Preserving Flows of Symplectic Matrix Pairs
+  volume: '37'
