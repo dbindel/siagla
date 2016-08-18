@@ -1704,3 +1704,20 @@
   pp_start: '1002'
   title: On Special Cases of the Generalized Max-Plus Eigenproblem
   volume: '37'
+- authors: Georgios Katsouleas and John Maroulas
+  date: '2016-08-16T07:00:00Z'
+  doi: doi:10.1137/15M1009342
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1009342?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1037'
+  pp_start: '1022'
+  title: An Inverse Problem for the $k$-Rank Numerical Range
+  volume: '37'
+- authors: Andrei Dr&#259;g&#259;nescu and Jyoti Saraswat
+  date: '2016-08-16T07:00:00Z'
+  doi: doi:10.1137/140997002
+  link: http://epubs.siam.org/doi/abs/10.1137/140997002?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1070'
+  pp_start: '1038'
+  title: Optimal-Order Preconditioners for Linear Systems Arising in the Semismooth
+    Newton Solution of a Class of Control-Constrained Problems
+  volume: '37'
