@@ -2,6 +2,39 @@ welcome: |
  . 
   
 announce:
+  - 
+    title: 2017 Householder Symposium
+    content: | 
+      The Householder Symposium XX on Numerical Linear Algebra will be held
+      at The Inn at Virginia Tech in Blacksburg, VA, USA, 18-23 June 2017.
+
+      Web page: <http://www.math.vt.edu/HHXX/>  
+      Application deadline: 31 October 2016  
+      Notification of acceptance: 15 February 2017  
+
+      Attendance at the meeting is by invitation only. Applications are
+      welcome from researchers in numerical linear algebra, matrix theory,
+      and related areas such as optimization, differential equations, signal
+      processing, and control. Each attendee will be given the opportunity
+      to present a talk or a poster. Some talks will be plenary lectures,
+      while others will be shorter presentations arranged in parallel
+      sessions.
+
+      The Symposium is very informal, with the intermingling of young and
+      established researchers a priority. Participants are expected to
+      attend the entire meeting. It is expected that partial support will be
+      available for some students, early career participants, and
+      participants from countries with limited resources.
+
+      The sixteenth Householder Award for the best PhD thesis in numerical
+      linear algebra (PhD earned between 1 January 2014, and 31 December
+      2016) will be presented. Nominations for the Householder Award are due
+      by 31 January 2017.
+
+      The Householder Symposium takes place in cooperation with the Society
+      for Industrial and Applied Mathematics (SIAM) and the SIAM Activity
+      Group on Linear Algebra.
+      
   -  
     title: 2020 Householder Symposium
     content: |
@@ -14,32 +47,29 @@ announce:
 
       Additional questions, and completed proposals can be sent to:
 
-      Jim Nagy
-      Chair, Householder Committee
-      jnagy@emory.edu
+      Jim Nagy  
+      Chair, Householder Committee  
+      jnagy@emory.edu  
 
   -  
-    title: 2020 Householder Symposium
-    content: | CSC16, SIAM Workshop on Combinatorial Scientific Computing, October 10--12, 2016
+    title: CSC16, SIAM Workshop on Combinatorial Scientific Computing, October 10--12, 2016
+    content: | 
  
       Dear Colleagues,
 
       CSC16, the Seventh SIAM International Workshop on Combinatorial Scientific Computing, will be held in Albuquerque, NM, USA, Oct 10-12, 2016, with a welcome reception on the evening of October 9.  The workshop website (<http://www.siam.org/meetings/csc16>) has recently been updated with various new information -- here a few highlights/reminders to keep in mind as you make or finalize your travel plans: 
 
-      - Registration is open. A conference dinner (on October 10 or 11) is planned and details will be made available soon.
-
+      - Registration is open. A conference dinner (on October 10 or 11) is planned and details will be made available soon.  
       - Hotel reservation is also open. We have reserved a block of rooms at Albuquerque Marriott, the designated hotel for the workshop, at an extremely attractive group rate for the days October 9--12. We strongly encourage attendees to reserve rooms early as the room block at the group rate is first-come, first-served. If you wish to arrive before October 9 to see the famous Balloon Fiesta, we have secured a special rate at two other hotels for the days October 7--8. Unfortunately, the workshop hotel is already sold out during the balloon fiesta (like most major  hotels). 
+      - The workshop will end by 3PM (Mountain) on October 12, so there is a possibility of catching a late afternoon flight out of ABQ for your return trip.  
+      - A list of accepted papers and talks has been posted at the workshop's website. As a new feature, CSC16 will have a proceedings published by SIAM for selected 10-page papers.  
 
-      - The workshop will end by 3PM (Mountain) on October 12, so there is a possibility of catching a late afternoon flight out of ABQ for your return trip. 
+      We look forward to seeing you in Albuquerque.  
 
-      - A list of accepted papers and talks has been posted at the workshop's website. As a new feature, CSC16 will have a proceedings published by SIAM for selected 10-page papers.
+      Best regards,  
 
-      We look forward to seeing you in Albuquerque.
-
-      Best regards,
-
-       Erik Boman and Assefaw Gebremedhin
-       Co-chairs, SIAM CSC16
+       Erik Boman and Assefaw Gebremedhin  
+       Co-chairs, SIAM CSC16  
 
 
 meetings:
