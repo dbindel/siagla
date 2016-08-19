@@ -1,5 +1,4 @@
-welcome: |
- . 
+welcome: | In the digest this month are several conference updates and upcoming deadlines. 
   
 announce:
   - 
@@ -49,7 +48,7 @@ announce:
 
       Jim Nagy  
       Chair, Householder Committee  
-      jnagy@emory.edu  
+      <jnagy@emory.edu>
 
   -  
     title: CSC16, SIAM Workshop on Combinatorial Scientific Computing, October 10--12, 2016
@@ -59,7 +58,7 @@ announce:
 
       CSC16, the Seventh SIAM International Workshop on Combinatorial Scientific Computing, will be held in Albuquerque, NM, USA, Oct 10-12, 2016, with a welcome reception on the evening of October 9.  The workshop website (<http://www.siam.org/meetings/csc16>) has recently been updated with various new information -- here a few highlights/reminders to keep in mind as you make or finalize your travel plans: 
 
-      - Registration is open. A conference dinner (on October 10 or 11) is planned and details will be made available soon.  
+      - Registration is open. A conference dinner (on October 10 or 11) is planned and details will be made available soon.   
       - Hotel reservation is also open. We have reserved a block of rooms at Albuquerque Marriott, the designated hotel for the workshop, at an extremely attractive group rate for the days October 9--12. We strongly encourage attendees to reserve rooms early as the room block at the group rate is first-come, first-served. If you wish to arrive before October 9 to see the famous Balloon Fiesta, we have secured a special rate at two other hotels for the days October 7--8. Unfortunately, the workshop hotel is already sold out during the balloon fiesta (like most major  hotels). 
       - The workshop will end by 3PM (Mountain) on October 12, so there is a possibility of catching a late afternoon flight out of ABQ for your return trip.  
       - A list of accepted papers and talks has been posted at the workshop's website. As a new feature, CSC16 will have a proceedings published by SIAM for selected 10-page papers.  
