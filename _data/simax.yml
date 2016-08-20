@@ -1721,3 +1721,28 @@
   title: Optimal-Order Preconditioners for Linear Systems Arising in the Semismooth
     Newton Solution of a Class of Control-Constrained Problems
   volume: '37'
+- authors: C. Greif, C. C. Paige, D. Titley-Peloquin and J. M. Varah
+  date: '2016-08-18T07:00:00Z'
+  doi: doi:10.1137/15M1030078
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1030078?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1087'
+  pp_start: '1071'
+  title: Numerical Equivalences among Krylov Subspace Algorithms for Skew-Symmetric
+    Matrices
+  volume: '37'
+- authors: Nicholas J. Higham and Nata&#353;a Strabi&#263;
+  date: '2016-08-18T07:00:00Z'
+  doi: doi:10.1137/15M1052007
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1052007?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1102'
+  pp_start: '1088'
+  title: Bounds for the Distance to the Nearest Correlation Matrix
+  volume: '37'
+- authors: Jennifer Pestana and Tyrone Rees
+  date: '2016-08-18T07:00:00Z'
+  doi: doi:10.1137/15M1021349
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1021349?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1128'
+  pp_start: '1103'
+  title: Null-Space Preconditioners for Saddle Point Systems
+  volume: '37'
