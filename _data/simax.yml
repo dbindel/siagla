@@ -1746,3 +1746,12 @@
   pp_start: '1103'
   title: Null-Space Preconditioners for Saddle Point Systems
   volume: '37'
+- authors: Amir Beck, Shoham Sabach and Marc Teboulle
+  date: '2016-08-24T07:00:00Z'
+  doi: doi:10.1137/15M1017557
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1017557?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1150'
+  pp_start: '1129'
+  title: An Alternating Semiproximal Method for Nonconvex Regularized Structured Total
+    Least Squares Problems
+  volume: '37'
