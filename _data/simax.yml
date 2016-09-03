@@ -1755,3 +1755,37 @@
   title: An Alternating Semiproximal Method for Nonconvex Regularized Structured Total
     Least Squares Problems
   volume: '37'
+- authors: B. Jeuris and R. Vandebril
+  date: '2016-09-01T07:00:00Z'
+  doi: doi:10.1137/15M102112X
+  link: http://epubs.siam.org/doi/abs/10.1137/15M102112X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1175'
+  pp_start: '1151'
+  title: The K&#228;hler Mean of Block-Toeplitz Matrices with Toeplitz Structured
+    Blocks
+  volume: '37'
+- authors: Ke Ye and Lek-Heng Lim
+  date: '2016-09-01T07:00:00Z'
+  doi: doi:10.1137/15M1054201
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1054201?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1197'
+  pp_start: '1176'
+  title: Schubert Varieties and Distances between Subspaces of Different Dimensions
+  volume: '37'
+- authors: Ke Wei, Jian-Feng Cai, Tony F. Chan and Shingyu Leung
+  date: '2016-09-01T07:00:00Z'
+  doi: doi:10.1137/15M1050525
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1050525?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1222'
+  pp_start: '1198'
+  title: Guarantees of Riemannian Optimization for Low Rank Matrix Recovery
+  volume: '37'
+- authors: Arvind K. Saibaba
+  date: '2016-09-01T07:00:00Z'
+  doi: doi:10.1137/15M1048628
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1048628?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1249'
+  pp_start: '1223'
+  title: 'HOID: Higher Order Interpolatory Decomposition for Tensors Based on Tucker
+    Representation'
+  volume: '37'
