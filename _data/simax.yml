@@ -1806,3 +1806,19 @@
   pp_start: '1279'
   title: On the Stability of Some Hierarchical Rank Structured Matrix Algorithms
   volume: '37'
+- authors: Kevin Carlberg, Virginia Forstall and Ray Tuminaro
+  date: '2016-09-27T07:00:00Z'
+  doi: doi:10.1137/16M1057693
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1057693?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1336'
+  pp_start: '1304'
+  title: Krylov-Subspace Recycling via the POD-Augmented Conjugate-Gradient Method
+  volume: '37'
+- authors: Anil Aswani
+  date: '2016-09-27T07:00:00Z'
+  doi: doi:10.1137/16M1078318
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1078318?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1364'
+  pp_start: '1337'
+  title: Low-Rank Approximation and Completion of Positive Tensors
+  volume: '37'
