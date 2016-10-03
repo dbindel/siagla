@@ -18,5 +18,5 @@ The following application materials are expected: (1) Letter of Application. (2)
 
 <https://cu.taleo.net/careersection/2/jobdetail.ftl?job=06674&lang=en>
 
-For further information, please send inquiries to: <am_jobs@colorado.edu>
+For further information, please send inquiries to: am_jobs@colorado.edu
 
