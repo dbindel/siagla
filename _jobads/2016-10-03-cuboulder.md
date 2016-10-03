@@ -1,5 +1,5 @@
 ---
-title: "Associate Professoer Position in Computation Mathematics at CU Boulder"
+title: "Associate Professor Position in Computation Mathematics at CU Boulder"
 page:  https://cu.taleo.net/careersection/2/jobdetail.ftl?job=06674&lang=en
 posted: 2016-10-03 04:26:00
 closes: 2017-12-03 23:59:00
