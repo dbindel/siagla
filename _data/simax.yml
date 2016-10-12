@@ -1856,3 +1856,21 @@
   title: Bounds on the Spectral Norm and the Nuclear Norm of a Tensor Based on Tensor
     Partitions
   volume: '37'
+- authors: Mary Aprahamian and Nicholas J. Higham
+  date: '2016-10-11T07:00:00Z'
+  doi: doi:10.1137/16M1057577
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1057577?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1477'
+  pp_start: '1453'
+  title: 'Matrix Inverse Trigonometric and Inverse Hyperbolic Functions: Theory and
+    Algorithms'
+  volume: '37'
+- authors: Fredy Sosa and Julio Moro
+  date: '2016-10-11T07:00:00Z'
+  doi: doi:10.1137/15M1050057
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1050057?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1504'
+  pp_start: '1478'
+  title: First Order Asymptotic Expansions for Eigenvalues of Multiplicatively Perturbed
+    Matrices
+  volume: '37'
