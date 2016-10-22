@@ -1874,3 +1874,12 @@
   title: First Order Asymptotic Expansions for Eigenvalues of Multiplicatively Perturbed
     Matrices
   volume: '37'
+- authors: Michael Stewart
+  date: '2016-10-20T07:00:00Z'
+  doi: doi:10.1137/15M1041900
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1041900?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1530'
+  pp_start: '1505'
+  title: On the Description and Stability of Orthogonal Transformations of Rank Structured
+    Matrices
+  volume: '37'
