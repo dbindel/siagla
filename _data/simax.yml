@@ -1883,3 +1883,19 @@
   title: On the Description and Stability of Orthogonal Transformations of Rank Structured
     Matrices
   volume: '37'
+- authors: Berkant Savas and Inderjit S. Dhillon
+  date: '2016-10-27T07:00:00Z'
+  doi: doi:10.1137/15M1042206
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1042206?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1555'
+  pp_start: '1531'
+  title: Clustered Matrix Approximation
+  volume: '37'
+- authors: Yang Qi, Pierre Comon and Lek-Heng Lim
+  date: '2016-10-27T07:00:00Z'
+  doi: doi:10.1137/16M1063708
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1063708?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1580'
+  pp_start: '1556'
+  title: Semialgebraic Geometry of Nonnegative Tensor Rank
+  volume: '37'
