@@ -1,16 +1,88 @@
-welcome: 
+welcome: With the end of 2016 upon us, this month the digest features a number of job ads, and information on upcoming conferences. 
 
 announce:
   - 
-    title: 
+    title: New NSF CyberTraining Solicitation and Webinar (NSF 17-507) + ACI-ANNOUNCE Mailing List
     content: |
+      The Division of Advanced Cyberinfrastructure (ACI) is pleased to announce a cross-cutting solicitation on Training-based Workforce Development for Advanced Cyberinfrastructure  (CyberTraining) - see details below, including a webinar on this solicitation on Nov 10, 2-3 pm EDT.
+
+      ACI has created the ACI-ANNOUNCE mailing list for important news and other announcements of relevance to the ACI community.  To subscribe to the ACI ANNOUNCE mailing list, send an email to: <ACI-ANNOUNCE-subscribe-request@listserv.nsf.gov>.  
+
+      Please disseminate this to your students and colleagues.  For further information on the CyberTraining solicitation, please contact me at <sprasad@nsf.gov>.
+
+      Regards,
+
+      Sushil K Prasad
+      Program Director, CISE/ACI
+      National Science Foundation
+ 
+      Training-based Workforce Development for Advanced Cyberinfrastructure - CyberTraining 
+      (NSF 17-507)
+ 
+
+      Program Solicitation: 
+
+      The overarching goal of this program is to prepare, nurture and grow the national scientific workforce for creating, utilizing, and supporting advanced cyberinfrastructure (CI) that enables cutting-edge science and engineering and contributes to the Nation's overall economic competitiveness and security.  This solicitation calls for developing innovative, scalable training programs to address the emerging needs and unresolved bottlenecks in scientific and engineering workforce development of targeted, multidisciplinary communities, at the postsecondary level and beyond, leading to transformative changes in the state of workforce preparedness for advanced CI in the short and long terms.  In the short term, the projects shall result in innovative, scalable, informal training models and pilot activities, complementing and leveraging the state of art in curricular offerings, material, and best practices in academia and elsewhere.  In the long term, the projects should contribute to the larger goals of an educational ecosystem enabling "Computational and Data Science for All," with an understanding of computation as the third pillar and data-driven science as the fourth pillar of the scientific discovery process.
+
+      There are three tracks for submissions:
+
+      (i) CI Professionals (CIP): aimed at the training and career pathway development of research cyberinfrastructure and professional staff who develop, deploy, manage, and support effective use of advanced CI for research;
+
+      (ii) Domain science and engineering (DSE): aimed primarily at the communities of CI Contributors and sophisticated CI Users, and aligned with the research and education priorities of the participating domain directorates; and
+
+      (iii) Computational and data science literacy (CDL): aimed at the CI User community at the undergraduate level.
+
+      The CyberTraining program includes all divisions within the Directorates of Engineering (ENG), Geosciences (GEO), and Mathematical and Physical Sciences (MPS), as well as the Divisions of Advanced Cyberinfrastructure (ACI) and Computing and Communication Foundation (CCF) in the Directorate for Computer and Information Science and Engineering (CISE), and the Division of Graduate Education (DGE) in the Directorate for Education and Human Resources (EHR).
+
+      Prospective PIs are strongly encouraged to contact the Cognizant Program Officers (POs) in CISE/ACI and in the participating directorate/division(s) relevant to the proposal at least a month in advance of the submission deadline to ascertain whether the focus and budget of the proposed activities are appropriate for this solicitation, and include the names of POs consulted in their Project Summary. 
+
+       Website: <https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505342>
+
+
+       CyberTraining Solicitation Webinar - Nov 10, 2-3 pm EDT 
+
+      The cognizant Program Officers will host a webinar on the CyberTraining Solicitation.  The webinar will cover the elements of this solicitation, including objectives, award tracks, and submission requirements.  There will be a question and answer session following the discussion of the program solicitation.  Attendees will need to register for this webinar by Wednesday November 9, 2016. (Registration information is accessible just below the webinar agenda on the web site noted below) 
+
+      Website: <https://www.nsf.gov/events/event_summ.jsp?cntn_id=190179&org=CISE>
       
-      
-   
+  - 
+    title: CfP MOPTA 2016 - The Modeling and Optimization Theory and Applications (MOPTA) conference proceedings
+    content: |
+      Dear colleagues,
+
+      [Apologies for cross-posting.]
+
+      MOPTA aims at bringing together a diverse group of people from both discrete and continuous optimization, working on both theoretical and applied aspects.   
+      We would like to invite you to submit your paper to MOPTA 2016 conference proceedings.
+      You can review past MOPTA proceedings at:  
+      <http://www.springer.com/us/book/9783319236988>  
+      <http://link.springer.com/book/10.1007/978-1-4614-3924-0>  
+      <http://link.springer.com/book/10.1007/978-1-4614-8987-0>  
+
+      IMPORTANT DATES  
+      Dec 16, 2016: submission of papers  
+      Jan 1, 2017: assigning papers to reviewers  
+      March 1, 2017: reviews due  
+      March 15, 2017: acceptance/rejection decision  
+      May 15, 2017: revised version due  
+
+      SUBMISSION INSTRUCTIONS  
+
+      Your paper can be submitted on following website: <https://ocs.springer.com/prom/home/MOPTA2016>  
+      LaTeX template and instructions for authors can be found here: <https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines>
+ 
+      Sincerely, Martin Takac
+      on behalf of the MOPTA-2016 editors
 
      
 meetings:
-  -
+  - 2017-01-12-ukie
+  - 2017-06-26-pasc
+  - 2017-06-27-strathclyde
+  - 2017-07-10-ct17
 
 jobs:
   - 2016-10-03-cuboulder 
+  - 2016-10-05-ttu
+  - 2016-10-14-sandia
+  - 2016-10-18-samsi
