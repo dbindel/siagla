@@ -1908,3 +1908,20 @@
   title: A Systematic Analysis on Analyticity of Semisimple Eigenvalues of Matrix-Valued
     Functions
   volume: '37'
+- authors: Vanni Noferini and Javier P&#233;rez
+  date: '2016-11-08T08:00:00Z'
+  doi: doi:10.1137/16M1055943
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1055943?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1624'
+  pp_start: '1600'
+  title: Fiedler-comrade and Fiedler--Chebyshev pencils
+  volume: '37'
+- authors: Christian Mehl, Volker Mehrmann and Punit Sharma
+  date: '2016-11-08T08:00:00Z'
+  doi: doi:10.1137/16M1067330
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1067330?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1654'
+  pp_start: '1625'
+  title: Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving
+    Perturbations
+  volume: '37'
