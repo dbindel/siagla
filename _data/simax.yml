@@ -1925,3 +1925,12 @@
   title: Stability Radii for Linear Hamiltonian Systems with Dissipation Under Structure-Preserving
     Perturbations
   volume: '37'
+- authors: V. Simoncini
+  date: '2016-11-10T08:00:00Z'
+  doi: doi:10.1137/16M1059382
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1059382?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1674'
+  pp_start: '1655'
+  title: Analysis of the Rational Krylov Subspace Projection Method for Large-Scale
+    Algebraic Riccati Equations
+  volume: '37'
