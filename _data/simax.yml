@@ -1943,3 +1943,21 @@
   title: 'Completely Positive Tensors: Properties, Easily Checkable Subclasses, and
     Tractable Relaxations'
   volume: '37'
+- authors: M. A. Iwen and B. W. Ong
+  date: '2016-11-22T08:00:00Z'
+  doi: doi:10.1137/16M1058467
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1058467?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1718'
+  pp_start: '1699'
+  title: A Distributed and Incremental SVD Algorithm for Agglomerative Data Analysis
+    on Large Networks
+  volume: '37'
+- authors: Xinzhen Zhang, Zheng-Hai Huang and Liqun Qi
+  date: '2016-11-22T08:00:00Z'
+  doi: doi:10.1137/141001470
+  link: http://epubs.siam.org/doi/abs/10.1137/141001470?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1728'
+  pp_start: '1719'
+  title: Comon's Conjecture, Rank Decomposition, and Symmetric Rank Decomposition
+    of Symmetric Tensors
+  volume: '37'
