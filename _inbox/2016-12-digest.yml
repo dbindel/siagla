@@ -3,6 +3,92 @@ welcome: This month we are looking for your feedback on the future of the ISSNLA
 
 announce:
   - 
+    title: International SIAM Summer School on Numerical Linear Algebra (ISSNLA)
+    content: |
+      The SIAG/LA officers request feedback from members SIAG/LA on an issue 
+      regarding summer schools.
+
+      Unfortunately a rather lengthy background is needed, so please take 
+      some time to read this, and send feedback to Jim Nagy, 
+      <nagy@mathcs.emory.edu>.
+
+      There are two different SIAM summer schools that are of interest to 
+      the SIAG/LA members:
+
+      * Gene Golub SIAM Summer School (G2S3)  
+        <http://www.siam.org/students/g2s3/>
+
+      * International SIAM Summer School on Numerical Linear Algebra (ISSNLA)  
+        <http://siags.siam.org/siagla/meetings/summer.html>
+
+      The purpose of ISSNLA, which was initiated in 2008, is to focus on 
+      Numerical Linear Algebra (NLA), with the idea that an ISSNLA would 
+      occur approximately every three years.
+
+      The G2S3 was initiated in 2010 and occurs every year.  It is not 
+      required to have an NLA focus, but often does.  Specifically: "If
+      there are two consecutive years without a school in numerical linear 
+      algebra, then in the following year preference will be given to a
+      proposal with a computational linear algebra theme, provided there is 
+      a meritorious proposal, but proposals in all areas will be considered."
+
+      Note that G2S3 comes with a substantial amount of funding 
+      (approximately $100,000), but in the case of ISSNLA it is up to the
+      organizers to secure funding.  However, it is often the case (2010, 
+      2013, and 2017) that the ISSNLA and G2S3 were formally paired, and so
+      the main source of funding for ISSNLA actually came from G2S3.  In 
+      addition, the 2015 G2S3 had a strong NLA focus.
+
+      With this background in mind, we would like to propose that the ISSNLA 
+      be formally discontinued.  Instead, we believe the SIAG/LA should
+      focus only on soliciting and backing G2S3 proposals of interest to 
+      SIAG/LA members.  If SIAG/LA members wish to submit a proposal to
+      S2G3, and would like to have formal backing of the SIAG/LA, then they 
+      must request this backing before the S2G3 submission deadline, so that
+      the SIAG/LA Officers have sufficient time to review all such requests.
+
+      Please send any comments about this proposal to Jim Nagy, <nagy@mathcs.emory.edu>.
+
+      Please also see the related posting in this digest regarding proposals for the 2018 S2G3.
+    
+      The SIAG/LA Committee
+
+  - 
+    title: 2018 SIAM Gene Golub SIAM Summer School
+    content: |
+      Please see the following information about the 2018 SIAM Gene Golub SIAM Summer School.  The SIAG/LA would be interested in helping to
+      promote at most one proposal.  If you intend to submit a letter of intent, and would like backing of the SIAG/LA, please contact Melina
+      Freitag (SIAG/LA Program Director) or Jim Nagy (SIAG/LA Chair).
+
+      Call for Proposals: Gene Golub SIAM Summer School 2018
+ 
+      SIAM is calling for Letters of Intent proposing topics and organizers
+      for the 2018 Gene Golub SIAM Summer School (G2S3). Letters of Intent
+      in all areas of applied and computational mathematics will be
+      considered.
+ 
+      It is expected that the program will run two weeks for about 40
+      graduate students in 2018.  SIAM will contribute up to $109,200
+      towards the running of the summer school.
+ 
+      Information about the G2S3 program, including the composition of the
+      G2S3 committee, can be found at <www.siam.org/about/com_golub.php>.
+ 
+      Information about the 2017 G2S3 can be found at
+      <www.siam.org/students/g2s3> and the archives of earlier G2S3s can be
+      found at <http://www.siam.org/students/g2s3/archive.php>. The deadline
+      for Letters of Intent is January 31, 2017. For more information see
+      <www.siam.org/students/g2s3/summer_call.php>
+ 
+      Respectfully,
+ 
+      Chen Greif, Chair of the SIAM Committee on Gene Golub SIAM Summer School
+ 
+
+
+
+    
+  - 
     title: International Conference on Preconditioning Techniques for Scientific and Industrial Applications
     content: |
       The 10th International Conference on Preconditioning Techniques for 
@@ -19,7 +105,7 @@ August 2, 2017 at the University of British Columbia, Vancouver, Canada.
       * Sander Rhebergen, University of Waterloo, Canada  
       * Nicole Spillane, Ecole Polytechnique, France  
 
-      Additional information can be found at <http://www.cs.ubc.ca/~greif/precon
+      Additional information can be found at <http://www.cs.ubc.ca/~greif/precon17>
 
      
 
