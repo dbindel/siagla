@@ -22,6 +22,163 @@ announce:
       Mason A. Porter
       Professor, Department of Mathematics, UCLA
       
+  - 
+    title: ACM PASC'17 Call for Papers including Journal Partnerships
+    content: |
+       
+       <p style="text-align: center;">
+            CALL FOR PAPERS including JOURNAL PARTNERSHIPS  
+              Platform for Advanced Scientific Computing  
+                          PASC17 Conference  
+                 <https://pasc17.pasc-conference.org/>
+
+                        Palazzo dei Congressi  
+                         Lugano, Switzerland  
+                          June 26-28, 2017  
+                          </p>
+
+      The Platform for Advanced Scientific Computing (PASC) is inviting
+      submissions for the PASC17 Conference, co-sponsored by the Association
+      for Computing Machinery (ACM) and SIGHPC, which will be held at the
+      Palazzo dei Congressi in Lugano, Switzerland, from June 26 to 28, 2017.
+
+      The PASC Conference is an interdisciplinary event in high performance
+      computing that brings together domain science, applied mathematics and
+      computer science - where computer science is focused on enabling the
+      realization of scientific computation.
+
+      The goal of the PASC papers initiative is to advance the quality of
+      scientific communication between the various disciplines of
+      computational science and engineering. The initiative is built from an
+      observation that the computer science community traditionally publishes
+      in the proceedings of major international conferences, while domain
+      science communities publish primarily in disciplinary journals - neither
+      of which is read regularly by the other disciplinary community. The PASC
+      papers initiative is focused on bringing these communities and
+      publishing cultures together.
+
+      By submitting papers to the PASC Conference, authors can benefit from
+      the rapid and broad dissemination of results afforded by the conference
+      venue and associated proceedings, as well as from the impact associated
+      with publication in a high-quality scientific journal (see below for
+      more details).
+
+      #### SUBMISSIONS
+
+      The PASC17 papers program is soliciting high-quality contributions of
+      original research relating to high performance computing in eight
+      domain-specific tracks:
+
+      - Climate and Weather  
+      - Solid Earth Dynamics  
+      - Life Sciences  
+      - Chemistry and Materials  
+      - Physics  
+      - Computer Science and Applied Mathematics  
+      - Engineering  
+      - Emerging Domains in HPC  
+
+      Areas of interest include (but are not limited to):
+
+      - The use of advanced computing systems for large-scale scientific
+        applications 
+      - Implementation strategies for science applications in energy-efficient
+        computing architectures  
+      - Domain-specific languages, libraries or frameworks  
+      - The integration of large-scale experimental and observational
+        scientific data and high-performance data analytics and computing  
+      - Best practices for sustainable software development and scientific
+        application development
+
+      Papers should be between 5 and 10 pages in length, including figures,
+      tables and appendices, but not references, for which there are no
+      limits. Contributions should be submitted through the PASC17 online
+      submissions portal at
+
+      <https://pasc17.pasc-conference.org/submission/submissions-portal/>
+
+
+      #### SUBMISSIONS DEADLINES - EXTENDED
+
+      The review process is designed in the following stages:
+
+      - January 23, 2017: Submissions close  
+      - February 20, 2017: First review notification  
+      - March 13, 2017: Revised submissions close  
+      - April 11, 2017: Final review notification  
+
+      #### PASC17 CONFERENCE AND PROCEEDINGS PUBLICATION
+
+      Accepted manuscripts will be published in the ACM Digital Library at the
+      time of the PASC17 Conference, June 26-28, 2017. Authors will be given
+      30-minute presentation slots at the conference, grouped in topically
+      focused parallel sessions.
+
+      #### POST-CONFERENCE JOURNAL SUBMISSION
+
+      Following the conference authors will have the opportunity to develop
+      their papers, and, where appropriate, associated open-source software,
+      for publication in a relevant, computationally focused, domain-specific
+      journal. The journal paper should be an expanded version of the
+      conference paper (consistent with the ACM policy for major revisions
+      \[1]) presenting a more complete description of the work - a fuller
+      introduction, deeper project description, additional results, etc. and
+      may be accompanied by associated open-source software.
+
+      To facilitate post-conference journal publications, the PASC Conference
+      has formed collaborative partnerships with a number of high-quality
+      scientific journals, including Computer Physics Communications (CPC)
+      [2], the Journal of Advances in Modeling Earth Systems (JAMES) [3], and
+      ACM Transactions on Mathematical Software (ACM TOMS) [4]. Members of the
+      journals' editorial boards will work with the PASC Papers Committee in
+      reviewing PASC papers and in identifying papers to be extended and
+      submitted to partner journals. Authors should communicate their interest
+      in publishing with a partner journal during the review process. The
+      current membership of the PASC Partner Journal Editors Board is as
+      follows.
+
+      * Prof. Stan Scott, Computer Physics Communications, Editor-in-Chief &
+      Queen's University, Belfast  
+      * Dr. Robert Pincus, Journal of Advances in Modeling Earth Systems
+      (JAMES), Editor-in-Chief & University of Colorado/ NOAA Earth System
+      Research Laboratory  
+      * Dr. Mike Heroux, ACM Transactions on Mathematical Software (TOMS),
+      Editor-in-Chief & Sandia National Laboratory  
+
+      #### REVIEW PROCESS
+
+      The PASC17 Papers Committee, chaired by Dr. Jack Wells (Oak Ridge
+      National Laboratory) and Prof. Torsten Hoefler (ETH Zurich), is
+      responsible for reviewing submitted papers. The goal of the paper-
+      selection process is to combine the strengths of the conference and
+      journal publication schemes in order to execute an effective, high-
+      quality publication venue in large-scale computational science. We use
+      four key principles to design a paper selection process for PASC17: (1)
+      no pre-selected review committee, (2) short revision process, (3)
+      double-blind peer-review, and (4) expert reviewers suggested by primary
+      reviewers. For a more detailed discussion of this process see T.
+      Hoefler, 'Selecting Technical Papers for an Interdisciplinary
+      Conference: The PASC Review Process', in the Proceedings of the Platform
+      for Advanced Scientific Computing Conference (2016) [5]. Papers will be
+      evaluated on their significance, technical soundness, originality, and
+      quality of communication.
+
+      Papers should be in the ACM proceedings format [6]. As submissions will
+      be evaluated double blind, authors should not be named and references to
+      previous work should be in the third person. We suggest using "An
+      Author", "Another Author", etc., in the ACM templates, and leaving
+      affiliations and contact details blank.
+
+ 
+      \[1]: To distinguish between a new derivative work and a minor revision,
+      ACM uses, respectively, a rule of greater than or less than 25 percent
+      changed.  
+      [2]: <http://www.journals.elsevier.com/computer-physics-communications>  
+      [3]: <http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1942-2466/>  
+      [4]: <http://toms.acm.org/>  
+      [5]: <http://dl.acm.org/citation.cfm?id=2929908>  
+      [6]: <http://www.acm.org/publications/article-templates/proceedings-template.html>  
+      
      
 meetings:
   - 2017-07-09-dr17
