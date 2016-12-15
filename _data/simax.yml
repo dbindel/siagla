@@ -1961,3 +1961,11 @@
   title: Comon's Conjecture, Rank Decomposition, and Symmetric Rank Decomposition
     of Symmetric Tensors
   volume: '37'
+- authors: Michael Stewart
+  date: '2016-12-14T08:00:00Z'
+  doi: doi:10.1137/16M1060406
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1060406?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1746'
+  pp_start: '1729'
+  title: Rank Decisions in Matrix Quotient Decompositions
+  volume: '37'
