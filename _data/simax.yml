@@ -1969,3 +1969,11 @@
   pp_start: '1729'
   title: Rank Decisions in Matrix Quotient Decompositions
   volume: '37'
+- authors: Shenglong Hu and Liqun Qi
+  date: '2016-12-20T08:00:00Z'
+  doi: doi:10.1137/15M1051828
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1051828?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1770'
+  pp_start: '1747'
+  title: A Necessary and Sufficient Condition for Existence of a Positive Perron Vector
+  volume: '37'
