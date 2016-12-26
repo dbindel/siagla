@@ -1,5 +1,5 @@
 ---
-title: 267th Biennial Conference on Numerical Analysis
+title: 27th Biennial Conference on Numerical Analysis
 page: http://www.naconf.org.uk
 start_date: 2017-06-27 12:00:00
 end_date:   2017-06-30 12:00:00
