@@ -1,5 +1,5 @@
 ---
-title: 2 Postdoc Posts in Optimization and Machine Learning at University of Edinburghs
+title: 2 Postdoc Posts in Optimization and Machine Learning at University of Edinburgh
 page: https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.jobspec?p_id=038477
 posted: 2017-01-05 00:00:00
 closes: 2017-01-23 12:00:00
