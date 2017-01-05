@@ -1,8 +1,8 @@
 ---
-title: 2 Postdoc Posts in Optimization and Machine Learning at University of Edinburgh
+title: 2 Postdoc Posts in Optimization and Machine Learning at University of Edinburghs
 page: https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.jobspec?p_id=038477
 posted: 2017-01-05 00:00:00
-closes: 2016-01-23 12:00:00
+closes: 2017-01-23 12:00:00
 ---
 
 Applications are invited for 2 postdoctoral positions in the School of Mathematics at the University of Edinburgh. The positions are available for 12 months, assuming the successful candidates take up post on or before 01 March 2017.
