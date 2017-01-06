@@ -1977,3 +1977,28 @@
   pp_start: '1747'
   title: A Necessary and Sufficient Condition for Existence of a Positive Perron Vector
   volume: '37'
+- authors: Yuji Nakatsukasa, Vanni Noferini and Alex Townsend
+  date: '2017-01-05T08:00:00Z'
+  doi: doi:10.1137/15M1013286
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1013286?ai=s7&mi=3ezuvv&af=R
+  pp_end: '29'
+  pp_start: '1'
+  title: 'Vector Spaces of Linearizations for Matrix Polynomials: A Bivariate Polynomial
+    Approach'
+  volume: '38'
+- authors: Peizhen Zhu and Andrew V. Knyazev
+  date: '2017-01-05T08:00:00Z'
+  doi: doi:10.1137/16M1058121
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1058121?ai=s7&mi=3ezuvv&af=R
+  pp_end: '49'
+  pp_start: '30'
+  title: Rayleigh--Ritz Majorization Error Bounds of Mixed Type
+  volume: '38'
+- authors: Yunfeng Cai and Chengyu Liu
+  date: '2017-01-05T08:00:00Z'
+  doi: doi:10.1137/16M1080756
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1080756?ai=s7&mi=3ezuvv&af=R
+  pp_end: '71'
+  pp_start: '50'
+  title: An Algebraic Approach to Nonorthogonal General Joint Block Diagonalization
+  volume: '38'
