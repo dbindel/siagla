@@ -2002,3 +2002,12 @@
   pp_start: '50'
   title: An Algebraic Approach to Nonorthogonal General Joint Block Diagonalization
   volume: '38'
+- authors: C. Mehl, V. Mehrmann and M. Wojtylak
+  date: '2017-01-10T08:00:00Z'
+  doi: doi:10.1137/16M1060352
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1060352?ai=s7&mi=3ezuvv&af=R
+  pp_end: '95'
+  pp_start: '72'
+  title: Parameter-Dependent Rank-One Perturbations of Singular Hermitian Or Symmetric
+    Pencils
+  volume: '38'
