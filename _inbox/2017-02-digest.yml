@@ -3,9 +3,48 @@ welcome:
 
 announce:
   - 
-    title: 
+    title: "New from SIAM: MATLAB Guide, Third Edition"
     content: |
- 
+      Announcing the December 27, 2016, publication by SIAM of:  
+      **MATLAB Guide, Third Edition**  
+      Desmond J. Higham and Nicholas J. Higham  
+
+       MATLAB is an interactive system for numerical computation that is widely used for teaching and research in industry and academia. It provides a modern programming language and problem solving environment, with powerful data structures, customizable graphics, and easy-to-use editing and debugging tools.
+
+      This third edition of MATLAB Guide completely revises and updates the best-selling second edition and is more than 25 percent longer. The book remains a lively, concise introduction to the most popular and important features of MATLAB and the Symbolic Math Toolbox.
+
+      Key features are a tutorial in Chapter 1 that gives a hands-on overview of MATLAB, a thorough treatment of MATLAB mathematics, including the linear algebra and numerical analysis functions and the differential equation solvers, and a web page at http://www.siam.org/books/ot150 that provides a link to example program files, updates, and links to MATLAB resources.
+
+      The new edition contains color figures throughout, includes pithy discussions of related topics in new “Asides" boxes that augment the text, has new chapters on the Parallel Computing Toolbox, object-oriented programming, graphs, and large data sets, covers important new MATLAB data types such as categorical arrays, string arrays, tall arrays, tables, and timetables, contains more on MATLAB workflow, including the Live Editor and unit tests, and fully reflects major updates to the MATLAB graphics system.
+
+      ** Audience **  
+      This book is suitable for both beginners and more experienced users, including students, researchers, and practitioners.
+
+      ** About the Authors**  
+      ** Desmond J. Higham** is 1966 Chair of Numerical Analysis at the University of Strathclyde, UK. His research focuses on stochastic computation, network science, and city analytics. He is a SIAM Dahlquist Prize winner, a SIAM Fellow, and a Fellow of the Royal Society of Edinburgh.
+
+      ** Nicholas J. Higham**  is Richardson Professor of Applied Mathematics at the University of Manchester, UK. His research focuses on numerical linear algebra, and he has contributed numerous functions to MATLAB. He is a Fellow of the Royal Society, a SIAM Fellow, and a Member of Academia Europaea.
+
+      ** Contents** 
+      List of Figures; List of Tables; List of Program Files; Preface; Chapter 1: A Brief Tutorial; Chapter 2: Basics; Chapter 3: Distinctive Features of MATLAB; Chapter 4: Arithmetic; Chapter 5: Matrices; Chapter 6: Operators and Flow Control; Chapter 7: Program Files; Chapter 8: Graphics; Chapter 9: Linear Algebra; Chapter 10: More on Functions; Chapter 11: Numerical Methods: Part I; Chapter 12: Numerical Methods: Part II; Chapter 13: Input and Output; Chapter 14: Troubleshooting; Chapter 15: Sparse Matrices; Chapter 16: More on Coding; Chapter 17: Advanced Graphics; Chapter 18: Other Data Types and Multidimensional Arrays; Chapter 19: Object-Oriented Programming; Chapter 20: The Symbolic Math Toolbox; Chapter 21: Graphs; Chapter 22: Large Data Sets; Chapter 23: Optimizing Codes; Chapter 24: Tricks and Tips; Chapter 25: The Parallel Computing Toolbox; Chapter 26: Case Studies; Appendix A: The Top 111 MATLAB Functions; Glossary; Bibliography; Index.
+
+      xxvi + 476 pages / Hardcover / ISBN 978-1-611974-65-2
+
+      List Price $62.00 / SIAM Member Price $43.40 / Order Code OT150 
+
+      To order or for more about this book, including links to its table of contents, preface, and index, please visit <http://bookstore.siam.org/OT150/>.
+
+      For more information about SIAM books, journals, conferences, memberships, or activities, contact:
+
+      SIAM  
+      Society for Industrial and Applied Mathematics    
+      3600 Market Street, 6th floor    
+      Philadelphia, PA 19104-2688  
+      800-447-SIAM (US and Canada)  
+      215-382-9800  
+      Fax 215-386-7999  
+      <service@siam.org>  
+      <www.siam.org>  
      
 meetings:
   - 2018-05-04-ala.md (save the date)
