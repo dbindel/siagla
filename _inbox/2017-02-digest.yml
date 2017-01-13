@@ -44,7 +44,30 @@ announce:
       215-382-9800  
       Fax 215-386-7999  
       <service@siam.org>  
-      <www.siam.org>  
+      <www.siam.org> 
+      
+    title: Call for submissions, Strathclyde NA Conference, June 2017
+    content: |
+    
+        Registration is now open for the  
+
+      27th Biennial Conference on Numerical Analysis  
+
+      June 27-30, 2017, University of Strathclyde, Glasgow, Scotland.  
+
+      This long-established conference is open to all researchers in the field, and
+      covers a diverse range of topics within numerical analysis. We welcome proposals
+      for minisymposia on specific topics, as well as contributed talks in any
+      relevant area: details of how to submit contributions can be found on our
+      webpage (detials below).
+
+      The following distinguished researchers have accepted invitations for
+      plenary lectures at the conference: Don Estep, Philip Gill, David Gleich, David
+      Keyes, Christian Lubich, Ilaria Perugia, Gerlind Plonka-Hoch, Valeria Simoncini,
+      Andrew Stuart, Endre Süli, Françoise Tisseur, Karin Tornberg.
+
+      Further information and on-line registration can be accessed at  
+      <http://www.naconf.org.uk>
      
 meetings:
   - 2018-05-04-ala.md (save the date)
