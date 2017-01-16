@@ -1,6 +1,6 @@
 ---
 title: "PhD Studentship: Novel Preconditioners for RBF Linear Systems"
-page: h
+page: 
 posted: 2017-01-15 11:00:00
 closes: 2017-04-16 12:00:00
 ---
