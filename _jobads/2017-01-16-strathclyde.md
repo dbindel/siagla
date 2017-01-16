@@ -1,7 +1,7 @@
 ---
 title: "PhD Studentship: Novel Preconditioners for RBF Linear Systems"
 page: h
-posted: 2017-01-16 11:00:00
+posted: 2017-01-15 11:00:00
 closes: 2017-04-16 12:00:00
 ---
 Applications are invited for a fully funded 3 year PhD studentship in 
