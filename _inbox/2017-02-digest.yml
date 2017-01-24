@@ -70,9 +70,10 @@ announce:
       <http://www.naconf.org.uk>
      
 meetings:
-  - 2018-05-04-ala.md (save the date)
-  - 2017-05-29-gabb.md (updated dates)
-  - 2017-05-05-manitoba.md (first announcement)
+  - 2018-05-04-ala (save the date)
+  - 2017-05-29-gabb (updated dates)
+  - 2017-05-05-manitoba (first announcement)
 
 jobs:
-  - 2017-01-16-strathclyde.md
+  - 2017-01-16-strathclyde
+  - 2017-01-24-umea (intro)
