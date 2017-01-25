@@ -2011,3 +2011,11 @@
   title: Parameter-Dependent Rank-One Perturbations of Singular Hermitian Or Symmetric
     Pencils
   volume: '38'
+- authors: G&#233;rard Meurant
+  date: '2017-01-24T08:00:00Z'
+  doi: doi:10.1137/15M1053827
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1053827?ai=s7&mi=3ezuvv&af=R
+  pp_end: '117'
+  pp_start: '96'
+  title: The Coefficients of the FOM and GMRES Residual Polynomials
+  volume: '38'
