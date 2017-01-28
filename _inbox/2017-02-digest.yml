@@ -68,6 +68,28 @@ announce:
 
       Further information and on-line registration can be accessed at  
       <http://www.naconf.org.uk>
+
+  - 
+    title: "New from SIAM: "Live-streaming: SAMSI WISO, 8-10 February 2017"
+    content: |
+      Live-streaming SAMSI WISO workshop  
+      February 8-10, 2017
+
+      The SAMSI Workshop on the Interface of Statistics and Optimization brings together
+      pioneers in statistics and optimization. In one-hour lectures they will discuss the
+      breadth and depth of advances, computational challenges, and cutting-edge applications.
+
+      Speakers
+
+      - Larry Biegler (CMU), John Burns (Virginia Tech), Jack Dongarra (Tennessee),  
+      - Yonina Eldar (Technion), Jianqing Fan (Princeton), Michael Jordan (UC Berkeley),  
+      - Arkadi Nemirovski (Georgia Tech), Alex Shapiro (Georgia Tech),  
+      - Bernd Sturmfels (UC Berkeley & MPI Leipzig), Martin Wainwright (UC Berkeley),  
+      - Margaret Wright (NYU Courant), Steve Wright (Wisconsin)  
+
+      The workshop will be live-streamed at <http://www.samsi.info/opt-wiso>  
+      The final schedule is still under construction.
+
      
 meetings:
   - 2018-05-04-ala (save the date)
