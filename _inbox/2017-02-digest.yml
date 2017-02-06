@@ -1,102 +1,150 @@
-welcome: Remember - posts from Jim!!
-
+welcome: This month the digest features an article by Christine Klymko about her time as a postdoc in a government lab. 
 
 announce:
+
   - 
-    title: "New from SIAM: MATLAB Guide, Third Edition"
+    title: Article on postdoc life at a national lab by Christine Klymko
     content: |
-      Announcing the December 27, 2016, publication by SIAM of:  
-      **MATLAB Guide, Third Edition**  
-      Desmond J. Higham and Nicholas J. Higham  
+       Christine Klymko has kindly written about her experience as a 
+       postdoc at Lawrence Livermore National Lab, and the differences 
+       between academia, industry, and lab life. Having now transitioned to 
+       a staff researcher position, it's clear that the experience has been 
+       a positive one! We are grateful to Christine for taking the time to 
+       share her thoughts, which will be valuable to PhD students 
+       and researchers considering what to do next.  
 
-       MATLAB is an interactive system for numerical computation that is widely used for teaching and research in industry and academia. It provides a modern programming language and problem solving environment, with powerful data structures, customizable graphics, and easy-to-use editing and debugging tools.
-
-      This third edition of MATLAB Guide completely revises and updates the best-selling second edition and is more than 25 percent longer. The book remains a lively, concise introduction to the most popular and important features of MATLAB and the Symbolic Math Toolbox.
-
-      Key features are a tutorial in Chapter 1 that gives a hands-on overview of MATLAB, a thorough treatment of MATLAB mathematics, including the linear algebra and numerical analysis functions and the differential equation solvers, and a web page at http://www.siam.org/books/ot150 that provides a link to example program files, updates, and links to MATLAB resources.
-
-      The new edition contains color figures throughout, includes pithy discussions of related topics in new “Asides" boxes that augment the text, has new chapters on the Parallel Computing Toolbox, object-oriented programming, graphs, and large data sets, covers important new MATLAB data types such as categorical arrays, string arrays, tall arrays, tables, and timetables, contains more on MATLAB workflow, including the Live Editor and unit tests, and fully reflects major updates to the MATLAB graphics system.
-
-      ** Audience **  
-      This book is suitable for both beginners and more experienced users, including students, researchers, and practitioners.
-
-      ** About the Authors**  
-      ** Desmond J. Higham** is 1966 Chair of Numerical Analysis at the University of Strathclyde, UK. His research focuses on stochastic computation, network science, and city analytics. He is a SIAM Dahlquist Prize winner, a SIAM Fellow, and a Fellow of the Royal Society of Edinburgh.
-
-      ** Nicholas J. Higham**  is Richardson Professor of Applied Mathematics at the University of Manchester, UK. His research focuses on numerical linear algebra, and he has contributed numerous functions to MATLAB. He is a Fellow of the Royal Society, a SIAM Fellow, and a Member of Academia Europaea.
-
-      ** Contents** 
-      List of Figures; List of Tables; List of Program Files; Preface; Chapter 1: A Brief Tutorial; Chapter 2: Basics; Chapter 3: Distinctive Features of MATLAB; Chapter 4: Arithmetic; Chapter 5: Matrices; Chapter 6: Operators and Flow Control; Chapter 7: Program Files; Chapter 8: Graphics; Chapter 9: Linear Algebra; Chapter 10: More on Functions; Chapter 11: Numerical Methods: Part I; Chapter 12: Numerical Methods: Part II; Chapter 13: Input and Output; Chapter 14: Troubleshooting; Chapter 15: Sparse Matrices; Chapter 16: More on Coding; Chapter 17: Advanced Graphics; Chapter 18: Other Data Types and Multidimensional Arrays; Chapter 19: Object-Oriented Programming; Chapter 20: The Symbolic Math Toolbox; Chapter 21: Graphs; Chapter 22: Large Data Sets; Chapter 23: Optimizing Codes; Chapter 24: Tricks and Tips; Chapter 25: The Parallel Computing Toolbox; Chapter 26: Case Studies; Appendix A: The Top 111 MATLAB Functions; Glossary; Bibliography; Index.
-
-      xxvi + 476 pages / Hardcover / ISBN 978-1-611974-65-2
-
-      List Price $62.00 / SIAM Member Price $43.40 / Order Code OT150 
-
-      To order or for more about this book, including links to its table of contents, preface, and index, please visit <http://bookstore.siam.org/OT150/>.
-
-      For more information about SIAM books, journals, conferences, memberships, or activities, contact:
-
-      SIAM  
-      Society for Industrial and Applied Mathematics    
-      3600 Market Street, 6th floor    
-      Philadelphia, PA 19104-2688  
-      800-447-SIAM (US and Canada)  
-      215-382-9800  
-      Fax 215-386-7999  
-      <service@siam.org>  
-      <www.siam.org> 
-      
-    title: Call for submissions, Strathclyde NA Conference, June 2017
+  -  
+    title: New from SIAM Matlab Guide, Third Edition
     content: |
+        Announcing the December 27, 2016, publication by SIAM of    
+        **MATLAB Guide, Third Edition**  
+        Desmond J. Higham and Nicholas J. Higham  
+
+        MATLAB is an interactive system for numerical computation that is widely used for teaching and research in industry and academia. It provides a modern programming language and problem solving environment, with powerful data structures, customizable graphics, and easy-to-use editing and debugging tools.
+
+        This third edition of MATLAB Guide completely revises and updates the best-selling second edition and is more than 25 percent longer. The book remains a lively, concise introduction to the most popular and important features of MATLAB and the Symbolic Math Toolbox.
+
+        Key features are a tutorial in Chapter 1 that gives a hands-on overview of MATLAB, a thorough treatment of MATLAB mathematics, including the linear algebra and numerical analysis functions and the differential equation solvers, and a web page at <http://www.siam.org/books/ot150> that provides a link to example program files, updates, and links to MATLAB resources.
+
+        The new edition contains color figures throughout, includes pithy discussions of related topics in new “Asides" boxes that augment the text, has new chapters on the Parallel Computing Toolbox, object-oriented programming, graphs, and large data sets, covers important new MATLAB data types such as categorical arrays, string arrays, tall arrays, tables, and timetables, contains more on MATLAB workflow, including the Live Editor and unit tests, and fully reflects major updates to the MATLAB graphics system.
+
+         ** Audience **  
+         This book is suitable for both beginners and more experienced users, including students, researchers, and practitioners.
+
+        ** About the Authors**  
+        ** Desmond J. Higham** is 1966 Chair of Numerical Analysis at the University of Strathclyde, UK. His research focuses on stochastic computation, network science, and city analytics. He is a SIAM Dahlquist Prize winner, a SIAM Fellow, and a Fellow of the Royal Society of Edinburgh.
+
+        ** Nicholas J. Higham**  is Richardson Professor of Applied Mathematics at the University of Manchester, UK. His research focuses on numerical linear algebra, and he has contributed numerous functions to MATLAB. He is a Fellow of the Royal Society, a SIAM Fellow, and a Member of Academia Europaea.
+
+        ** Contents** 
+        List of Figures;  
+        List of Tables; 
+        List of Program Files;  
+        Preface; Chapter 1 - A Brief Tutorial;  
+        Chapter 2 - Basics;  
+        Chapter 3 - Distinctive Features of MATLAB; 
+        Chapter 4 - Arithmetic;  
+        Chapter 5 - Matrices;  
+        Chapter 6 - Operators and Flow Control;  
+        Chapter 7 - Program Files;  
+        Chapter 8 - Graphics;  
+        Chapter 9 - Linear Algebra;  
+        Chapter 10 - More on Functions;  
+        Chapter 11 - Numerical Methods - Part I;  
+        Chapter 12 - Numerical Methods - Part II;  
+        Chapter 13 - Input and Output;  
+        Chapter 14 - Troubleshooting;  
+        Chapter 15 - Sparse Matrices;  
+        Chapter 16 - More on Coding;  
+        Chapter 17 - Advanced Graphics;  
+        Chapter 18 - Other Data Types and Multidimensional Arrays;  
+        Chapter 19 - Object-Oriented Programming;  
+        Chapter 20 - The Symbolic Math Toolbox;  
+        Chapter 21 - Graphs;  
+        Chapter 22 - Large Data Sets;  
+        Chapter 23 - Optimizing Codes;  
+        Chapter 24 - Tricks and Tips; 
+        Chapter 25 - The Parallel Computing Toolbox;  
+        Chapter 26 - Case Studies;  
+        Appendix A - The Top 111 MATLAB Functions;  
+        Glossary;  
+        Bibliography;  
+        Index.
+
+        xxvi + 476 pages / Hardcover / ISBN 978-1-611974-65-2
+
+        List Price $62.00 / SIAM Member Price $43.40 / Order Code OT150 
+
+        To order or for more about this book, including links to its table of contents, preface, and index, please visit <http://bookstore.siam.org/OT150/>.
+
+        For more information about SIAM books, journals, conferences, memberships, or activities, contact:
+
+        SIAM  
+        Society for Industrial and Applied Mathematics    
+        3600 Market Street, 6th floor    
+        Philadelphia, PA 19104-2688  
+        800-447-SIAM (US and Canada)  
+        215-382-9800  
+        Fax 215-386-7999  
+        <service@siam.org>  
+        <www.siam.org> 
+ 
+
+
+
+  -      
+     title: Call for submissions, Strathclyde NA Conference, June 2017
+     content: |
     
         Registration is now open for the  
 
-      27th Biennial Conference on Numerical Analysis  
+        27th Biennial Conference on Numerical Analysis  
 
-      June 27-30, 2017, University of Strathclyde, Glasgow, Scotland.  
+        June 27-30, 2017, University of Strathclyde, Glasgow, Scotland.  
 
-      This long-established conference is open to all researchers in the field, and
-      covers a diverse range of topics within numerical analysis. We welcome proposals
-      for minisymposia on specific topics, as well as contributed talks in any
-      relevant area: details of how to submit contributions can be found on our
-      webpage (detials below).
+        This long-established conference is open to all researchers in the field, and
+        covers a diverse range of topics within numerical analysis. We welcome proposals
+        for minisymposia on specific topics, as well as contributed talks in any
+        relevant area: details of how to submit contributions can be found on our
+        webpage (detials below).
 
-      The following distinguished researchers have accepted invitations for
-      plenary lectures at the conference: Don Estep, Philip Gill, David Gleich, David
-      Keyes, Christian Lubich, Ilaria Perugia, Gerlind Plonka-Hoch, Valeria Simoncini,
-      Andrew Stuart, Endre Süli, Françoise Tisseur, Karin Tornberg.
+        The following distinguished researchers have accepted invitations for
+        plenary lectures at the conference: Don Estep, Philip Gill, David Gleich, David
+        Keyes, Christian Lubich, Ilaria Perugia, Gerlind Plonka-Hoch, Valeria Simoncini,
+        Andrew Stuart, Endre Süli, Françoise Tisseur, Karin Tornberg.
 
-      Further information and on-line registration can be accessed at  
-      <http://www.naconf.org.uk>
+        Further information and on-line registration can be accessed at  
+        <http://www.naconf.org.uk>
 
   - 
-    title: "New from SIAM: "Live-streaming: SAMSI WISO, 8-10 February 2017"
-    content: |
-      Live-streaming SAMSI WISO workshop  
-      February 8-10, 2017
+     title: Live-streaming of SAMSI WISO, 8-10 February 2017
+     content: |
+        Live-streaming SAMSI WISO workshop  
+        February 8-10, 2017
 
-      The SAMSI Workshop on the Interface of Statistics and Optimization brings together
-      pioneers in statistics and optimization. In one-hour lectures they will discuss the
-      breadth and depth of advances, computational challenges, and cutting-edge applications.
+        The SAMSI Workshop on the Interface of Statistics and Optimization brings together
+        pioneers in statistics and optimization. In one-hour lectures they will discuss the
+        breadth and depth of advances, computational challenges, and cutting-edge applications.
 
-      Speakers
+        Speakers
 
-      - Larry Biegler (CMU), John Burns (Virginia Tech), Jack Dongarra (Tennessee),  
-      - Yonina Eldar (Technion), Jianqing Fan (Princeton), Michael Jordan (UC Berkeley),  
-      - Arkadi Nemirovski (Georgia Tech), Alex Shapiro (Georgia Tech),  
-      - Bernd Sturmfels (UC Berkeley & MPI Leipzig), Martin Wainwright (UC Berkeley),  
-      - Margaret Wright (NYU Courant), Steve Wright (Wisconsin)  
+        - Larry Biegler (CMU), John Burns (Virginia Tech), Jack Dongarra (Tennessee),  
+        - Yonina Eldar (Technion), Jianqing Fan (Princeton), Michael Jordan (UC Berkeley),  
+        - Arkadi Nemirovski (Georgia Tech), Alex Shapiro (Georgia Tech),  
+        - Bernd Sturmfels (UC Berkeley & MPI Leipzig), Martin Wainwright (UC Berkeley),  
+        - Margaret Wright (NYU Courant), Steve Wright (Wisconsin)  
 
-      The workshop will be live-streamed at <http://www.samsi.info/opt-wiso>  
-      The final schedule is still under construction.
+        The workshop will be live-streamed at <http://www.samsi.info/opt-wiso>  
+        The final schedule is still under construction.
 
+ 
      
 meetings:
-  - 2018-05-04-ala (save the date)
-  - 2017-05-29-gabb (updated dates)
-  - 2017-05-05-manitoba (first announcement)
+  - 2018-05-04-ala
+  - 2017-05-29-gabb
+  - 2017-05-05-manitoba
 
 jobs:
-  - 2017-01-24-umea (intro and conc)
+  - 2017-01-24-umea
   - 2017-01-16-strathclyde
   - 2017-01-25-aims
