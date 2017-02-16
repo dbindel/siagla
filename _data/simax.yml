@@ -2027,3 +2027,11 @@
   pp_start: '118'
   title: The Convergence of Harmonic Ritz Vectors and Harmonic Ritz Values, Revisited
   volume: '38'
+- authors: ''
+  date: '2017-02-15T08:00:00Z'
+  doi: doi:10.1137/16M1066877
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1066877?ai=s7&mi=3ezuvv&af=R
+  pp_end: '154'
+  pp_start: '134'
+  title: Eigenvalue Placement for Regular Matrix Pencils with Rank One Perturbations
+  volume: '38'
