@@ -3,6 +3,43 @@ welcome:
 announce:
 
   - 
+    title: New book announcement
+    content: |
+      We are pleased to announce the publication of the volume  
+
+      M. Benzi and V. Simoncini (Editors),  
+      "Exploiting Hidden Structure in Matrix Computations:  
+      Algorithms and Applications (Cetraro, Italy 2015)",  
+      Lecture Notes in Mathematics vol. 2173, CIME Foundation Subseries,  
+      Springer, 2016 (pp. ix + 406), ISBN 978-3-319-49886-7.  
+
+      The volume collects the text of the lectures given at the
+      CIME Summer Course of the same title in Cetraro (Italy) in
+      June 2015.  The table of contents is as follows:
+
+      M. Benzi and V. Simoncini, Preface
+
+      C. F. Van Loan, Structured Matrix Problems from Tensors
+
+      D. A. Bini, Matrix Structures in Queuing Models
+
+      J. Ballani and D. Kressner, Matrices with Hierarchical Low-Rank Structures
+
+      M. Benzi, Localization in Matrix Computations: Theory and Applications
+     
+      H. Z. Munthe-Kaas, Groups and Symmetries in Numerical Linear Algebra
+
+      The volume is also available as an eBook.
+
+      For further information, see
+
+      <http://www.springer.com/us/book/9783319498867>
+
+      
+      Michele Benzi (Emory University)  
+      Valeria Simoncini (Universit&agrave; di Bologna)
+
+  - 
     title: Registration is now open - Preconditioning 2017
     content: |
       Registration is now open for the International Conference on 
