@@ -2,6 +2,54 @@ welcome:
 
 announce:
 
+  - title: 
+    content: |
+      The deadline for submissions to the SIAM Workshop on Parameter Space Dimension Reduction (DR17) has been extended to March 13! See the website for submission details&#58;            <http://www.siam.org/meetings/dr17/submissions.php>
+
+      The DR17 workshop brings together researchers across mathematics, statistics, and engineering to explore a range of emerging techniques for parameter space dimension reduction. 
+
+      Topics and themes&#58;  
+      
+      * active subspaces  
+      * basis adaptation  
+      * inverse regression  
+      * sufficient dimension reduction  
+      * sloppy models  
+      * sensitivity analysis  
+      * ridge recovery and approximation  
+      * deterministic and statistical parameter estimation  
+      * applications with science and engineering simulations or data sets  
+
+      Plenary speakers&#58;  
+      
+      * Francesca Chiaromonte, Penn State University    
+      * Mark Transtrum, Brigham Young University    
+
+      DR17 Co-chairs &#58;  
+
+      *  Paul Constantine, Colorado School of Mines  
+      * David Gleich, Purdue University  
+
+      Organizing committee&#58;  
+      
+      * Juan J. Alonso, Stanford University  
+      * Nathan Baker, Pacific Northwest National Laboratory  
+      * R. Dennis Cook, University of Minnesota  
+      * Emilie Dufresne, University of Nottingham  
+      * Michael S. Eldred, Sandia National Laboratories  
+      * Michael Frenklach, University of California Berkeley  
+      * Roger Ghanem, University of Southern California  
+      * Omar Ghattas, University of Texas at Austin  
+      * Mark Girolami, Imperial College London  
+      * Gianluca Iaccarino, Stanford University  
+      * Youssef Marzouk, Massachusetts Institute of Technology  
+      * Gianluigi Rozza, Scuola Internazionale Superiore di Studi Avanti   
+      * Ralph Smith, North Carolina State University  
+      * Michael Wakin, Colorado School of Mines  
+      * Rachel Ward, University of Texas at Austin  
+      * vBrian J. Williams, Los Alamos National Laboratory  
+
+
   - 
     title: New book announcement
     content: |
