@@ -2043,3 +2043,12 @@
   pp_start: '155'
   title: Error Bounds for the Krylov Subspace Methods for Computations of Matrix Exponentials
   volume: '38'
+- authors: ''
+  date: '2017-03-16T07:00:00Z'
+  doi: doi:10.1137/16M106296X
+  link: http://epubs.siam.org/doi/abs/10.1137/16M106296X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '216'
+  pp_start: '188'
+  title: A Framework for Structured Linearizations of Matrix Polynomials in Various
+    Bases
+  volume: '38'
