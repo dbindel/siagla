@@ -2060,3 +2060,11 @@
   pp_start: '217'
   title: A Preconditioner for the Ohta--Kawasaki Equation
   volume: '38'
+- authors: ''
+  date: '2017-03-23T07:00:00Z'
+  doi: doi:10.1137/16M1062454
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1062454?ai=s7&mi=3ezuvv&af=R
+  pp_end: '248'
+  pp_start: '226'
+  title: Reordering Strategy for Blocking Optimization in Sparse Linear Solvers
+  volume: '38'
