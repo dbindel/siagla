@@ -2076,3 +2076,12 @@
   pp_start: '249'
   title: Linearizations of Hermitian Matrix Polynomials Preserving the Sign Characteristic
   volume: '38'
+- authors: ''
+  date: '2017-04-04T07:00:00Z'
+  doi: doi:10.1137/16M1058534
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1058534?ai=s7&mi=3ezuvv&af=R
+  pp_end: '296'
+  pp_start: '273'
+  title: Accelerating Convergence by Augmented Rayleigh--Ritz Projections For Large-Scale
+    Eigenpair Computation
+  volume: '38'
