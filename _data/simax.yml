@@ -2085,3 +2085,11 @@
   title: Accelerating Convergence by Augmented Rayleigh--Ritz Projections For Large-Scale
     Eigenpair Computation
   volume: '38'
+- authors: ''
+  date: '2017-04-13T07:00:00Z'
+  doi: doi:10.1137/16M1078987
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1078987?ai=s7&mi=3ezuvv&af=R
+  pp_end: '321'
+  pp_start: '297'
+  title: Krylov--Schur-Type Restarts for the Two-Sided Arnoldi Method
+  volume: '38'
