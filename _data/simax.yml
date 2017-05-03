@@ -2102,3 +2102,11 @@
   title: A Matrix-Algebraic Algorithm for the Riemannian Logarithm on the Stiefel
     Manifold under the Canonical Metric
   volume: '38'
+- authors: ''
+  date: '2017-05-02T07:00:00Z'
+  doi: doi:10.1137/16M1076988
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1076988?ai=s7&mi=3ezuvv&af=R
+  pp_end: '360'
+  pp_start: '343'
+  title: Block Matrix Formulations for Evolving Networks
+  volume: '38'
