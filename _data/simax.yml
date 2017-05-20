@@ -2118,3 +2118,12 @@
   pp_start: '361'
   title: A Novel Iterative Method To Approximate Structured Singular Values
   volume: '38'
+- authors: ''
+  date: '2017-05-18T07:00:00Z'
+  doi: doi:10.1137/15M1024482
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1024482?ai=s7&mi=3ezuvv&af=R
+  pp_end: '400'
+  pp_start: '387'
+  title: A Majorization-Minimization Algorithm for Computing the Karcher Mean of Positive
+    Definite Matrices
+  volume: '38'
