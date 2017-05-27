@@ -2127,3 +2127,20 @@
   title: A Majorization-Minimization Algorithm for Computing the Karcher Mean of Positive
     Definite Matrices
   volume: '38'
+- authors: ''
+  date: '2017-05-25T07:00:00Z'
+  doi: doi:10.1137/130914905
+  link: http://epubs.siam.org/doi/abs/10.1137/130914905?ai=s7&mi=3ezuvv&af=R
+  pp_end: '424'
+  pp_start: '401'
+  title: Preconditioned Multishift BiCG for $\mathcal{H}_2$-Optimal Model Reduction
+  volume: '38'
+- authors: ''
+  date: '2017-05-25T07:00:00Z'
+  doi: doi:10.1137/16M1064556
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1064556?ai=s7&mi=3ezuvv&af=R
+  pp_end: '433'
+  pp_start: '425'
+  title: Accurate Low-Rank Approximations Via a Few Iterations of Alternating Least
+    Squares
+  volume: '38'
