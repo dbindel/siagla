@@ -2144,3 +2144,28 @@
   title: Accurate Low-Rank Approximations Via a Few Iterations of Alternating Least
     Squares
   volume: '38'
+- authors: ''
+  date: '2017-05-30T07:00:00Z'
+  doi: doi:10.1137/16M1072851
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1072851?ai=s7&mi=3ezuvv&af=R
+  pp_end: '457'
+  pp_start: '434'
+  title: A Formula for the Fr&#233;chet Derivative of a Generalized Matrix Function
+  volume: '38'
+- authors: ''
+  date: '2017-05-30T07:00:00Z'
+  doi: doi:10.1137/16M1066531
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1066531?ai=s7&mi=3ezuvv&af=R
+  pp_end: '477'
+  pp_start: '458'
+  title: Optimal Regularized Inverse Matrices  for  Inverse Problems
+  volume: '38'
+- authors: ''
+  date: '2017-05-30T07:00:00Z'
+  doi: doi:10.1137/15M1027097
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1027097?ai=s7&mi=3ezuvv&af=R
+  pp_end: '504'
+  pp_start: '478'
+  title: Solving Parameter-Dependent Lyapunov Equations Using the Reduced Basis Method
+    with Application to Parametric Model Order Reduction
+  volume: '38'
