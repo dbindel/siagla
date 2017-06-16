@@ -2169,3 +2169,20 @@
   title: Solving Parameter-Dependent Lyapunov Equations Using the Reduced Basis Method
     with Application to Parametric Model Order Reduction
   volume: '38'
+- authors: ''
+  date: '2017-06-15T07:00:00Z'
+  doi: doi:10.1137/16M1077398
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1077398?ai=s7&mi=3ezuvv&af=R
+  pp_end: '529'
+  pp_start: '505'
+  title: Sparse Matrix Factorizations for Fast Linear Solvers with Application to
+    Laplacian Systems
+  volume: '38'
+- authors: ''
+  date: '2017-06-15T07:00:00Z'
+  doi: doi:10.1137/15M1043145
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1043145?ai=s7&mi=3ezuvv&af=R
+  pp_end: '553'
+  pp_start: '530'
+  title: On a Problem of Weighted Low-Rank Approximation of Matrices
+  volume: '38'
