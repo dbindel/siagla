@@ -2186,3 +2186,12 @@
   pp_start: '530'
   title: On a Problem of Weighted Low-Rank Approximation of Matrices
   volume: '38'
+- authors: ''
+  date: '2017-06-20T07:00:00Z'
+  doi: doi:10.1137/16M1082019
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1082019?ai=s7&mi=3ezuvv&af=R
+  pp_end: '573'
+  pp_start: '554'
+  title: A Method for Computing Moments of Quadratic Forms Involving Wrapped Random
+    Variables
+  volume: '38'
