@@ -2195,3 +2195,21 @@
   title: A Method for Computing Moments of Quadratic Forms Involving Wrapped Random
     Variables
   volume: '38'
+- authors: ''
+  date: '2017-06-22T07:00:00Z'
+  doi: doi:10.1137/16M1107851
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1107851?ai=s7&mi=3ezuvv&af=R
+  pp_end: '598'
+  pp_start: '574'
+  title: Fast Hessenberg Reduction of Some Rank Structured Matrices
+  volume: '38'
+- authors: ''
+  date: '2017-06-22T07:00:00Z'
+  doi: doi:10.1137/16M107774X
+  link: http://epubs.siam.org/doi/abs/10.1137/16M107774X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '620'
+  pp_start: '599'
+  title: An Explicit Formula for the Splitting of Multiple Eigenvalues for Nonlinear
+    Eigenvalue Problems and Connections with the Linearization for the Delay Eigenvalue
+    Problem
+  volume: '38'
