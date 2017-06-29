@@ -2213,3 +2213,20 @@
     Eigenvalue Problems and Connections with the Linearization for the Delay Eigenvalue
     Problem
   volume: '38'
+- authors: ''
+  date: '2017-06-27T07:00:00Z'
+  doi: doi:10.1137/15M1050872
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1050872?ai=s7&mi=3ezuvv&af=R
+  pp_end: '648'
+  pp_start: '621'
+  title: Solving Graph Laplacian Systems Through Recursive Partitioning and Two-Grid
+    Preconditioning
+  volume: '38'
+- authors: ''
+  date: '2017-06-27T07:00:00Z'
+  doi: doi:10.1137/17M1116672
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1116672?ai=s7&mi=3ezuvv&af=R
+  pp_end: '655'
+  pp_start: '649'
+  title: The Numerical Range is a $(1+\sqrt{2})$-Spectral Set
+  volume: '38'
