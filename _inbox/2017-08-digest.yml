@@ -1,0 +1,59 @@
+welcome: 
+
+announce:
+
+  - title: SIAG/Linear Algebra Prize
+    content: |
+      <http://www.siam.org/prizes/sponsored/siagla.php>  
+
+      Nominate a colleague now for the 2018 SIAG/Linear Algebra Prize! 
+      The SIAG/LA Prize is awarded every three (3) years to the author(s) 
+      of the most outstanding paper, as determined by the selection committee, 
+      on a topic in applicable linear algebra published in English in a 
+      peer-reviewed journal within the four (4) calendar years preceding the 
+      award year.
+
+      **Eligibility Criteria**:  
+      The qualifying paper must contain significant research contributions to 
+      the field of linear algebra, as commonly defined in the mathematical 
+      literature, with direct or potential applications. The paper must have 
+      been published in English in a peer-reviewed journal in the four (4) 
+      calendar years preceding the award year. For the 2018 award, the paper 
+      must have been published between the dates of January 1, 2014 – December 31, 2017.
+
+      **Nomination Deadline**:  
+      October 15, 2017  
+
+      **Required Materials**:
+       - Nominator’s Letter of Recommendation for Candidate Paper  
+       - Bibliographic Citation for Candidate Paper  
+       - Digital Version of the Candidate Paper (PDF required)  
+
+       ** Selection Committee**:  
+      Alison Ramage (Chair), University of Strathclyde  
+      Beatrice Meini, University of Pisa  
+      Dominique Orban, Polytechnique Montr&eacute;al  
+      Michael Overton, Courant Institute – New York University  
+      Raymond Tuminaro, Sandia National Laboratories  
+ 
+      Learn more about our prize program and view all prizes with open calls. 
+      Contact <prizeadmin@siam.org> with questions regarding nomination procedure.
+
+    - title: Householder Symposium Summary
+    - content: |
+      This summer, I attended the Householder Symposium XX in Blacksburg, Virginia. It was my first time in Virginia as well as my first time attending this fabulous meeting. I was pleased to be invited for a poster presentation and to had the chance to meet other young and  established researchers. It’s a tradition of the meeting to be informal, and I felt very comfortable due to its friendly atmosphere.
+
+      The scientific program consisted of diverse plenary talks, parallel sessions, as well as poster presentations supported by two entertaining poster blitz sessions on the first two evenings of the event. The symposium is well-known for the high-quality research presentations about state-of-the-art numerical linear and multi-linear algebra as well as related areas including optimization and systems and control. For example, Silvia Gazzola introduced a new fast solver, based on a flexible Krylov method, for nonnegative least squares problems in her talk on “Enforcing Nonnegativity by Flexible Krylov Subspaces“. Nick Trefethen gave an enjoyable presentation on "Block Operators and Spectral Discretizations”, which recently appeared in SIAM Review and has potential use in the classroom as well. In his talk on “Linear-Quadratic Optimal Control of Differential-Algebraic Equations,“ Matthias Voigt presented feasibility criteria in terms of the solutions of the general Lur’e equation and discussed aspects on the numerical construction of the solutions.  
+
+      A highlight of the symposium was the presentation of the 16th Alston S. Householder Award to Edgar Solomonik (University of Illinois at Urbana-Champaign) for the best PhD dissertation in numerical linear algebra submitted between January 2014 and December 2016. Edgar’s dissertation on “Provably Efficient Algorithms for Numerical Tensor Algebra” was selected by an international committee consisting of Michele Benzi, Inderjit Dhillon, Howard Elman (chair), Andreas Frommer, Francoise Tisseur, and Stephen Vavasis. In the morning after the conference banquet, Edgar gave the Householder Prize lecture, titled “Towards an Algebraic Formalism for Scalable Numerical Algorithms”, and you can check out his slides [here](http://solomonik.cs.illinois.edu/talks/householder-pz-vtech-jun-2017.pdf).
+
+      The first social highlight was a welcome BBQ with live music and members of the local organizing committee serving the beer. For the traditional excursion, participants could choose between three excursions: (1) a hike by one of Virginia’s most beautiful waterfalls, followed by local beer tasting; (2) wine tasting in Roanoke, followed by a short hike; or (3) a vigorous hike to one of Virginia’s most interesting rock formations. Due to my foot injury, I could not join the tough hike but others were excited about it. I attended the wine tasting, which was enjoyable as well. The waiter was quite quick in serving, so we tasted a good number of wines and snacked on some cheese and meat. In the end, we could take the fancy wine glasses home. The evening continued with a wonderful conference banquet. Cleve Moler, the after-dinner speaker, looked back to previous Householder Symposia and showed an interesting photo series. During lunches, participants were assigned to random tables which supported networking with diverse researchers. Another highlight was the live music and dance evening, with Beresford Parlett being one of the first dancers.
+
+      Let me conclude my review with citing a joke by Chen Greif during his plenary talk on “Recent Advances in the Solution of Saddle-Point Systems” -- Question: Can you solve a saddle point problem? Answer: Schur!
+ 
+ 
+meetings:
+  - 2017-09-07-sparse
+
+jobs:
+  - 2017-06-22-leuven 
