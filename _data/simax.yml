@@ -2238,3 +2238,12 @@
   pp_start: '656'
   title: Effective Criteria for Specific Identifiability of Tensors and Forms
   volume: '38'
+- authors: Piers W. Lawrence and Javier P&#233;rez
+  date: '2017-07-27T07:00:00Z'
+  doi: doi:10.1137/16M105839X
+  link: http://epubs.siam.org/doi/abs/10.1137/16M105839X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '709'
+  pp_start: '683'
+  title: Constructing Strong Linearizations of Matrix Polynomials Expressed in Chebyshev
+    Bases
+  volume: '38'
