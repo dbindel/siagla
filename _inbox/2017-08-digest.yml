@@ -2,6 +2,42 @@ welcome:
 
 announce:
 
+  - title: Householder Symposium XXI, June 2020
+    content: |
+      The Householder Symposium XXI on Numerical Linear Algebra will be held
+      at Hotel Sierra Silvana, Selva di Fasano (Br), Italy, 14-19 June 2020. 
+      Preliminary information can be found at
+
+      <http://users.ba.cnr.it/iac/irmanm21/HHXXI/index.html>
+
+      This symposium is the twenty-first in a series, previously called the
+      Gatlinburg Symposia, and will be organized in cooperation with the
+      Society for Industrial and Applied Mathematics (SIAM) and the SIAM
+      Activity Group on Linear Algebra.
+
+      The Symposium is very informal, with the intermingling of young and
+      established researchers a priority. Participants are expected to
+      attend the entire meeting. The seventeenth Householder Award for the
+      best thesis in numerical linear algebra since 1 January 2017 will be 
+      presented.
+
+      Attendance at the meeting is by invitation only. Applications will be
+      solicited from researchers in numerical linear algebra, matrix theory,
+      and related areas such as optimization, differential equations, signal
+      processing, and control. Each attendee will be given the opportunity
+      to present a talk or a poster. Some talks will be plenary lectures, 
+      while others will be shorter presentations arranged in parallel sessions.
+
+      The application deadline will be some time in Fall 2019.
+
+      It is expected that partial support will be available for some
+      students, early career participants, and participants from countries
+      with limited resources.
+
+
+
+
+
   - title: SIAG/Linear Algebra Prize
     content: |
       <http://www.siam.org/prizes/sponsored/siagla.php>  
