@@ -2,6 +2,32 @@ welcome:
 
 announce:
 
+  - title: SIAM Conference on Applied Linear Algebra (SIAM ALA18)
+    content: | 
+      <http://www.math.hkbu.edu.hk/siam-ala18/>
+      
+      The call for participation for the 2018 Applied Linear Algebra meeting in Hong Kong is now available. Please visit   
+      <http://www.math.hkbu.edu.hk/siam-ala18/CallMinisymposia.html>
+      < http://www.math.hkbu.edu.hk/siam-ala18/CallMinitutorials.html>
+      for more information.
+
+      SUBMISSION DEADLINES
+
+      31 October 2017:        Minitutorial proposals  
+      31 October 2017:        Minisymposium proposals  
+      31 October 2017:        Abstracts for contributed and minisymposium speakers  
+      31 October 2017:        Abstracts for posters  
+
+      TRAVEL FUND APPLICATION DEADLINE
+      31 October 2017:    SIAM Student Travel Award and Post-doc/Early Career Travel Award Applications
+
+      Detailed guidelines for the preparation of abstract, minisymposia and poster submissions are available at   
+      <http://www.math.hkbu.edu.hk/siam-ala18/Submission.html>
+
+      Information on travel awards is available at  
+      <http://www.math.hkbu.edu.hk/siam-ala18/Awards.html>
+
+
   - title: Householder Symposium XXI, June 2020
     content: |
       The Householder Symposium XXI on Numerical Linear Algebra will be held
