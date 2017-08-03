@@ -2247,3 +2247,36 @@
   title: Constructing Strong Linearizations of Matrix Polynomials Expressed in Chebyshev
     Bases
   volume: '38'
+- authors: Andreas Frommer, Kathryn Lund, Marcel Schweitzer and Daniel B. Szyld
+  date: '2017-08-01T07:00:00Z'
+  doi: doi:10.1137/16M1072565
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1072565?ai=s7&mi=3ezuvv&af=R
+  pp_end: '732'
+  pp_start: '710'
+  title: The Radau--Lanczos Method for Matrix Functions
+  volume: '38'
+- authors: A. Bostan, C.-P. Jeannerod, C. Mouilleron and &#201;. Schost
+  date: '2017-08-01T07:00:00Z'
+  doi: doi:10.1137/16M1062855
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1062855?ai=s7&mi=3ezuvv&af=R
+  pp_end: '775'
+  pp_start: '733'
+  title: 'On Matrices With Displacement Structure: Generalized Operators and Faster
+    Algorithms'
+  volume: '38'
+- authors: Nicola Guglielmi, Christian Lubich and Volker Mehrmann
+  date: '2017-08-01T07:00:00Z'
+  doi: doi:10.1137/16M1079026
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1079026?ai=s7&mi=3ezuvv&af=R
+  pp_end: '806'
+  pp_start: '776'
+  title: On the Nearest Singular Matrix Pencil
+  volume: '38'
+- authors: Ruipeng Li and Yousef Saad
+  date: '2017-08-01T07:00:00Z'
+  doi: doi:10.1137/16M110486X
+  link: http://epubs.siam.org/doi/abs/10.1137/16M110486X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '828'
+  pp_start: '807'
+  title: Low-Rank Correction Methods for Algebraic Domain Decomposition Preconditioners
+  volume: '38'
