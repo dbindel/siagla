@@ -2289,3 +2289,19 @@
   title: Roundoff-Error-Free Basis Updates of LU Factorizations for the Efficient
     Validation of Optimality Certificates
   volume: '38'
+- authors: Pengwen Chen, Albert Fannjiang and Gi-Ren Liu
+  date: '2017-08-17T07:00:00Z'
+  doi: doi:10.1137/16M1107747
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1107747?ai=s7&mi=3ezuvv&af=R
+  pp_end: '868'
+  pp_start: '854'
+  title: Phase Retrieval by Linear Algebra
+  volume: '38'
+- authors: Minghua Chen and Weihua Deng
+  date: '2017-08-17T07:00:00Z'
+  doi: doi:10.1137/16M1076642
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1076642?ai=s7&mi=3ezuvv&af=R
+  pp_end: '890'
+  pp_start: '869'
+  title: Convergence Analysis of a Multigrid Method for a Nonlocal Model
+  volume: '38'
