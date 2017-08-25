@@ -2305,3 +2305,11 @@
   pp_start: '869'
   title: Convergence Analysis of a Multigrid Method for a Nonlocal Model
   volume: '38'
+- authors: Ding Lu and Bart Vandereycken
+  date: '2017-08-24T07:00:00Z'
+  doi: doi:10.1137/16M107952X
+  link: http://epubs.siam.org/doi/abs/10.1137/16M107952X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '923'
+  pp_start: '891'
+  title: Criss-Cross Type Algorithms for Computing the Real Pseudospectral Abscissa
+  volume: '38'
