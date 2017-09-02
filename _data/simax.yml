@@ -2313,3 +2313,11 @@
   pp_start: '891'
   title: Criss-Cross Type Algorithms for Computing the Real Pseudospectral Abscissa
   volume: '38'
+- authors: Bing Zheng, Lingsheng Meng and Yimin Wei
+  date: '2017-08-31T07:00:00Z'
+  doi: doi:10.1137/15M1053815
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1053815?ai=s7&mi=3ezuvv&af=R
+  pp_end: '948'
+  pp_start: '924'
+  title: Condition Numbers of the Multidimensional Total Least Squares Problem
+  volume: '38'
