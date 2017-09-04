@@ -1,10 +1,17 @@
-welcome: In the digest this month are annoucements of upcoming conferences and job opportunities. 
+welcome: The digest this month includes an opportunity to contribute to the Strutctured Matrix Market, as well as annoucements of upcoming conferences and job opportunities. 
 
 announce:
 
-  - title: fill
+  - title: Structured Matrix Market
     content: | 
-      fill
+      We are launch a repository for structured matrices -- Structured Matrix Market (SMart): <http://smart.math.purdue.edu/>
+
+      The collection is for various types of structured matrices in the forms of Matlab and other source codes, as well as data files. The codes can be used to generate test data for matrix computations, especially fast structured methods such as rank-structured direct solvers.
+
+      Submissions of codes and data related to structured matrices are welcome. The submission method can be found on the website.
+
+      Jianlin Xia
+      Purdue University
       
 meetings:
   - 2018-03-07-pp18
