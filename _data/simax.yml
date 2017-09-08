@@ -2321,3 +2321,20 @@
   pp_start: '924'
   title: Condition Numbers of the Multidimensional Total Least Squares Problem
   volume: '38'
+- authors: Nicola Mastronardi and Paul Van Dooren
+  date: '2017-09-06T07:00:00Z'
+  doi: doi:10.1137/16M1083098
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1083098?ai=s7&mi=3ezuvv&af=R
+  pp_end: '966'
+  pp_start: '949'
+  title: Computing the Jordan Structure of an Eigenvalue
+  volume: '38'
+- authors: Erna Begovi&#263; Kova&#269; and Daniel Kressner
+  date: '2017-09-06T07:00:00Z'
+  doi: doi:10.1137/16M106618X
+  link: http://epubs.siam.org/doi/abs/10.1137/16M106618X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '983'
+  pp_start: '967'
+  title: Structure-Preserving Low Multilinear Rank Approximation of Antisymmetric
+    Tensors
+  volume: '38'
