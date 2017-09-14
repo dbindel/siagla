@@ -2,11 +2,68 @@ welcome:
 
 announce:
 
-  - title: SIAG/LA Early Career Prize
+  - title: Announcing NEW SIAG/Linear Algebra Early Career Prize
     content: | 
+      We are excited to announce that SIAG/LA has established an Early Career Prize! The [SIAG/Linear Algebra Early Career Prize](http://www.siam.org/prizes/sponsored/siaglaecareer.php) will be awarded every three years to one post-PhD early career researcher in the field of applicable linear algebra for outstanding contributions to the field within six years of receiving the PhD or equivalent degree as of January 1 of the award year. The prize will be awarded every three years at the SIAM Conference on Applied Linear Algebra, beginning with the meeting in Hong Kong, May 4-8, 2018.
+
+      Eligibility Criteria:  
+      The candidate's work must be a significant research contribution to applicable linear algebra. The qualifying contribution(s) for which the award is made must be publicly available and may belong to any aspect of applicable linear algebra. The candidate must have been awarded their PhD no earlier than six (6) years prior to January 1 of the award year and no later than the nomination date. Current graduate students are not eligible for this award.
+      For the 2018 award, the candidate must have been awarded their PhD no earlier than January 1, 2012, and no later than the nomination deadline.
+
+      Nomination Deadline:  
+      November 1, 2017
+      
+      <<<<<<<<<Add submission link >>>>>>>>>>>
+      
+      Required Materials:
+      
+      - Nominator’s Letter of Recommendation for Candidate  
+      - Candidate’s CV  
+      - 2 or 3 Letters of Support from experts in the field
+
+      Selection Committee:  
+      James Nagy (Chair), Emory University  
+      Matthias Bolten, Universitaet Wuppertal  
+      Heike Fassbender, TU Braunschweig  
+      Jennifer A. Scott, Rutherford Appleton Laboratory  
+      Jianlin Xia, Purdue University  
+ 
+      [Learn more](http://www.siam.org/prizes/) about our prize program and view all prizes with [open calls](http://www.siam.org/prizes/nominations.php). Contact <prizeadmin@siam.org> with questions regarding nomination procedure.
+    
+      SIAM Prize Program
+      
+  - title: SIAG/Linear Algebra Best Paper Prize
+    content: |
+      Nominate a paper now for the 2018 SIAG/Linear Algebra Best Paper Prize! The [SIAG/Linear Algebra Best Paper Prize](http://www.siam.org/prizes/sponsored/siagla.php) is awarded every three (3) years to the author(s) of the most outstanding paper, as determined by the selection committee, on a topic in applicable linear algebra published in English in a peer-reviewed journal within the four (4) calendar years preceding the award year. This paper prize has been awarded for 30 years as the SIAG/LA Prize; it has a new name.
+
+      Eligibility Criteria:  
+      The qualifying paper must contain significant research contributions to the field of linear algebra, as commonly defined in the mathematical literature, with direct or potential applications. The paper must have been published in English in a peer-reviewed journal in the four (4) calendar years preceding the award year. For the 2018 award, the paper must have been published between the dates of January 1, 2014 – December 31, 2017.
+
+      Nomination Deadline:  
+      October 15, 2017
+      
+      Submission link:   
+      <http://www.siam.org/prizes/nominations/nom_siagla.php>
+      
+      Required Materials:  
+
+      - Nominator’s Letter of Recommendation for Candidate Paper  
+      - Bibliographic Citation for Candidate Paper  
+      - Digital Version of the Candidate Paper (PDF required)
+      
+      Selection Committee:  
+      Alison Ramage (Chair), University of Strathclyde  
+      Beatrice Meini, University of Pisa  
+      Dominique Orban, Polytechnique Montréal  
+      Michael Overton, Courant Institute – New York University  
+      Raymond Tuminaro, Sandia National Laboratories  
+
+      [Learn more](http://www.siam.org/prizes/) about our prize program and view all prizes with [open calls](http://www.siam.org/prizes/nominations.php). Contact <prizeadmin@siam.org> with questions regarding nomination procedure.
+      
+      SIAM Prize Program
       
 meetings:
-  - 2017-06-05-is18
+  - 2018-06-05-is18
 
 jobs:
  - 2017-09-05-epfl
