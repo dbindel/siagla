@@ -2,6 +2,35 @@ welcome:
 
 announce:
 
+  - title: 2021 SIAM ALA Conference
+    content: |
+    
+      The SIAG/LA Officers seek input on a location for the 
+      2021 SIAM Conference on Applied Linear Algebra.
+
+      Recommendations for locations within North America need not have a
+      local organizing committee, but it would be helpful to provide
+      justification on why the particular recommended location is a good
+      choice for the SIAM ALA Conference. Such recommendations can be
+      sent directly to Jim Nagy, SIAG/LA Chair, jnagy@emory.edu.
+
+      Note that it is possible to run the conference with limited or no SIAM
+      support or staff, or to hold the conference outside North America.
+      However, in these situations it is important to have a strong local
+      organizing team, and a formal proposal needs to be submitted to SIAM.  
+      For further details, see:  
+
+      <http://www.siam.org/meetings/proposals/siag_run.php>
+
+      The deadline for submitting recommendations and/or proposals
+      is 4 February 2018.
+
+      SIAG/LA Team:  
+      Jim Nagy, Chair, <jnagy@emory.edu>  
+      Alison Ramage, Vice Chair, <a.ramage@strath.ac.uk>   
+      Melina Freitag, Program Director, <m.a.freitag@bath.ac.uk>  
+      Jen Pestana, Secretary, <jennifer.pestana@strath.ac.uk>  
+
   - title: Announcing NEW SIAG/Linear Algebra Early Career Prize
     content: | 
       We are excited to announce that SIAG/LA has established an Early Career Prize! The [SIAG/Linear Algebra Early Career Prize](http://www.siam.org/prizes/sponsored/siaglaecareer.php) will be awarded every three years to one post-PhD early career researcher in the field of applicable linear algebra for outstanding contributions to the field within six years of receiving the PhD or equivalent degree as of January 1 of the award year. The prize will be awarded every three years at the SIAM Conference on Applied Linear Algebra, beginning with the meeting in Hong Kong, May 4-8, 2018.
@@ -71,3 +100,4 @@ jobs:
  - 2017-09-05-epfl
  - 2017-09-06-argonne
  - 2017-09-08-ucboulder
+ - 2017-09-19-llnl
