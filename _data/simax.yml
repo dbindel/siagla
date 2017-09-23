@@ -2346,3 +2346,20 @@
   pp_start: '984'
   title: Fast Computation of Spectral Projectors of Banded Matrices
   volume: '38'
+- authors: Steven P. Diaz and Adam Lutoborski
+  date: '2017-09-21T07:00:00Z'
+  doi: doi:10.1137/16M1084717
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1084717?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1027'
+  pp_start: '1010'
+  title: Discrete Fourier Transform Tensors and Their Ranks
+  volume: '38'
+- authors: Mark Embree and Blake Keeler
+  date: '2017-09-21T07:00:00Z'
+  doi: doi:10.1137/15M1055012
+  link: http://epubs.siam.org/doi/abs/10.1137/15M1055012?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1054'
+  pp_start: '1028'
+  title: Pseudospectra of Matrix Pencils for Transient Analysis of Differential-Algebraic
+    Equations
+  volume: '38'
