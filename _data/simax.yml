@@ -2363,3 +2363,11 @@
   title: Pseudospectra of Matrix Pencils for Transient Analysis of Differential-Algebraic
     Equations
   volume: '38'
+- authors: Martin Paton, Kerem Akartunali and Desmond J. Higham
+  date: '2017-09-28T07:00:00Z'
+  doi: doi:10.1137/17M1114247
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1114247?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1073'
+  pp_start: '1055'
+  title: Centrality Analysis for Modified Lattices
+  volume: '38'
