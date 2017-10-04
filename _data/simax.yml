@@ -2371,3 +2371,11 @@
   pp_start: '1055'
   title: Centrality Analysis for Modified Lattices
   volume: '38'
+- authors: Shashanka Ubaru, Jie Chen and Yousef Saad
+  date: '2017-10-03T07:00:00Z'
+  doi: doi:10.1137/16M1104974
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1104974?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1099'
+  pp_start: '1075'
+  title: Fast Estimation of $tr(f(A))$ via Stochastic Lanczos Quadrature
+  volume: '38'
