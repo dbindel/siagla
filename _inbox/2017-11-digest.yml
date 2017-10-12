@@ -2,8 +2,43 @@ welcome:
 
 announce:
 
-  - title: 
+  - title: New book, Vector Extrapolation Methods with Applications
     content: |
+      *Announcing the publication by SIAM of:*
+ 
+      **Vector Extrapolation Methods with Applications**  
+      Avram Sidi   
+      *Computational Science and Engineering 17*
+ 
+      An important problem that arises in different disciplines of science and engineering is that of computing limits of sequences of vectors of very large dimension. Such sequences arise, for example, in the numerical solution of systems of linear and nonlinear equations by fixed-point iterative methods, and their limits are simply the required solutions to these systems. The convergence of these sequences, which is very slow in many cases, can be accelerated successfully by using suitable vector extrapolation methods.
+ 
+      *Vector Extrapolation Methods with Applications* is the first book fully dedicated to the subject of vector extrapolation methods. It is a self-contained, up-to-date, and state-of-the-art reference on the theory and practice of the most useful methods. It covers all aspects of the subject, including development of the methods, their convergence study, numerically stable algorithms for their implementation, and their various applications. It also provides complete proofs in most places. As an interesting application, the author shows how these methods give rise to rational approximation procedures for vector-valued functions in the complex plane, a subject of importance in model reduction problems among others.
+ 
+      **Audience**  
+      This book is intended for numerical analysts, applied mathematicians, and computational scientists and engineers in fields such as computational fluid dynamics, structures, and mechanical and electrical engineering, to name a few. Since it provides complete proofs in most places, it can also serve as a textbook in courses on acceleration of convergence of iterative vector processes, for example.
+ 
+      **About the Author**  
+      **Avram Sidi** is Professor Emeritus of Numerical Analysis in the Computer Science Department at the Technion-Israel Institute of Technology and the former holder of the Technion Administration Chair in Computer Science. He has published extensively in various areas of numerical analysis and approximation theory, such as convergence acceleration, numerical integration, rational approximation, and asymptotic analysis, convergence acceleration being a major area. He is also the author of the book Practical Extrapolation Methods: Theory and Applications (Cambridge University Press, 2003), which deals exclusively with the acceleration of convergence of scalar sequences. His research has involved the development of novel numerical methods of high accuracy, their rigorous mathematical analysis, design of efficient algorithms for their implementation, and their application to difficult problems. His methods and algorithms are being used successfully in various scientific and engineering disciplines.
+ 
+      **Contents**  
+      Chapter 0: Introduction and Review of Linear Algebra; Part I: Vector Extrapolation Methods; Chapter 1: Development of Polynomial Extrapolation Methods; Chapter 2: Unified Algorithms for MPE and RRE; Chapter 3: MPE and RRE are Related; Chapter 4: Algorithms for MMPE and SVD-MPE; Chapter 5: Epsilon Algorithms; Chapter 6: Convergence Study of Extrapolation Methods: Part I; Chapter 7: Convergence Study of Extrapolation Methods: Part II; Chapter 8: Recursion Relations for Vector Extrapolation Methods; Part II: Krylov Sybspace Methods; Chapter 9: Krylov Subspace Methods for Linear Systems; Chapter 10: Krylov Subspace Methods for Eigenvalue Problems; Part III: Applications and Generalizations; Chapter 11: Miscellaneous Applications of Vector Extrapolation Methods; Chapter 12: Rational Approximations from Vector-Valued Power Series: Part I; Chapter 13: Rational Approximations from Vector-Valued Power Series: Part II; Chapter 14: Applications of SMPE, SMMPE, and STEA; Chapter 15: Vector Generalizations of Scalar Extrapolation Methods; Chapter 16: Vector-Valued Rational Interpolation Methods; Part IV: Appendices; Appendix A: QR Factorization; Appendix B: Singular Value Decompositions (SVD); Appendix C: Moore-Penrose Generalized Inverse; Appendix D: Basics of Orthogonal Polynomails; Appendix E: Chebyshev Polynomials: Basic Properties; Appendix F: Useful Formulas and Results for Jacobi Polynomials; Appendix G: Rayleigh Quotient and Power Method; Appendix H: Unified FORTRAN77 Code for MPE and RRE.
+ 
+      2017 / xiv + 433 pages / Softcover / ISBN 978-1-611974-95-9  
+      List Price $104.00 / SIAM Member Price $72.80 / Order Code **CS17**
+ 
+      To order or for more about this book, including links to its table of contents, preface, and index, please visit http://bookstore.siam.org/CS17/.
+ 
+      For more information about SIAM books, journals, conferences, memberships, or activities, contact:
+ 
+      SIAM  
+      Society for Industrial and Applied Mathematics  
+      3600 Market Street, 6th floor  
+      Philadelphia, PA 19104-2688  
+      800-447-SIAM (US and Canada)  
+      215-382-9800  
+      Fax 215-386-7999  
+      <service@siam.org>
+      <www.siam.org>
     
       
       
