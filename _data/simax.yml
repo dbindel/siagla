@@ -2379,3 +2379,28 @@
   pp_start: '1075'
   title: Fast Estimation of $tr(f(A))$ via Stochastic Lanczos Quadrature
   volume: '38'
+- authors: Stanley C. Eisenstat, Serge Gratton and David Titley-Peloquin
+  date: '2017-10-18T07:00:00Z'
+  doi: doi:10.1137/140986566
+  link: http://epubs.siam.org/doi/abs/10.1137/140986566?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1115'
+  pp_start: '1100'
+  title: On the Symmetric Componentwise Relative Backward Error for Linear Systems
+    of Equations
+  volume: '38'
+- authors: Haim Avron, Kenneth L. Clarkson and David P. Woodruff
+  date: '2017-10-18T07:00:00Z'
+  doi: doi:10.1137/16M1105396
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1105396?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1138'
+  pp_start: '1116'
+  title: Faster Kernel Ridge Regression Using Sketching and Preconditioning
+  volume: '38'
+- authors: Darshan Bryner
+  date: '2017-10-18T07:00:00Z'
+  doi: doi:10.1137/16M1103099
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1103099?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1159'
+  pp_start: '1139'
+  title: Endpoint Geodesics on the Stiefel Manifold Embedded in Euclidean Space
+  volume: '38'
