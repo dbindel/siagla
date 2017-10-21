@@ -2404,3 +2404,11 @@
   pp_start: '1139'
   title: Endpoint Geodesics on the Stiefel Manifold Embedded in Euclidean Space
   volume: '38'
+- authors: James Hook and Fran&#231;oise Tisseur
+  date: '2017-10-19T07:00:00Z'
+  doi: doi:10.1137/16M1094579
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1094579?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1189'
+  pp_start: '1160'
+  title: Incomplete LU Preconditioner Based on Max-Plus Approximation of LU Factorization
+  volume: '38'
