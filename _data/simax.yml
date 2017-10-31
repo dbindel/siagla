@@ -2412,3 +2412,19 @@
   pp_start: '1160'
   title: Incomplete LU Preconditioner Based on Max-Plus Approximation of LU Factorization
   volume: '38'
+- authors: Jiang Qian, Yunfeng Cai, Delin Chu and Roger C. E. Tan
+  date: '2017-10-30T07:00:00Z'
+  doi: doi:10.1137/16M1100411
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1100411?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1209'
+  pp_start: '1190'
+  title: Eigenvalue Embedding of Undamped Vibroacoustic Systems with No-spillover
+  volume: '38'
+- authors: Cun Mu, Daniel Hsu and Donald Goldfarb
+  date: '2017-10-30T07:00:00Z'
+  doi: doi:10.1137/16M1087734
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1087734?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1226'
+  pp_start: '1210'
+  title: Greedy Approaches to Symmetric Orthogonal Tensor Decomposition
+  volume: '38'
