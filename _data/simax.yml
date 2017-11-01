@@ -2428,3 +2428,11 @@
   pp_start: '1210'
   title: Greedy Approaches to Symmetric Orthogonal Tensor Decomposition
   volume: '38'
+- authors: Bernhard Beckermann and Alex Townsend
+  date: '2017-10-30T07:00:00Z'
+  doi: doi:10.1137/16M1096426
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1096426?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1248'
+  pp_start: '1227'
+  title: On the Singular Values of Matrices with Displacement Structure
+  volume: '38'
