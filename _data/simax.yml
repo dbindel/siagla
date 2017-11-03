@@ -2436,3 +2436,29 @@
   pp_start: '1227'
   title: On the Singular Values of Matrices with Displacement Structure
   volume: '38'
+- authors: Andrii Dmytryshyn, Stefan Johansson and Bo K&#229;gstr&#246;m
+  date: '2017-11-02T07:00:00Z'
+  doi: doi:10.1137/16M1097857
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1097857?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1267'
+  pp_start: '1249'
+  title: Canonical Structure Transitions of System Pencils
+  volume: '38'
+- authors: Xin Ye, Jianlin Xia, Raymond H. Chan, Stephen Cauley and Venkataramanan
+    Balakrishnan
+  date: '2017-11-02T07:00:00Z'
+  doi: doi:10.1137/16M1086601
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1086601?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1297'
+  pp_start: '1268'
+  title: A Fast Contour-Integral Eigensolver for Non-Hermitian Matrices
+  volume: '38'
+- authors: JianlinZixing XiaXin
+  date: '2017-11-02T07:00:00Z'
+  doi: doi:10.1137/17M1124152
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1124152?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1322'
+  pp_start: '1298'
+  title: Effective and Robust Preconditioning of General SPD Matrices via Structured
+    Incomplete Factorization
+  volume: '38'
