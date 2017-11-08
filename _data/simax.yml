@@ -2462,3 +2462,12 @@
   title: Effective and Robust Preconditioning of General SPD Matrices via Structured
     Incomplete Factorization
   volume: '38'
+- authors: N. Guglielmi, M. G&#252;rb&#252;zbalaban, T. Mitchell and M. L. Overton
+  date: '2017-11-07T08:00:00Z'
+  doi: doi:10.1137/16M1110169
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1110169?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1353'
+  pp_start: '1323'
+  title: Approximating the Real Structured Stability Radius with Frobenius-Norm Bounded
+    Perturbations
+  volume: '38'
