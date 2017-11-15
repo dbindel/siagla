@@ -2471,3 +2471,20 @@
   title: Approximating the Real Structured Stability Radius with Frobenius-Norm Bounded
     Perturbations
   volume: '38'
+- authors: Evan S. Gawlik and Melvin Leok
+  date: '2017-11-14T08:00:00Z'
+  doi: doi:10.1137/16M108971X
+  link: http://epubs.siam.org/doi/abs/10.1137/16M108971X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1379'
+  pp_start: '1354'
+  title: Iterative Computation of the Fr&#233;chet Derivative of the Polar Decomposition
+  volume: '38'
+- authors: Robert M. Gower and Peter Richt&#225;rik
+  date: '2017-11-14T08:00:00Z'
+  doi: doi:10.1137/16M1062053
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1062053?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1409'
+  pp_start: '1380'
+  title: Randomized Quasi-Newton Updates Are Linearly Convergent Matrix Inversion
+    Algorithms
+  volume: '38'
