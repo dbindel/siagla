@@ -2,10 +2,12 @@ welcome:
 
 announce:
 
-  - title: 2018 Gene Golub SIAM Summer School on Inverse Problems - Call for Applications
+  - title: 2018 Gene Golub SIAM Summer School on Inverse Problems - Call for 
+Applications
     content: |
       2018 Gene Golub SIAM Summer School  
-      Inverse Problems: Systematic Integration of Data with Models under Uncertainty  
+      Inverse Problems: Systematic Integration of Data with Models under 
+Uncertainty  
       June 17-30, 2018  
       Breckenridge, Colorado, USA  
       <http://g2s3.com>
@@ -24,6 +26,15 @@ announce:
       Applications are being accepted now through February 1, 2018 via
       Mathprograms (<https://www.mathprograms.org/db/programs/608>). More
       information is available on the G2S3 2018 website (<http://g2s3.com>).
+      
+  - title: Los Alamos National Laboratory Summer School on Geosciences and Machine Learning
+    content: |  
+      We are excited to announce 2018 Los Alamos National Laboratory Applied Research in Earth Sciences (ARiES)/Applied Machine Learning Summer School. The theme topic for this year is "Machine Learning for Geosciences." We are currently accepting applications. Successful applicants will receive prestigious research fellowship, hands-on technical training experiences and professional development from internationally reputable geophysics, space and computational scientists.
+
+      For more information about our summer school, project and mentor information, please visit our summer school website at <http://aml.lanl.gov>. Applications must be submitted by December 15, 2017 for full consideration.
+
+      Diane, Reid and Youzuo  
+      ARiES/AML 2018 Co-Organizers
 
 meetings:
  - 
