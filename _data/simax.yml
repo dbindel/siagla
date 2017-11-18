@@ -2488,3 +2488,11 @@
   title: Randomized Quasi-Newton Updates Are Linearly Convergent Matrix Inversion
     Algorithms
   volume: '38'
+- authors: James Hook
+  date: '2017-11-16T08:00:00Z'
+  doi: doi:10.1137/16M1097596
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1097596?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1433'
+  pp_start: '1410'
+  title: Max-Plus Algebraic Statistical Leverage Scores
+  volume: '38'
