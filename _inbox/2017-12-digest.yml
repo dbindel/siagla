@@ -2,6 +2,13 @@ welcome:
 
 announce:
 
+  - title: SIAG/LA sponsored minisymposium/ miniposterium at SIAM Annual Meeting
+    content: |
+      The SIAG/LA committee are looking to sponsor a small number of minisymposia and/or miniposteria at the SIAM Annual Meeting in Portland, Oregon, July 9-13, 2018. These will be advertised as being sponsored by the SIAG/LA. Please note, however, that no financial contribution can be provided.
+
+      Members who are thinking of submitting a minisymposium/miniposterium proposal for the annual meeting, who would like to be considered for sponsorship, are invited to contact Melina Freitag (m.freitag@maths.bath.ac.uk) by  December 31. 
+
+
   - title: 2018 Gene Golub SIAM Summer School on Inverse Problems - Call for Applications
     content: |
       2018 Gene Golub SIAM Summer School  
@@ -56,9 +63,10 @@ Uncertainty
 
 
 meetings:
- - 
+ - 2018-07-27-pmaa
 
 jobs:
+ - 2017-12-04-strathclyde 
  - 2017-11-10-toronto
  - 2017-11-13-akron
  - 2017-10-14-utsa
