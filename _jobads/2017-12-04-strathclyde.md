@@ -40,6 +40,7 @@ For more information please contact Dr Pestana (<jennifer.pestana@strath.ac.uk>)
 
 Please ensure that you clearly state your interest in this project with these supervisors when making a formal application. 
 
+For full consideration, please apply by January 15, 2018.
 
 **Funding** 
 
