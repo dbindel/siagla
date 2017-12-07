@@ -2504,3 +2504,19 @@
   pp_start: '1434'
   title: On the Largest Multilinear Singular Values of Higher-Order Tensors
   volume: '38'
+- authors: Joel A. Tropp, Alp Yurtsever, Madeleine Udell and Volkan Cevher
+  date: '2017-12-06T08:00:00Z'
+  doi: doi:10.1137/17M1111590
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1111590?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1485'
+  pp_start: '1454'
+  title: Practical Sketching Algorithms for Low-Rank Matrix Approximation
+  volume: '38'
+- authors: Daniel Loghin
+  date: '2017-12-06T08:00:00Z'
+  doi: doi:10.1137/16M1072036
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1072036?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1495'
+  pp_start: '1486'
+  title: A Note on Constraint Preconditioning
+  volume: '38'
