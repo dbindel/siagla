@@ -15,7 +15,7 @@ Radial basis functions (RBFs) have several advantages when used to numerically a
 
 **Project background**
 
-Mathematical modelling is increasingly used to investigate and understand phenomena and forecast future events, particularly when experimentation is prohibitive or costly. However, real-world problems are often posed on complicated domains and involve scattered data, e.g. in geophysical and biological applications, or are inherently high-dimensional, e.g.\ in quantum physics, finance and systems biology. 
+Mathematical modelling is increasingly used to investigate and understand phenomena and forecast future events, particularly when experimentation is prohibitive or costly. However, real-world problems are often posed on complicated domains and involve scattered data, e.g. in geophysical and biological applications, or are inherently high-dimensional, e.g. in quantum physics, finance and systems biology. 
 
 Complex geometry, scattered data and high dimensionality can be difficult for some numerical methods for PDEs to deal with. However, these problem features are handled  relatively easily by radial basis function approaches. RBF methods represent the solution of PDEs as a combination of radial basis functions that can be placed anywhere in the computational domain. The suitability of RBFs for complex problems is evidenced by their use in applications, including fluid flow, geophysics, plasma physics, finance and biology. 
 
