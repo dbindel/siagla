@@ -1,5 +1,5 @@
 ---
-title: PhD position at University of Strathclyde: Novel preconditioned iterative solvers for radial basis function linear systems
+title: PhD position at University of Strathclyde on novel preconditioned iterative solvers for radial basis function linear systems
 page: 
 posted: 2017-12-04 00:00:00
 closes: 2018-02-04 12:00:00
