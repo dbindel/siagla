@@ -1,5 +1,5 @@
 ---
-title: PhD position at University of Strathclyde
+title: PhD position at University of Strathclyde: Novel preconditioned iterative solvers for radial basis function linear systems
 page: 
 posted: 2017-12-04 00:00:00
 closes: 2018-02-04 12:00:00
@@ -19,14 +19,12 @@ Mathematical modelling is increasingly used to investigate and understand phenom
 
 Complex geometry, scattered data and high dimensionality can be difficult for some numerical methods for PDEs to deal with. However, these problem features are handled  relatively easily by radial basis function approaches. RBF methods represent the solution of PDEs as a combination of radial basis functions that can be placed anywhere in the computational domain. The suitability of RBFs for complex problems is evidenced by their use in applications, including fluid flow, geophysics, plasma physics, finance and biology. 
 
-Despite their advantages for dealing with complex, real-world problems, RBF methods can be difficult to implement. This is because obtaining the combination of radial basis functions that describes the PDE solution requires the solution of one or more challenging (i.e., ill-conditioned) systems of linear equations. 
+Despite their advantages for dealing with complex, real-world problems, RBF methods can be difficult to implement. This is because obtaining the combination of radial basis functions that describes the PDE solution requires the solution of one or more challenging (i.e. ill-conditioned) systems of linear equations. 
 
 
 **Project details**
 
-This project will develop effective solvers for linear systems that arise in the numerical solution of PDEs by RBF-based approaches. In particular, we will focus on certain iterative methods (Krylov subspace methods) that start with an initial guess of the solution that is improved at each step. Since the rate of convergence of these methods depends on properties of the linear system, the focus of this project will be on developing equivalent linear systems for which convergence is faster; this process is known as preconditioning. At the core of this project will be the proposal, and analysis, of new preconditioners for RBF-based PDE solvers; this will combine mathematics with experimentation. 
-The preconditioners will be tested on real-world applications. 
-
+This project will develop effective solvers for linear systems in these RBF methods. In particular, we will focus on certain iterative methods (Krylov subspace methods) that start with an initial guess of the solution that is improved at each step. For these ill-conditioned RBF problems, finding matrices known as preconditioners that accelerate the solution process are essential. Thus, at the core of this project will be the proposal, and analysis, of new solvers for RBF-based PDE solvers. The preconditioners will be tested on real-world applications.
 
 **Application details** 
 
