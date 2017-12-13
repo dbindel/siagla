@@ -2520,3 +2520,20 @@
   pp_start: '1486'
   title: A Note on Constraint Preconditioning
   volume: '38'
+- authors: Nicat Aliyev, Peter Benner, Emre Mengi, Paul Schwerdtner and Matthias Voigt
+  date: '2017-12-12T08:00:00Z'
+  doi: doi:10.1137/16M1086200
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1086200?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1516'
+  pp_start: '1496'
+  title: Large-Scale Computation of $\mathcal{L}_\infty$-Norms by a Greedy Subspace
+    Method
+  volume: '38'
+- authors: Jiawang Nie
+  date: '2017-12-12T08:00:00Z'
+  doi: doi:10.1137/16M1107528
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1107528?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1540'
+  pp_start: '1517'
+  title: Low Rank Symmetric Tensor Approximations
+  volume: '38'
