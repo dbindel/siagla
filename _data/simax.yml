@@ -2553,3 +2553,12 @@
   pp_start: '1560'
   title: Symmetric Kronecker Products and Semiclassical Wave Packets
   volume: '38'
+- authors: Xue-lei Lin, Michael K. Ng and Hai-Wei Sun
+  date: '2017-12-21T08:00:00Z'
+  doi: doi:10.1137/17M1115447
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1115447?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1614'
+  pp_start: '1580'
+  title: A Splitting Preconditioner for Toeplitz-Like Linear Systems Arising from
+    Fractional Diffusion Equations
+  volume: '38'
