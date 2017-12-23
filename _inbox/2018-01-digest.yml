@@ -2,12 +2,53 @@ welcome:
 
 announce:
 
-  - title: 
+  - title: 15th Copper Mountain Conference on Iterative Methods (2nd announcement)
     content: |
-      
+      The Fifteenth Copper Mountain Conference on Iterative Methods
+
+                           March 25th - March 30, 2018
+                        Copper Mountain, Colorado, USA
+
+                              SECOND ANNOUNCEMENT
+
+
+      The Copper Mountain Conference on Iterative Methods, held every other
+      year, is the premiere conference on all aspects of iterative solution
+      methods and their applications. The meeting is organized in cooperation
+      with SIAM.
+
+      Important Deadlines:
+
+      Student competition papers: January 10, 2018  
+      [reserved to students who submitted an abstract by December 13, 2017]
+
+      Author abstracts: January 15, 2018
+
+      Early registration: January 19, 2018
+
+      Lodging: Please reserve early as rooms are limited (we recommend
+          booking no later than February 21 as any unclaimed rooms
+          will be released after that date)
+
+      Tutorial: on Sunday, March 25, starting at 1PM there will be a 3-4 hours 
+      tutorial led by
+      Van Henson on Iterative Methods for Data Analysis, aimed at 
+      graduate-level reasearch
+      assistants in numerical analysis. Topics include: solvers and 
+      preconditioning for graph
+      problems, matrix functions for graph analysis, spectral partitioning, 
+      eigenvector properties,
+      impact of skewed degree distributions, ranking algorithms, Markov 
+      chains, etc.
+
+      For additional information, see
+
+      <http://grandmaster.colorado.edu/~copper/2018>
+
 
 
 meetings:
  - 2018-05-21-cmipi
 
 jobs:
+- 2018-12-22-ucla
