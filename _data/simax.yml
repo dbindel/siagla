@@ -2562,3 +2562,20 @@
   title: A Splitting Preconditioner for Toeplitz-Like Linear Systems Arising from
     Fractional Diffusion Equations
   volume: '38'
+- authors: Jianze Li, Konstantin Usevich and Pierre Comon
+  date: '2018-01-09T08:00:00Z'
+  doi: doi:10.1137/17M1116295
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1116295?ai=s7&mi=3ezuvv&af=R
+  pp_end: '22'
+  pp_start: '1'
+  title: Globally Convergent Jacobi-Type Algorithms for Simultaneous Orthogonal Symmetric
+    Tensor Diagonalization
+  volume: '39'
+- authors: Daniel Kressner and Robert Luce
+  date: '2018-01-09T08:00:00Z'
+  doi: doi:10.1137/16M1083633
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1083633?ai=s7&mi=3ezuvv&af=R
+  pp_end: '47'
+  pp_start: '23'
+  title: Fast Computation of the Matrix Exponential for a Toeplitz Matrix
+  volume: '39'
