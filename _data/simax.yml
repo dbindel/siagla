@@ -2587,3 +2587,11 @@
   pp_start: '48'
   title: A Subspace Method for Large-Scale Eigenvalue Optimization
   volume: '39'
+- authors: Bal&#225;zs Gerencs&#233;r, Vladimir V. Gusev and Rapha&#235;l M. Jungers
+  date: '2018-01-16T08:00:00Z'
+  doi: doi:10.1137/16M1094099
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1094099?ai=s7&mi=3ezuvv&af=R
+  pp_end: '98'
+  pp_start: '83'
+  title: Primitive Sets of Nonnegative Matrices and Synchronizing Automata
+  volume: '39'
