@@ -2595,3 +2595,19 @@
   pp_start: '83'
   title: Primitive Sets of Nonnegative Matrices and Synchronizing Automata
   volume: '39'
+- authors: Simon Foucart
+  date: '2018-01-18T08:00:00Z'
+  doi: doi:10.1137/16M1090004
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1090004?ai=s7&mi=3ezuvv&af=R
+  pp_end: '103'
+  pp_start: '99'
+  title: Concave Mirsky Inequality and Low-Rank Recovery
+  volume: '39'
+- authors: Anna Ma, Deanna Needell and Aaditya Ramdas
+  date: '2018-01-18T08:00:00Z'
+  doi: doi:10.1137/17M1115678
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1115678?ai=s7&mi=3ezuvv&af=R
+  pp_end: '122'
+  pp_start: '104'
+  title: Iterative Methods for Solving Factorized Linear Systems
+  volume: '39'
