@@ -2,8 +2,27 @@ welcome:
 
 announce:
 
-  - title:
+  - title: C++ API for Batch BLAS
     content: |
+      As part of the ECP SLATE project, we are designing a standard C++ API for Batch
+      BLAS. We have published the initial draft of the proposed API as SLATE Working
+      Note #4:
+
+      <http://www.icl.utk.edu/publications/swan-004>
+
+      <http://www.icl.utk.edu/publications/series/swans>
+
+
+      Given the importance of such a standard, we would like to engage the broader
+      community in its development. To facilitate this collaboration, we have a SLATE
+      user mailing list. You can join this mailing list by going to the following URL:
+
+      <https://groups.google.com/a/icl.utk.edu/forum/#!forum/slate-user>
+
+      Once there, click the "Apply to join group" button. Please send any comments to
+      <slate-user@icl.utk.edu>
+
+      We look forward to a fruitful discussion and collaboration.
       
 
 
