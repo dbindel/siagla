@@ -2629,3 +2629,12 @@
   pp_start: '148'
   title: Reduction of Matrix Polynomials to Simpler Forms
   volume: '39'
+- authors: Massimiliano Fasi and Bruno Iannazzo
+  date: '2018-02-01T08:00:00Z'
+  doi: doi:10.1137/16M1073315
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1073315?ai=s7&mi=3ezuvv&af=R
+  pp_end: '203'
+  pp_start: '178'
+  title: Computing the Weighted Geometric Mean of Two Large-Scale Matrices and Its
+    Inverse Times a Vector
+  volume: '39'
