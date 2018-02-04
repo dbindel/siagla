@@ -1,6 +1,34 @@
-welcome:  
+welcome: The deadline for submitting proposals for the 2021 SIAM Conference on Applied Linear Algebra has been extended to Februrary 16. 
 
 announce:
+
+  - title: The SIAG/LA Officers seek input on a location for the 2021 SIAM Conference on Applied Linear Algebra.
+    content: |
+
+      The deadline for submitting input has been extended to 16 February, 2018.
+
+      Recommendations for locations within North America need not have a
+      local organizing committee, but it would be helpful to provide
+      justification on why the particular recommended location is a good
+      choice for the SIAM ALA Conference. Such recommendations can be
+      sent directly to Jim Nagy, SIAG/LA Chair, <jnagy@emory.edu>.
+
+      Note that it is possible to run the conference with limited or no SIAM
+      support or staff, or to hold the conference outside North America.
+      However, in these situations it is important to have a strong local
+      organizing team, and a formal proposal needs to be submitted to SIAM.  
+      For further details, see:
+
+      < http://www.siam.org/meetings/proposals/siag_run.php>
+
+      The deadline for submitting recommendations and/or proposals
+      has been extended to 16 February 2018.
+
+      SIAG/LA Team:  
+      Jim Nagy, Chair, <jnagy@emory.edu>  
+      Alison Ramage, Vice Chair, <a.ramage@strath.ac.uk>  
+      Melina Freitag, Program Director, <m.a.freitag@bath.ac.uk>  
+      Jen Pestana, Secretary, <jennifer.pestana@strath.ac.uk>
 
   - title: C++ API for Batch BLAS
     content: |
@@ -33,4 +61,4 @@ jobs:
 - 2018-01-07-tottori
 - 2018-01-09-mons
 - 2018-01-23-lanl
-- 2018-01-3-argonne
+- 2018-01-30-argonne
