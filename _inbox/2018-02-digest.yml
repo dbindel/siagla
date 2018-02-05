@@ -30,6 +30,28 @@ announce:
       Melina Freitag, Program Director, <m.a.freitag@bath.ac.uk>  
       Jen Pestana, Secretary, <jennifer.pestana@strath.ac.uk>
 
+  - title: SIAG/LA sponsored minisymposia/miniposteria at the upcoming SIAM Annual Meeting
+    content: |
+
+      We're pleased to announce that the following minisymposia and miniposterium at the [SIAM Annual Meeting](http://www.siam.org/meetings/an18/) in Portland, Oregon (July 9-13) will be sponsored by the SIAG/LA:
+
+      Minisymposia:
+
+      *"Randomized Numerical Algorithms: Foundations and Practice", organised by Ilse Ipsen
+      *"Numerical Range, Numerical Radius and K-Spectral Sets", organised by Michael Overton and Anne Greenbaum
+      *"​Recent Advances in Eigenvalue Solvers", organised by Agnieszka Miedlar and Roel Van Beeumen
+      *"Low-rank tensors and high-dimensional problems", organised by Bart Vandereycken and  Vladimir Kazeev
+      *"Linear Algebra in Network Computations", organised by Christine Klymko and Dan Taylor
+      *"Advances in preconditioned iterative solves for linear systems", organised by Chen Greif and Jennifer Pestana
+      
+      Miniposterium:
+      
+      * "Software for Numerical Linear Algebra", organised by James Nagy and Sarah Knepper 
+
+      We hope to see many of you at these sessions!
+
+      The SIAG/LA committee
+
   - title: C++ API for Batch BLAS
     content: |
       As part of the ECP SLATE project, we are designing a standard C++ API for Batch
