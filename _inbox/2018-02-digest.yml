@@ -2,7 +2,7 @@ welcome: The deadline for submitting proposals for the 2021 SIAM Conference on A
 
 announce:
 
-  - title: The SIAG/LA Officers seek input on a location for the 2021 SIAM Conference on Applied Linear Algebra.
+  - title: The SIAG/LA Officers seek input on a location for the 2021 SIAM Conference on Applied Linear Algebra
     content: |
 
       The deadline for submitting input has been extended to 16 February, 2018.
@@ -19,7 +19,7 @@ announce:
       organizing team, and a formal proposal needs to be submitted to SIAM.  
       For further details, see:
 
-      < http://www.siam.org/meetings/proposals/siag_run.php>
+      <http://www.siam.org/meetings/proposals/siag_run.php>
 
       The deadline for submitting recommendations and/or proposals
       has been extended to 16 February 2018.
@@ -30,19 +30,19 @@ announce:
       Melina Freitag, Program Director, <m.a.freitag@bath.ac.uk>  
       Jen Pestana, Secretary, <jennifer.pestana@strath.ac.uk>
 
-  - title: SIAG/LA sponsored minisymposia/miniposteria at the upcoming SIAM Annual Meeting
+  - title: SIAG/LA sponsored sessions at the upcoming SIAM Annual Meeting
     content: |
 
       We're pleased to announce that the following minisymposia and miniposterium at the [SIAM Annual Meeting](http://www.siam.org/meetings/an18/) in Portland, Oregon (July 9-13) will be sponsored by the SIAG/LA:
 
       Minisymposia:
 
-      *"Randomized Numerical Algorithms: Foundations and Practice", organised by Ilse Ipsen
-      *"Numerical Range, Numerical Radius and K-Spectral Sets", organised by Michael Overton and Anne Greenbaum
-      *"​Recent Advances in Eigenvalue Solvers", organised by Agnieszka Miedlar and Roel Van Beeumen
-      *"Low-rank tensors and high-dimensional problems", organised by Bart Vandereycken and  Vladimir Kazeev
-      *"Linear Algebra in Network Computations", organised by Christine Klymko and Dan Taylor
-      *"Advances in preconditioned iterative solves for linear systems", organised by Chen Greif and Jennifer Pestana
+      * "Randomized Numerical Algorithms: Foundations and Practice", organised by Ilse Ipsen
+      * "Numerical Range, Numerical Radius and K-Spectral Sets", organised by Michael Overton and Anne Greenbaum
+      * "​Recent Advances in Eigenvalue Solvers", organised by Agnieszka Miedlar and Roel Van Beeumen
+      * "Low-rank tensors and high-dimensional problems", organised by Bart Vandereycken and  Vladimir Kazeev
+      * "Linear Algebra in Network Computations", organised by Christine Klymko and Dan Taylor
+      * "Advances in preconditioned iterative solves for linear systems", organised by Chen Greif and Jennifer Pestana
       
       Miniposterium:
       
