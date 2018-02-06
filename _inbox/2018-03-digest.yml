@@ -1,0 +1,71 @@
+welcome: 
+
+announce:
+
+  - title: 
+    content: |
+
+      The deadline for submitting input has been extended to 16 February, 2018.
+
+      Recommendations for locations within North America need not have a
+      local organizing committee, but it would be helpful to provide
+      justification on why the particular recommended location is a good
+      choice for the SIAM ALA Conference. Such recommendations can be
+      sent directly to Jim Nagy, SIAG/LA Chair, <jnagy@emory.edu>.
+
+      Note that it is possible to run the conference with limited or no SIAM
+      support or staff, or to hold the conference outside North America.
+      However, in these situations it is important to have a strong local
+      organizing team, and a formal proposal needs to be submitted to SIAM.  
+      For further details, see:
+
+      <http://www.siam.org/meetings/proposals/siag_run.php>
+
+      The deadline for submitting recommendations and/or proposals
+      has been extended to 16 February 2018.
+
+      SIAG/LA Team:  
+      Jim Nagy, Chair, <jnagy@emory.edu>  
+      Alison Ramage, Vice Chair, <a.ramage@strath.ac.uk>  
+      Melina Freitag, Program Director, <m.a.freitag@bath.ac.uk>  
+      Jen Pestana, Secretary, <jennifer.pestana@strath.ac.uk>
+
+  - title: SIAG/LA sponsored sessions at the upcoming SIAM Annual Meeting
+    content: |
+
+      We're pleased to announce that the following minisymposia and miniposterium at the [SIAM Annual Meeting](http://www.siam.org/meetings/an18/) in Portland, Oregon (July 9-13) will be sponsored by the SIAG/LA:
+
+      Minisymposia:
+
+      * "Randomized Numerical Algorithms: Foundations and Practice", organised by Ilse Ipsen
+      * "Numerical Range, Numerical Radius and K-Spectral Sets", organised by Michael Overton and Anne Greenbaum
+      * "​Recent Advances in Eigenvalue Solvers", organised by Agnieszka Miedlar and Roel Van Beeumen
+      * "Low-rank tensors and high-dimensional problems", organised by Bart Vandereycken and  Vladimir Kazeev
+      * "Linear Algebra in Network Computations", organised by Christine Klymko and Dan Taylor
+      * "Advances in preconditioned iterative solves for linear systems", organised by Chen Greif and Jennifer Pestana
+      
+      Miniposterium:
+      
+      * "Software for Numerical Linear Algebra", organised by James Nagy and Sarah Knepper 
+
+      We hope to see many of you at these sessions!
+
+      The SIAG/LA committee
+
+  - title: C++ API for Batch BLAS
+    content: |
+      As part of the ECP SLATE project, we are designing a standard C++ API for Batch
+      BLAS. We have published the initial draft of the proposed API as SLATE Working
+      Note #4:
+
+      <http://www.icl.utk.edu/publications/swan-004>
+
+      <http://www.icl.utk.edu/publications/series/swans>
+
+
+
+meetings:
+ - 
+
+jobs:
+- 2018-02-06-colorado
