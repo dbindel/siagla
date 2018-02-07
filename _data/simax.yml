@@ -2638,3 +2638,12 @@
   title: Computing the Weighted Geometric Mean of Two Large-Scale Matrices and Its
     Inverse Times a Vector
   volume: '39'
+- authors: Vu Hoang Linh, Ngo Thi Thanh Nga and Do Duc Thuan
+  date: '2018-02-06T08:00:00Z'
+  doi: doi:10.1137/16M1104548
+  link: http://epubs.siam.org/doi/abs/10.1137/16M1104548?ai=s7&mi=3ezuvv&af=R
+  pp_end: '233'
+  pp_start: '204'
+  title: Exponential Stability and Robust Stability for Linear Time-Varying Singular
+    Systems of Second Order Difference Equations
+  volume: '39'
