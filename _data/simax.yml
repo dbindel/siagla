@@ -2647,3 +2647,12 @@
   title: Exponential Stability and Robust Stability for Linear Time-Varying Singular
     Systems of Second Order Difference Equations
   volume: '39'
+- authors: Ralf Zimmermann, Benjamin Peherstorfer and Karen Willcox
+  date: '2018-02-15T08:00:00Z'
+  doi: doi:10.1137/17M1123286
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1123286?ai=s7&mi=3ezuvv&af=R
+  pp_end: '261'
+  pp_start: '234'
+  title: Geometric Subspace Updates with Applications to Online Adaptive Nonlinear
+    Model Reduction
+  volume: '39'
