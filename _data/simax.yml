@@ -2656,3 +2656,20 @@
   title: Geometric Subspace Updates with Applications to Online Adaptive Nonlinear
     Model Reduction
   volume: '39'
+- authors: Luis Garc&#237;a Ramos and Reinhard Nabben
+  date: '2018-02-20T08:00:00Z'
+  doi: doi:10.1137/16M108361X
+  link: http://epubs.siam.org/doi/abs/10.1137/16M108361X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '286'
+  pp_start: '262'
+  title: On the Spectrum of Deflated Matrices with Applications to the Deflated Shifted
+    Laplace Preconditioner for the Helmholtz Equation
+  volume: '39'
+- authors: Paul Breiding and Nick Vannieuwenhoven
+  date: '2018-02-20T08:00:00Z'
+  doi: doi:10.1137/17M1142880
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1142880?ai=s7&mi=3ezuvv&af=R
+  pp_end: '309'
+  pp_start: '287'
+  title: The Condition Number of Join Decompositions
+  volume: '39'
