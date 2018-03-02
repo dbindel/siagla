@@ -2673,3 +2673,37 @@
   pp_start: '287'
   title: The Condition Number of Join Decompositions
   volume: '39'
+- authors: Peter Grindrod, Desmond J. Higham and Vanni Noferini
+  date: '2018-03-01T08:00:00Z'
+  doi: doi:10.1137/17M1112297
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1112297?ai=s7&mi=3ezuvv&af=R
+  pp_end: '341'
+  pp_start: '310'
+  title: The Deformed Graph Laplacian and Its Applications to Network Centrality Analysis
+  volume: '39'
+- authors: Thomas Ransford and Felix L. Schwenninger
+  date: '2018-03-01T08:00:00Z'
+  doi: doi:10.1137/17M1143757
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1143757?ai=s7&mi=3ezuvv&af=R
+  pp_end: '345'
+  pp_start: '342'
+  title: Remarks on the Crouzeix--Palencia Proof that the Numerical Range is a (1+\sqrt2)-Spectral
+    Set
+  volume: '39'
+- authors: Christer Glader, Mikael Kurula and Mikael Lindstr&#246;m
+  date: '2018-03-01T08:00:00Z'
+  doi: doi:10.1137/17M1110663
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1110663?ai=s7&mi=3ezuvv&af=R
+  pp_end: '364'
+  pp_start: '346'
+  title: Crouzeix's Conjecture Holds for Tridiagonal 3 x 3 Matrices with Elliptic
+    Numerical Range Centered at an Eigenvalue
+  volume: '39'
+- authors: Michael Stewart
+  date: '2018-03-01T08:00:00Z'
+  doi: doi:10.1137/17M1111334
+  link: http://epubs.siam.org/doi/abs/10.1137/17M1111334?ai=s7&mi=3ezuvv&af=R
+  pp_end: '399'
+  pp_start: '365'
+  title: Numerical Rank Deficiency in Matrix Products
+  volume: '39'
