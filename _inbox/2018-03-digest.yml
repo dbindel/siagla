@@ -2,8 +2,51 @@ welcome:
 
 announce:
 
-  - title: 
+  - title: James H. Wilkinson Prize for Numerical Software - Call for Entries
     content: |
+      We are now accepting entries for the [James H. Wilkinson Prize for Numerical Software](http://www.siam.org/prizes/sponsored/wilkinson_ns.php). The prize is awarded every four years to the authors of an outstanding piece of numerical software. The prize is awarded for an entry that best addresses all phases of the preparation of high-quality numerical software. It is intended to recognize innovative software in scientific computing and to encourage researchers in the earlier stages of their career.
+      
+      SIAM will award the Wilkinson Prize for Numerical Software at the SIAM Conference on Computational Science and Engineering (CSE19). The award will consist of $3,000 and a plaque. As part of the award, the recipient(s) will be expected to present a lecture at the conference.
+ 
+      **Eligibility Criteria**
+      
+      Selection will be based on: clarity of the software implementation and documentation, importance of the application(s) addressed by the software; portability, reliability, efficiency, and usability of the software implementation; clarity and depth of analysis of the algorithms and the software in the accompanying paper; and quality of the test software.
+      
+      Candidates must have worked in mathematics or science for at most 12 years (full time equivalent) after receiving their PhD as of January 1 of the award year, allowing for breaks in continuity. The prize committee can make exceptions, if in their opinion the candidate is at an equivalent stage in their career.
+
+      For the 2019 award, a candidate must have received their PhD no earlier than January 1, 2007.
+
+      ** Entry Deadline **  
+
+      June 1, 2018
+
+      ** Required Materials **
+      
+      - CVs of the authors of the software, at most two pages per author (PDF)    
+      - A two-page summary of the main features of the algorithm and software implementation (PDF)  
+      - A paper describing the algorithm and the software implementation (PDF)  
+      - Open source software written in a widely available high-level programming language. The software should be submitted in a gzipped .tar archive with a README file describing the contents of the archive. Each submission should include documentation, examples of the use of the software, a test program, and scripts for executing the test programs.  
+ 
+      ** Previous recipients **
+ 
+      Previous recipients of the James H. Wilkinson Prize for Numerical Software are
+ 
+      2015 Patrick Farrell, Simon Funke, David Ham, and Marie Rognes for dolfin-adjoint   
+      2011 Andreas Waechter and Carl Laird for IPOPT  
+      2007 Wolfgang Bangerth, Guido Kanschat, and Ralf Hartmann for deal.II  
+      2003 Jonathan Shewchuk for Triangle  
+      1999 Matteo Frigo and Steven Johnson for FFTW   
+      1995 Chris Bischof and Alan Carle for ADIFOR 2.0   
+      1991 Linda Petzold for DASSL  
+ 
+      ** Selection Committee **
+      Jorge Mor&eacute; (Chair), Argonne National Laboratory
+      Sven Hammarling, Numerical Algorithms Group Ltd and University of Manchester
+      Michael Heroux, Sandia National Laboratories
+      Randall J. LeVeque, University of Washington
+      Katherine Yelick, Lawrence Berkeley National Laboratory
+
+      [Learn more](http://www.siam.org/prizes/) about our prize program and [view all prizes with open calls](http://www.siam.org/prizes/nominations.php). Contact <prizeadmin@siam.org> with questions regarding nomination procedure.
 
 
 meetings:
