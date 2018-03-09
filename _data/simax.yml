@@ -2707,3 +2707,11 @@
   pp_start: '365'
   title: Numerical Rank Deficiency in Matrix Products
   volume: '39'
+- authors: Zhening Li, Yuji Nakatsukasa, Tasuku Soma and Andr&#233; Uschmajew
+  date: '2018-03-08T08:00:00Z'
+  doi: doi:10.1137/17M1144349
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1144349?ai=s7&mi=3ezuvv&af=R
+  pp_end: '425'
+  pp_start: '400'
+  title: On Orthogonal Tensors and Best Rank-One Approximation Ratio
+  volume: '39'
