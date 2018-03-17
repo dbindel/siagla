@@ -2733,3 +2733,19 @@
   pp_start: '451'
   title: Desingularization of Bounded-Rank Matrix Sets
   volume: '39'
+- authors: Massimiliano Fasi and Nicholas J. Higham
+  date: '2018-03-15T07:00:00Z'
+  doi: doi:10.1137/17M1129866
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1129866?ai=s7&mi=3ezuvv&af=R
+  pp_end: '491'
+  pp_start: '472'
+  title: Multiprecision Algorithms for Computing the Matrix Logarithm
+  volume: '39'
+- authors: Howard C. Elman and Tengfei Su
+  date: '2018-03-15T07:00:00Z'
+  doi: doi:10.1137/17M1125170
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1125170?ai=s7&mi=3ezuvv&af=R
+  pp_end: '509'
+  pp_start: '492'
+  title: A Low-Rank Multigrid Method for the Stochastic Steady-State Diffusion Problem
+  volume: '39'
