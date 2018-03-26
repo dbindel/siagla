@@ -2,9 +2,44 @@ welcome:
 
 announce:
 
-  - title: 
-    content: |
-      
+  - title: Special Issue, Parallel Computing, PMAA'18, Zurich
+    content: | 
+      A special issue of Parallel Computing (Elsevier) will be devoted to 
+      the 10th International Workshop on Parallel Matrix Algorithms and 
+      Applications (PMAA'18) that will take place in Zurich, June 27-29, 2018, 
+      <https://pmaa18.inf.ethz.ch/>. 
+
+      Papers submitted to the special issue should have a strong parallel 
+      computing and numerical linear algebra components including numerical 
+      analysis, scientific and industrial applications, software 
+      development, and high performance computing. The topics to be covered 
+      in the issue include, but are not limited to: Parallel methods for 
+      solving large sparse or dense linear systems of equations. Parallel 
+      eigenvalue and singular value computations. Automatic tuning and 
+      performance modeling. Novel architectural paradigms (e.g. GPU and 
+      multicore) and their use in matrix computations and applications. 
+      Large scale scientific applications from diverse fields which have an 
+      emphasis on parallel matrix computation. 
+
+      Manuscripts will undergo the standard Parallel Computing 
+      peer-reviewing process. They must be submitted electronically via 
+      Elsevier's editorial system at URL 
+
+      <https://www.journals.elsevier.com/parallel-computing/call-for-papers/parallel-matrix-algorithms-and-applications> 
+
+      Authors are to follow the instructions in the Guide for Authors. In 
+      particular, when choosing the "Article Type" during the submission 
+      process, make sure you select the type "SI: PMAA'18". 
+
+      For any questions, please contact Olaf Schenk (<olaf.schenk@usi.ch>) 
+
+      Deadline for submissions of full papers: October 15, 2018    
+      Reviews due: December 30, 2018  
+      Deadline for re-submission of revised papers: February 28, 2019  
+
+      The managing guest editor of this special issue is Olaf Schenk (USI Lugano). 
+      Further  editors are Luc Giraud (Inria, Bordeaux), Wim Vanroose 
+      (University of Antwerp), and Peter Arbenz (ETH Zurich). 
 
 meetings:
  - 2018-06-27-pmaa
