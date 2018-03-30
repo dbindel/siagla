@@ -2749,3 +2749,19 @@
   pp_start: '492'
   title: A Low-Rank Multigrid Method for the Stochastic Steady-State Diffusion Problem
   volume: '39'
+- authors: Florian Feppon and Pierre F. J. Lermusiaux
+  date: '2018-03-29T07:00:00Z'
+  doi: doi:10.1137/16M1095202
+  link: https://epubs.siam.org/doi/abs/10.1137/16M1095202?ai=s7&mi=3ezuvv&af=R
+  pp_end: '538'
+  pp_start: '510'
+  title: A Geometric Approach to Dynamical Model Order Reduction
+  volume: '39'
+- authors: Bernhard Beckermann, Daniel Kressner and Marcel Schweitzer
+  date: '2018-03-29T07:00:00Z'
+  doi: doi:10.1137/17M1140108
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1140108?ai=s7&mi=3ezuvv&af=R
+  pp_end: '565'
+  pp_start: '539'
+  title: Low-Rank Updates of Matrix Functions
+  volume: '39'
