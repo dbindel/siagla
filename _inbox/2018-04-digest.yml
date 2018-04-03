@@ -2,54 +2,6 @@ welcome: In the digest are a number of special calls, as well as details of upco
 
 announce:
 
-  - title: SISC Copper Mountain Special Section
-    content:
-      The Fifteenth Copper Mountain Conference on Iterative Methods was held 
-      on March 25-30, 2018.
-      The meeting attracted over 200 participants from around the world, and 
-      there were more than 170
-      talks covering a broad spectrum of topics related to iterative solvers
-
-      <http://grandmaster.colorado.edu/~copper/2018/>
-
-      The SIAM Journal on Scientific Computing (SISC) is dedicating a Special
-      Section to recent progress
-      in iterative methods. Submissions are encouraged in all aspects of 
-      iterative methods including the
-      following areas
-
-      - stochastic PDEs and uncertainty quantification,    
-      - iterative linear algebraic techniques for data mining,  
-      - optimization,  
-      - inverse problems,  
-      - large-scale eigenvalue and singular value computations,  
-      - iterative methods in imaging,  
-      - Krylov accelerators,
-      - preconditioning,   
-      - iterative solvers on high concurrency node architectures,
-      - multigrid,
-      - domain decomposition,
-      - nonlinear solution methods,  
-      - surrogate methods/model order reduction,  
-      - low-rank approximations,
-      - nonlinear least squares,    
-      - solvers for indefinite systems,   
-      - hybrid direct/iterative solvers,
-      - robust and scalable solvers for coupled multi-physics problems (electromagnetics, fluids, neutronics),  
-      - iterative methods for energy applications and climate modeling,  
-      - solvers for quantum chemistry/physics applications.  
-
-      Submissions are accepted until May 31, 2018. Attendees and participants
-      of the conference as well as the
-      general community are invited to submit papers.  For submission 
-      instructions and additional information see
-      <http://www.siam.org/journals/sisc/special.php> and 
-      <http://grandmaster.colorado.edu/copper/2018/about.html#specialissue>
-
-      We are looking forward to your submission. If you have any questions, 
-      please contact Irad Yavneh (<irad@cs.technion.ac.il>)
-
-
   - title: ACM TOMS Editor-in-Chief Search
     content: 
       An open search has begun for a new Editor-in-Chief of the ACM
@@ -123,4 +75,4 @@ meetings:
  - 2018-05-14-lyon
 
 jobs:
-- 2018-04-02-edinburgh
+- 
