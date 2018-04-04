@@ -2765,3 +2765,12 @@
   pp_start: '539'
   title: Low-Rank Updates of Matrix Functions
   volume: '39'
+- authors: Petros Drineas, Ilse C. F. Ipsen, Eugenia-Maria Kontopoulou and Malik Magdon-Ismail
+  date: '2018-04-03T07:00:00Z'
+  doi: doi:10.1137/16M1091745
+  link: https://epubs.siam.org/doi/abs/10.1137/16M1091745?ai=s7&mi=3ezuvv&af=R
+  pp_end: '586'
+  pp_start: '567'
+  title: Structural Convergence Results for Approximation of Dominant Subspaces from
+    Block Krylov Spaces
+  volume: '39'
