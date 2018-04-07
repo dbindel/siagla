@@ -2774,3 +2774,19 @@
   title: Structural Convergence Results for Approximation of Dominant Subspaces from
     Block Krylov Spaces
   volume: '39'
+- authors: Rafikul Alam and Namita Behera
+  date: '2018-04-05T07:00:00Z'
+  doi: doi:10.1137/16M1108200
+  link: https://epubs.siam.org/doi/abs/10.1137/16M1108200?ai=s7&mi=3ezuvv&af=R
+  pp_end: '610'
+  pp_start: '587'
+  title: Generalized Fiedler Pencils for Rational Matrix Functions
+  volume: '39'
+- authors: Lei-Hong Zhang, Chungen Shen, Wei Hong Yang and Joaquim J. J&#250;dice
+  date: '2018-04-05T07:00:00Z'
+  doi: doi:10.1137/17M1111401
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1111401?ai=s7&mi=3ezuvv&af=R
+  pp_end: '631'
+  pp_start: '611'
+  title: A Lanczos Method for Large-Scale Extreme Lorentz Eigenvalue Problems
+  volume: '39'
