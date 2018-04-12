@@ -2,10 +2,22 @@ welcome:
 
 announce:
 
-  - title: 
+  - title: An invitation - SIAG LA Business Meeting
     content: 
+      To all Members of the SIAM Activity Group on Linear Algebra:
+
+      You are cordially invited to attend the biennial business meeting of the SIAM Activity Group on Linear Algebra, Friday, May 4th, 2018 at 5:15-6:00pm in the Tsang Chan Sik Yue Auditorium, Second floor of the Academic and Administration Building of the Hong Kong Baptist University during the upcoming SIAM Conference on Applied Linear Algebra (LA18)  conference in Hong Kong.
+
+      Participation in the SIAG/LA business meeting is open to all members of the SIAM Activity Group on Linear Algebra. The meeting will be chaired by SIAG/LA Chair, James G. Nagy. The agenda for the meeting will consist of a review of SIAG/LA activities including plans for the next conference.
+
+      The SIAG/LA is your activity group.  Its business meeting is an opportunity to discuss important issues and directions for the SIAG. Please plan to attend the business meeting and share your ideas on what the activity group could be doing for the Linear Algebra community in the future.
+
+      Thank you.
+
+      SIAM
       
 meetings:
  
 jobs:
 - 2018-04-06-icl 
+- 2018-04-12-strathclyde
