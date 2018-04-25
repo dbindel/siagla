@@ -2798,3 +2798,21 @@
   pp_start: '632'
   title: A Unified Approach to Spectral and Isotropic Functions
   volume: '39'
+- authors: Sirani M. Perera and Jianhua Liu
+  date: '2018-04-24T07:00:00Z'
+  doi: doi:10.1137/17M1114557
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1114557?ai=s7&mi=3ezuvv&af=R
+  pp_end: '682'
+  pp_start: '664'
+  title: Lowest Complexity Self-Recursive Radix-2 DCT II/III Algorithms
+  volume: '39'
+- authors: Meiyue Shao, Felipe H. da Jornada, Lin Lin, Chao Yang, Jack Deslippe and
+    Steven G. Louie
+  date: '2018-04-24T07:00:00Z'
+  doi: doi:10.1137/16M1102641
+  link: https://epubs.siam.org/doi/abs/10.1137/16M1102641?ai=s7&mi=3ezuvv&af=R
+  pp_end: '711'
+  pp_start: '683'
+  title: A Structure Preserving Lanczos Algorithm for Computing the Optical Absorption
+    Spectrum
+  volume: '39'
