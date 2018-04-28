@@ -2816,3 +2816,12 @@
   title: A Structure Preserving Lanczos Algorithm for Computing the Optical Absorption
     Spectrum
   volume: '39'
+- authors: Daniel Ruiz, Annick Sartenaer and Charlotte Tannier
+  date: '2018-04-26T07:00:00Z'
+  doi: doi:10.1137/16M108152X
+  link: https://epubs.siam.org/doi/abs/10.1137/16M108152X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '736'
+  pp_start: '712'
+  title: Refining the Lower Bound on the Positive Eigenvalues of Saddle Point Matrices
+    with Insights on the Interactions between the Blocks
+  volume: '39'
