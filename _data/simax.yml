@@ -2825,3 +2825,11 @@
   title: Refining the Lower Bound on the Positive Eigenvalues of Saddle Point Matrices
     with Insights on the Interactions between the Blocks
   volume: '39'
+- authors: Bernhard Beckermann, Clara Mertens and Raf Vandebril
+  date: '2018-05-01T07:00:00Z'
+  doi: doi:10.1137/17M1114363
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1114363?ai=s7&mi=3ezuvv&af=R
+  pp_end: '768'
+  pp_start: '737'
+  title: On an Economic Arnoldi Method for $BML$-Matrices
+  volume: '39'
