@@ -4,6 +4,17 @@
 # an award for a two-part paper in 2009.
 
 -
+  awardees: Jiawang Nie
+  year: 2018
+  papers:
+  - title: "Generating Polynomials and Symmetric Tensor Decompositions"
+    journal: Foundations of Computational Mathematics
+    volume: 17
+    pages: 423-465
+    year: 2017
+    url: http://epubs.siam.org/doi/abs/10.1137/130913651
+
+-
   awardees: David Bindel and Amanda Hood
   year: 2015
   papers:

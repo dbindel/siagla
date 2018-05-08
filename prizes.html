@@ -8,19 +8,19 @@ nav: prizes
 sponsors two prizes: the SIAM Activity Group on
 Linear Algebra Prize and the SIAG/Linear Algebra Early Career Prize</p>
 
-<p><b>
-  <a href="prize_call.html">Nominations for the next paper prize</a> 
-  are due Oct 15, 2017.
-</b></p>
+#<p><b>
+#  <a href="prize_call.html">Nominations for the next paper prize</a> 
+#  are due Oct 15, 2017.
+#</b></p>
 
-<p><b>
-  <a href="prize_early_career_call.html">Nominations for the next 
-  early career prize</a> 
-  are due Nov 1, 2017.
-</b></p>
+#<p><b>
+#  <a href="prize_early_career_call.html">Nominations for the next 
+#  early career prize</a> 
+#  are due Nov 1, 2017.
+#</b></p>
 
 <h4>SIAM Activity Group on Linear Algebra
-Prize</h4>
+Paper Prize</h4>
 
 <p>Established in 1987, the <a target="_blank"
 href="http://www.siam.org/prizes/sponsored/siagla.php">
@@ -66,7 +66,7 @@ journal.</p>
 </div>
 
 <h4>SIAM Activity Group on Linear Algebra
-Prize</h4>
+Early Career Prize</h4>
 
 <p>Established in 2017, the <a target="_blank"
 href="http://www.siam.org/prizes/sponsored/siaglaecareer.php">
@@ -78,6 +78,22 @@ for distinguished contributions to the field within six (6) years
 of receiving the PhD or equivalent degree as of January 1 of the 
 year of the award.</p>
 
+<div class="pure-g">
+  {% assign prevyr = "0000" %}
+  {% for prize in site.data.prizes_earlycareer %}
+  <div class="pure-u-1 pure-u-md-1-5 pure-u-lg-1-8">
+  {% if prize.year != prevyr %}
+    <h3>{{ prize.year }}</h3>
+  {% endif %}
+  </div>
+  {% assign prevyr = prize.year %}
+  <div class="pure-u-1 pure-u-md-4-5 pure-u-lg-7-8">
+    <p>
+      {{ prize.awardees }}
+    </p>
+  </div>
+  {% endfor %}
+</div>
 
 
 <h4>SIAM Activity Group on Linear Algebra Poster
