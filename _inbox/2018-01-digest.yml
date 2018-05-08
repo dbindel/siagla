@@ -1,55 +1,17 @@
-welcome: Happy New Year from the SIAG/LA committee! We hope 2018 is a great year for all of you. 
+welcome: It has been great to see so many of you at the SIAM ALA meeting in Hong Kong and to see the wide range of topics on which people are working.  
 
 announce:
 
-  - title: 15th Copper Mountain Conference on Iterative Methods (2nd announcement)
+  - title: SIAG/LA Prize Winners
     content: |
-      The Fifteenth Copper Mountain Conference on Iterative Methods
+      Jiawang Nie (University of California San Diego) and Alex Townsend (Cornell University) were awarded the SIAG/LA Paper Prize and SIAG/LA Early Career Prize, respectively, at the SIAM ALA meeting. Jiawang was recognised for his paper titled "Generating Polynomials and Symmetric Tensor Decompositions" (Foundations of Computational Mathematics 17(2) 423-465 (2017)), while Alex received his award for his distinguished contributions to linear algebra. Congratulations to Jiawang and Alex!
 
-                           March 25th - March 30, 2018
-                        Copper Mountain, Colorado, USA
-
-                              SECOND ANNOUNCEMENT
-
-
-      The Copper Mountain Conference on Iterative Methods, held every other
-      year, is the premiere conference on all aspects of iterative solution
-      methods and their applications. The meeting is organized in cooperation
-      with SIAM.
-
-      Important Deadlines:
-
-      Student competition papers: January 10, 2018  
-      [reserved to students who submitted an abstract by December 13, 2017]
-
-      Author abstracts: January 15, 2018
-
-      Early registration: January 19, 2018
-
-      Lodging: Please reserve early as rooms are limited (we recommend
-          booking no later than February 21 as any unclaimed rooms
-          will be released after that date)
-
-      Tutorial: on Sunday, March 25, starting at 1PM there will be a 3-4 hours 
-      tutorial led by
-      Van Henson on Iterative Methods for Data Analysis, aimed at 
-      graduate-level reasearch
-      assistants in numerical analysis. Topics include: solvers and 
-      preconditioning for graph
-      problems, matrix functions for graph analysis, spectral partitioning, 
-      eigenvector properties,
-      impact of skewed degree distributions, ranking algorithms, Markov 
-      chains, etc.
-
-      For additional information, see
-
-      <http://grandmaster.colorado.edu/~copper/2018>
 
 
 
 meetings:
- - 2018-05-21-cmipi
- - 2018-06-27-nlao
+ -2020-06-22-ilas
 
 jobs:
-- 2017-12-22-ucla
+- 2018-04-06-icl 
+- 2018-04-12-strathclyde

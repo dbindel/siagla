@@ -1,18 +1,17 @@
-welcome: It has been great to see so many of you at the SIAM ALA meeting in Hong Kong. 
+welcome: It has been great to see so many of you at the SIAM ALA meeting in Hong Kong and to hear about the wide variety of topics on which people are working. 
 
 announce:
 
-    - title: SIAG/LA Prize Winners
-    - content:
-      Congratulations to Jiawang Nie (University of California San Diego) and Alex Townsend (Cornell University), who were awarded the SIAG/LA Prizes Paper Prize and SIAG/LA Early Career Prize, respectively.
+  - title: SIAGLA Prize Winners
 
-Jiawang was recognised for his paper "Generating Polynomials and Symmetric Tensor Decompositions", Foundations of Computational Mathematics 17(2): 423-465 (2017). Alex was 
+    content: |
+        At the SIAM ALA meeting in Hong Kong, Jiawang Nie and Alex Townsend were awarded the SIAG/LA Best Paper Prize and the SIAG/LA Early Career Prize, respectively. Jiawang was recognised for the paper "Generating Polynomials and Symmetric Tensor Decompositions", Foundations of Computational Mathematics 17(2) 423-465 (2017), while Alex received his prize for distinguished contributions to linear algebra. Congratulations to Jiawang and Alex!
 
-      
-      
+
+
 meetings:
-- 2020-06-22-ilas
- 
+ - 2018-05-14-lyon
+
 jobs:
-- 2018-04-06-icl 
+- 2018-04-06-icl
 - 2018-04-12-strathclyde
