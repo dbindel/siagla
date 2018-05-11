@@ -2833,3 +2833,28 @@
   pp_start: '737'
   title: On an Economic Arnoldi Method for $BML$-Matrices
   volume: '39'
+- authors: Trevor Caldwell, Anne Greenbaum and Kenan Li
+  date: '2018-05-10T07:00:00Z'
+  doi: doi:10.1137/17M1140832
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1140832?ai=s7&mi=3ezuvv&af=R
+  pp_end: '780'
+  pp_start: '769'
+  title: Some Extensions of the Crouzeix--Palencia Result
+  volume: '39'
+- authors: Jeffrey Uhlmann
+  date: '2018-05-10T07:00:00Z'
+  doi: doi:10.1137/17M113890X
+  link: https://epubs.siam.org/doi/abs/10.1137/17M113890X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '800'
+  pp_start: '781'
+  title: A Generalized Matrix Inverse That Is Consistent with Respect to Diagonal
+    Transformations
+  volume: '39'
+- authors: Evan S. Gawlik and Melvin Leok
+  date: '2018-05-10T07:00:00Z'
+  doi: doi:10.1137/17M1130459
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1130459?ai=s7&mi=3ezuvv&af=R
+  pp_end: '828'
+  pp_start: '801'
+  title: High-Order Retractions on Matrix Manifolds Using Projected Polynomials
+  volume: '39'
