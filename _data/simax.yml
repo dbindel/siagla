@@ -2866,3 +2866,20 @@
   pp_start: '829'
   title: Preserving Positive Definiteness in Hierarchically Semiseparable Matrix Approximations
   volume: '39'
+- authors: Junjun Pan and Michael K. Ng
+  date: '2018-05-22T07:00:00Z'
+  doi: doi:10.1137/16M1107863
+  link: https://epubs.siam.org/doi/abs/10.1137/16M1107863?ai=s7&mi=3ezuvv&af=R
+  pp_end: '875'
+  pp_start: '856'
+  title: Orthogonal Nonnegative Matrix Factorization by Sparsity and Nuclear Norm
+    Optimization
+  volume: '39'
+- authors: Casey Battaglino, Grey Ballard and Tamara G. Kolda
+  date: '2018-05-22T07:00:00Z'
+  doi: doi:10.1137/17M1112303
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1112303?ai=s7&mi=3ezuvv&af=R
+  pp_end: '901'
+  pp_start: '876'
+  title: A Practical Randomized CP Tensor Decomposition
+  volume: '39'
