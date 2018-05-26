@@ -2883,3 +2883,37 @@
   pp_start: '876'
   title: A Practical Randomized CP Tensor Decomposition
   volume: '39'
+- authors: Fatemeh Panjeh Ali Beik and Michele Benzi
+  date: '2018-05-24T07:00:00Z'
+  doi: doi:10.1137/17M1121226
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1121226?ai=s7&mi=3ezuvv&af=R
+  pp_end: '921'
+  pp_start: '902'
+  title: Iterative Methods for Double Saddle Point Systems
+  volume: '39'
+- authors: Serge Gratton and David Titley-Peloquin
+  date: '2018-05-24T07:00:00Z'
+  doi: doi:10.1137/17M1137541
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1137541?ai=s7&mi=3ezuvv&af=R
+  pp_end: '931'
+  pp_start: '922'
+  title: Improved Bounds for Small-Sample Estimation
+  volume: '39'
+- authors: Daniel Drzisga, Lorenz John, Ulrich R&#252;de, Barbara Wohlmuth and Walter
+    Zulehner
+  date: '2018-05-24T07:00:00Z'
+  doi: doi:10.1137/16M1106304
+  link: https://epubs.siam.org/doi/abs/10.1137/16M1106304?ai=s7&mi=3ezuvv&af=R
+  pp_end: '960'
+  pp_start: '932'
+  title: On the Analysis of Block Smoothers for Saddle Point Problems
+  volume: '39'
+- authors: Daniel Kressner, Ding Lu and Bart Vandereycken
+  date: '2018-05-24T07:00:00Z'
+  doi: doi:10.1137/17M1127545
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1127545?ai=s7&mi=3ezuvv&af=R
+  pp_end: '982'
+  pp_start: '961'
+  title: Subspace Acceleration for the Crawford Number and Related Eigenvalue Optimization
+    Problems
+  volume: '39'
