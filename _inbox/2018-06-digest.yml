@@ -1,12 +1,10 @@
-welcome: 
+welcome: In the digest are several upcoming meetings, as well as the minutes from the recent SIAG/LA business meeting. 
 announce:
 
   - title: SIAG/LA Business Meeting Minutes
     content: |
-      The minutes from the SIAG/LA Business Meeting, which was held at the SIAM ALA meeting in Hong Kong, are now available from the website.
-       
-
-
+      The minutes from the SIAG/LA Business Meeting, which was held at the SIAM ALA meeting in Hong Kong, are now available from the [website](http://siags.siam.org/siagla//2018/05/04/minutes.html).
+ 
 meetings:
  - 2018-08-13-dimacs
  - 2018-08-15-mopta
