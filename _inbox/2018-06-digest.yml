@@ -1,8 +1,9 @@
 welcome: 
 announce:
 
-  - title: 
+  - title: SIAG/LA Business Meeting Minutes
     content: |
+      The minutes from the SIAG/LA Business Meeting, which was held at the SIAM ALA meeting in Hong Kong, are now available from the website.
        
 
 
@@ -12,4 +13,4 @@ meetings:
  - 2019-06-10-ieee
  
 jobs:
-- 
+- 2018-04-12-strathclyde
