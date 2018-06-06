@@ -2917,3 +2917,20 @@
   title: Subspace Acceleration for the Crawford Number and Related Eigenvalue Optimization
     Problems
   volume: '39'
+- authors: Peter Benner, Pawan Goyal and Serkan Gugercin
+  date: '2018-06-05T07:00:00Z'
+  doi: doi:10.1137/16M1098280
+  link: https://epubs.siam.org/doi/abs/10.1137/16M1098280?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1032'
+  pp_start: '983'
+  title: $\mathcal H_2$-Quasi-Optimal Model Order Reduction for Quadratic-Bilinear
+    Control Systems
+  volume: '39'
+- authors: Keiichi Morikuni and Miroslav Rozlo&#382;n&#237;k
+  date: '2018-06-05T07:00:00Z'
+  doi: doi:10.1137/17M1128216
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1128216?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1048'
+  pp_start: '1033'
+  title: On GMRES for Singular EP and GP Systems
+  volume: '39'
