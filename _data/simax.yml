@@ -2934,3 +2934,11 @@
   pp_start: '1033'
   title: On GMRES for Singular EP and GP Systems
   volume: '39'
+- authors: Klaus Neymeyr and Mathias Sawall
+  date: '2018-06-12T07:00:00Z'
+  doi: doi:10.1137/17M1118439
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1118439?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1069'
+  pp_start: '1049'
+  title: On the Set of Solutions of the Nonnegative Matrix Factorization Problem
+  volume: '39'
