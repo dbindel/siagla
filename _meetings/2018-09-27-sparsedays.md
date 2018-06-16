@@ -23,7 +23,7 @@ direction.
 Information on accommodation can be found on the web page and a
 limited amount of free on site accommodation should be available for
 students. Students wanting to apply for this accommodation should
-contact Brigitte Yzel on yzel@cerfacs.fr.
+contact Brigitte Yzel on <yzel@cerfacs.fr>.
 
 More information: <https://sparsedays.cerfacs.fr/en/>
 
