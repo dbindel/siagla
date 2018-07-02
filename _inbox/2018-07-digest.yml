@@ -1,9 +1,10 @@
-welcome:
+welcome: In the digest this month are a number of conference and job announcements.
 
 announce:
 
-  - title: 
+  - title: stuff
     content: |
+      stuff
       
 meetings:
  - 2018-09-27-sparsedays
@@ -11,4 +12,4 @@ meetings:
 jobs:
 - 2018-06-05-utk
 - 2018-06-05-aachen
-- 2018-06-23-tuberlin (add pdf to email)
+- 2018-06-23-tuberlin
