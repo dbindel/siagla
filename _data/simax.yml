@@ -2942,3 +2942,11 @@
   pp_start: '1049'
   title: On the Set of Solutions of the Nonnegative Matrix Factorization Problem
   volume: '39'
+- authors: Satoru Iwata and Mizuyo Takamatsu
+  date: '2018-07-03T07:00:00Z'
+  doi: doi:10.1137/17M111794X
+  link: https://epubs.siam.org/doi/abs/10.1137/17M111794X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1151'
+  pp_start: '1135'
+  title: Index Reduction via Unimodular Transformations
+  volume: '39'
