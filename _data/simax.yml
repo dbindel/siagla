@@ -2942,6 +2942,31 @@
   pp_start: '1049'
   title: On the Set of Solutions of the Nonnegative Matrix Factorization Problem
   volume: '39'
+- authors: Ariel Jaffe, Roi Weiss and Boaz Nadler
+  date: '2018-07-03T07:00:00Z'
+  doi: doi:10.1137/17M1133312
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1133312?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1094'
+  pp_start: '1071'
+  title: Newton Correction Methods for Computing Real Eigenpairs of Symmetric Tensors
+  volume: '39'
+- authors: Yu Guan, Moody T. Chu and Delin Chu
+  date: '2018-07-03T07:00:00Z'
+  doi: doi:10.1137/17M1136699
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1136699?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1115'
+  pp_start: '1095'
+  title: SVD-Based Algorithms for the Best Rank-1 Approximation of a Symmetric Tensor
+  volume: '39'
+- authors: Fernando De Ter&#225;n
+  date: '2018-07-03T07:00:00Z'
+  doi: doi:10.1137/17M1124735
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1124735?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1134'
+  pp_start: '1116'
+  title: A Geometric Description of the Sets of Palindromic and Alternating Matrix
+    Pencils with Bounded Rank
+  volume: '39'
 - authors: Satoru Iwata and Mizuyo Takamatsu
   date: '2018-07-03T07:00:00Z'
   doi: doi:10.1137/17M111794X
