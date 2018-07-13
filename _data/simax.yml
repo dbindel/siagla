@@ -2975,3 +2975,20 @@
   pp_start: '1135'
   title: Index Reduction via Unimodular Transformations
   volume: '39'
+- authors: Zlatko Drma&#269; and Arvind Krishna Saibaba
+  date: '2018-07-12T07:00:00Z'
+  doi: doi:10.1137/17M1129635
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1129635?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1180'
+  pp_start: '1152'
+  title: 'The Discrete Empirical Interpolation Method: Canonical Structure and Formulation
+    in Weighted Inner Product Spaces'
+  volume: '39'
+- authors: Jiang Hu, Andre Milzarek, Zaiwen Wen and Yaxiang Yuan
+  date: '2018-07-12T07:00:00Z'
+  doi: doi:10.1137/17M1142478
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1142478?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1207'
+  pp_start: '1181'
+  title: Adaptive Quadratically Regularized Newton Method for Riemannian Optimization
+  volume: '39'
