@@ -3009,3 +3009,21 @@
   title: Computing Low-Rank Approximations of Large-Scale Matrices with the Tensor
     Network Randomized SVD
   volume: '39'
+- authors: Jared L. Aurentz, Thomas Mach, Leonardo Robol, Raf Vandebril and David
+    S. Watkins
+  date: '2018-08-14T07:00:00Z'
+  doi: doi:10.1137/17M1152802
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1152802?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1269'
+  pp_start: '1245'
+  title: 'Fast and Backward Stable Computation of Roots of Polynomials, Part II: Backward
+    Error Analysis; Companion Matrix and Companion Pencil'
+  volume: '39'
+- authors: Zvonimir Bujanovi&#263;, Lars Karlsson and Daniel Kressner
+  date: '2018-08-14T07:00:00Z'
+  doi: doi:10.1137/17M1153637
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1153637?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1294'
+  pp_start: '1270'
+  title: A Householder-Based Algorithm for Hessenberg-Triangular Reduction
+  volume: '39'
