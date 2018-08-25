@@ -3035,3 +3035,11 @@
   pp_start: '1295'
   title: 'LSMB: Minimizing the Backward Error for Least-Squares Problems'
   volume: '39'
+- authors: Erin C. Carson
+  date: '2018-08-23T07:00:00Z'
+  doi: doi:10.1137/16M1107942
+  link: https://epubs.siam.org/doi/abs/10.1137/16M1107942?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1338'
+  pp_start: '1318'
+  title: The Adaptive $s$-Step Conjugate Gradient Method
+  volume: '39'
