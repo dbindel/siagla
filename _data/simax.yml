@@ -3043,3 +3043,11 @@
   pp_start: '1318'
   title: The Adaptive $s$-Step Conjugate Gradient Method
   volume: '39'
+- authors: Wenjian Yu, Yu Gu and Yaohang Li
+  date: '2018-08-30T07:00:00Z'
+  doi: doi:10.1137/17M1141977
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1141977?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1359'
+  pp_start: '1339'
+  title: Efficient Randomized Algorithms for the Fixed-Precision Low-Rank Matrix Approximation
+  volume: '39'
