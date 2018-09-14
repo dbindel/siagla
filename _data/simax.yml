@@ -3051,3 +3051,11 @@
   pp_start: '1339'
   title: Efficient Randomized Algorithms for the Fixed-Precision Low-Rank Matrix Approximation
   volume: '39'
+- authors: Yunfeng Cai, Lei-Hong Zhang, Zhaojun Bai and Ren-Cang Li
+  date: '2018-09-13T07:00:00Z'
+  doi: doi:10.1137/17M115935X
+  link: https://epubs.siam.org/doi/abs/10.1137/17M115935X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1382'
+  pp_start: '1360'
+  title: On an Eigenvector-Dependent Nonlinear Eigenvalue Problem
+  volume: '39'
