@@ -3059,3 +3059,12 @@
   pp_start: '1360'
   title: On an Eigenvector-Dependent Nonlinear Eigenvalue Problem
   volume: '39'
+- authors: Pietro Benedusi, Carlo Garoni, Rolf Krause, Xiaozhou Li and Stefano Serra-Capizzano
+  date: '2018-09-20T07:00:00Z'
+  doi: doi:10.1137/17M113527X
+  link: https://epubs.siam.org/doi/abs/10.1137/17M113527X?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1420'
+  pp_start: '1383'
+  title: 'Space-Time FE-DG Discretization of the Anisotropic Diffusion Equation in
+    Any Dimension: The Spectral Symbol'
+  volume: '39'
