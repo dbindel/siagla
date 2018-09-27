@@ -3068,3 +3068,28 @@
   title: 'Space-Time FE-DG Discretization of the Anisotropic Diffusion Equation in
     Any Dimension: The Spectral Symbol'
   volume: '39'
+- authors: Simon Telen, Bernard Mourrain and Marc Van Barel
+  date: '2018-09-25T07:00:00Z'
+  doi: doi:10.1137/17M1162433
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1162433?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1447'
+  pp_start: '1421'
+  title: Solving Polynomial Systems via Truncated Normal Forms
+  volume: '39'
+- authors: Evan S. Gawlik, Yuji Nakatsukasa and Brian D. Sutton
+  date: '2018-09-25T07:00:00Z'
+  doi: doi:10.1137/18M1182747
+  link: https://epubs.siam.org/doi/abs/10.1137/18M1182747?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1469'
+  pp_start: '1448'
+  title: A Backward Stable Algorithm for Computing the CS Decomposition via the Polar
+    Decomposition
+  volume: '39'
+- authors: Fredrik Andersson and Marcus Carlsson
+  date: '2018-09-25T07:00:00Z'
+  doi: doi:10.1137/17M1137267
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1137267?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1488'
+  pp_start: '1470'
+  title: ESPRIT for Multidimensional General Grids
+  volume: '39'
