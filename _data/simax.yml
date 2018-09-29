@@ -3093,3 +3093,11 @@
   pp_start: '1470'
   title: ESPRIT for Multidimensional General Grids
   volume: '39'
+- authors: C. Mehl, V. Mehrmann and M. Wojtylak
+  date: '2018-09-27T07:00:00Z'
+  doi: doi:10.1137/18M1164275
+  link: https://epubs.siam.org/doi/abs/10.1137/18M1164275?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1519'
+  pp_start: '1489'
+  title: Linear Algebra Properties of Dissipative Hamiltonian Descriptor Systems
+  volume: '39'
