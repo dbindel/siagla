@@ -2,8 +2,9 @@ welcome: In the digest this month are a number of conference and job announcemen
 
 announce:
 
-  - title: 
+  - title: SIAG/LA Elections
     content: |
+      The election of new officers for the SIAG/LA is now open through November 20th, 2018 at 12:00am ET. You should by now have received an email with your unique link and votor informaton. Questions regarding the election process should be sent to <SIAMElectionManager@siam.org>.
       
       
       
@@ -14,3 +15,4 @@ meetings:
 jobs:
 - 2018-10-05-ucboulder
 - 2018-10-07-strathclyde
+- 2018-10-11-sandia
