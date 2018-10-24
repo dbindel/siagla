@@ -3118,3 +3118,19 @@
   title: On the Explicit Expression of Chordal Metric between Generalized Singular
     Values of Grassmann Matrix Pairs with Applications
   volume: '39'
+- authors: Stefano Massei, Davide Palitta and Leonardo Robol
+  date: '2018-10-23T07:00:00Z'
+  doi: doi:10.1137/17M1157155
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1157155?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1590'
+  pp_start: '1564'
+  title: Solving Rank-Structured Sylvester and Lyapunov Equations
+  volume: '39'
+- authors: Nicola Mastronardi and Paul Van Dooren
+  date: '2018-10-23T07:00:00Z'
+  doi: doi:10.1137/17M1139321
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1139321?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1615'
+  pp_start: '1591'
+  title: The $QR$ Steps with Perfect Shifts
+  volume: '39'
