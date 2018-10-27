@@ -3134,3 +3134,11 @@
   pp_start: '1591'
   title: The $QR$ Steps with Perfect Shifts
   volume: '39'
+- authors: Yuehua Feng, Jianwei Xiao and Ming Gu
+  date: '2018-10-25T07:00:00Z'
+  doi: doi:10.1137/17M1150013
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1150013?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1641'
+  pp_start: '1616'
+  title: Randomized Complete Pivoting for Solving Symmetric Indefinite Linear Systems
+  volume: '39'
