@@ -3142,3 +3142,11 @@
   pp_start: '1616'
   title: Randomized Complete Pivoting for Solving Symmetric Indefinite Linear Systems
   volume: '39'
+- authors: Nicola Guglielmi and Vladimir Yu. Protasov
+  date: '2018-11-13T08:00:00Z'
+  doi: doi:10.1137/18M1172454
+  link: https://epubs.siam.org/doi/abs/10.1137/18M1172454?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1669'
+  pp_start: '1642'
+  title: On the Closest Stable/Unstable Nonnegative Matrix and Related Stability Radii
+  volume: '39'
