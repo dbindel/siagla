@@ -3150,3 +3150,11 @@
   pp_start: '1642'
   title: On the Closest Stable/Unstable Nonnegative Matrix and Related Stability Radii
   volume: '39'
+- authors: A. Amparan, F. M. Dopico, S. Marcaida and I. Zaballa
+  date: '2018-11-20T08:00:00Z'
+  doi: doi:10.1137/16M1099510
+  link: https://epubs.siam.org/doi/abs/10.1137/16M1099510?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1700'
+  pp_start: '1670'
+  title: Strong Linearizations of Rational Matrices
+  volume: '39'
