@@ -3158,3 +3158,30 @@
   pp_start: '1670'
   title: Strong Linearizations of Rational Matrices
   volume: '39'
+- authors: Emmanuel Agullo, Eric Darve, Luc Giraud and Yuval Harness
+  date: '2018-11-27T08:00:00Z'
+  doi: doi:10.1137/17M1151158
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1151158?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1725'
+  pp_start: '1701'
+  title: Low-Rank Factorizations in Data Sparse Hierarchical Algorithms for Preconditioning
+    Symmetric Positive Definite Matrices
+  volume: '39'
+- authors: S&#233;bastien Loisel and Peter Maxwell
+  date: '2018-11-27T08:00:00Z'
+  doi: doi:10.1137/17M1148608
+  link: https://epubs.siam.org/doi/abs/10.1137/17M1148608?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1749'
+  pp_start: '1726'
+  title: Path-Following Method to Determine the Field of Values of a Matrix with High
+    Accuracy
+  volume: '39'
+- authors: Arnab Ghosh and Rafikul Alam
+  date: '2018-11-27T08:00:00Z'
+  doi: doi:10.1137/18M1181377
+  link: https://epubs.siam.org/doi/abs/10.1137/18M1181377?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1775'
+  pp_start: '1750'
+  title: Sensitivity and Backward Perturbation Analysis of Multiparameter Eigenvalue
+    Problems
+  volume: '39'
