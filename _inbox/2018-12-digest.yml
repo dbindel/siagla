@@ -1,15 +1,23 @@
-welcome: 
+welcome: In the digest this month are a number of job and conference announcements. 
 
 announce:
 
-  - title: 
+  - title: ICIAM 2019 - Deadlines Approaching for Minisymposia Proposals, Contributed Papers, and Posters
     content: |
- 
+      The 9th International Congress on Industrial and Applied Mathematics (ICIAM 2019)  will be held in Valencia, Spain, July 15-19, 2019.
       
+      Delegates willing to organize a Minisymposium, or submit a Contributed Paper or Poster are invited to visit the Submissions & Calls section within the 'For Participants' menu tab at <www.iciam2019.com>.
+ 
+      Deadlines  
+      - Minisymposium Proposals Deadline: December 10, 2018  
+      - Contributed Paper Submission Deadline: January 7, 2019  
+      - Poster Submission Deadline: April 1, 2019
+
       
 meetings:
- - 
+ - 2019-07-22-networks
  
 jobs:
 - 2018-11-07-ices
 - 2018-11-08-wm
+- 2018-11-23-liverpool
