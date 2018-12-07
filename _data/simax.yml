@@ -3185,3 +3185,11 @@
   title: Sensitivity and Backward Perturbation Analysis of Multiparameter Eigenvalue
     Problems
   volume: '39'
+- authors: Emre Mengi
+  date: '2018-12-06T08:00:00Z'
+  doi: doi:10.1137/18M1177019
+  link: https://epubs.siam.org/doi/abs/10.1137/18M1177019?ai=s7&mi=3ezuvv&af=R
+  pp_end: '1809'
+  pp_start: '1776'
+  title: Large-Scale and Global Maximization of the Distance to Instability
+  volume: '39'
