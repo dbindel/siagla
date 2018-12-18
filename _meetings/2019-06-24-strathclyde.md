@@ -28,4 +28,9 @@ Margaret Wright (Courant Institute)
 The A R Mitchell lecture will be given by Des Higham and the
 Fletcher-Powell lecture by Margaret Wright.
 
+**Deadlines**
+
+- Minisymposium topics: 31 March, 2019  
+- Contributed talks: 30 April, 2019  
+
 Further information may be found at <http://www.naconf.org.uk>
