@@ -1,6 +1,6 @@
 ---
 title: Postdoctoral position, Numerical Linear Algebra, University of Edinburgh
-page:  https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.display_form
+page:  
 posted: 2018-12-19 12:00:00
 closes: 2019-01-22 12:00:00
 ---
