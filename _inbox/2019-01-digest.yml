@@ -1,6 +1,27 @@
-welcome: 
+welcome: Happy New Year! This edition of the SIAG LA digest will be my last as secretary of the SIAG, as the SIAG welcomes Christine Klymko as the new secretary. 
 
 announce:
+
+  - title: New SIAG/LA Officers
+    content: |
+
+      On behalf of the SIAG/LA we would like to welcome the new officers, whose term started on January 1
+
+      Chair Valeria Simoncini
+
+      Vice Chair Melina Freitag
+
+      Program Director Miroslav T&#367;ma
+
+      Secretary Christine Klymko
+
+      We wish them the very best for their upcoming term! 
+
+
+      Also a big thank you to those who participated in the election by running for office or being part of the nomination committee. 
+
+      
+
 
   - title: Rising Stars in Computational and Data Sciences
     content: |
@@ -19,7 +40,8 @@ announce:
       
       
 meetings:
- - 2019-06-03-hmi
+- 2019-06-03-hmi
+- 2019-06-17-g2s3 
  
 jobs:
 - 2018-12-06-ices
