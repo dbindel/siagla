@@ -2,18 +2,18 @@
 # The format is fairly self-explanatory.
 
  - office: Chair
-   name: James Nagy
-   url: http://www.mathcs.emory.edu/~nagy/
-   email: nagy@mathcs.emory.edu
+   name: Valeria Simoncini 
+   url: http://www.dm.unibo.it/~simoncin/welcome.html 
+   email: valeria.simoncini@unibo.it 
  - office: Vice Chair
-   name: Alison Ramage
-   url: http://personal.strath.ac.uk/a.ramage/
-   email: a.ramage@strath.ac.uk
- - office: Program Directory
-   name: Melina Freitag
-   url: http://people.bath.ac.uk/mamamf/
-   email: m.a.freitag@bath.ac.uk
+   name: Melina Freitag 
+   url: http://people.bath.ac.uk/mamamf/ 
+   email: m.a.freitag@bath.ac.uk 
+ - office: Program Director
+   name: Miroslav Tuma 
+   url: http://www.karlin.mff.cuni.cz/~mirektuma/
+   email: mirektuma@karlin.mff.cuni.cz
  - office: Secretary
-   name: Jennifer Pestana
-   url: http://personal.strath.ac.uk/jennifer.pestana
-   email: jennifer.pestana@strath.ac.uk
+   name: Christine Klymko 
+   url: https://people.llnl.gov/klymko1 
+   email: klymko1@llnl.gov
